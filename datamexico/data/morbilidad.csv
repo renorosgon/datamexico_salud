@@ -1,0 +1,4276 @@
+﻿"year","state_id","state","cve_cie","morbilidad"
+2012,1,"Aguascalientes","A00-B99",1729
+2012,1,"Aguascalientes","C00-D48",742
+2012,1,"Aguascalientes","D50-D89",406
+2012,1,"Aguascalientes","E00-E90",3166
+2012,1,"Aguascalientes","F00-F99",5975
+2012,1,"Aguascalientes","G00-G99",1911
+2012,1,"Aguascalientes","H00-H59",2467
+2012,1,"Aguascalientes","I00-I99",2175
+2012,1,"Aguascalientes","J00-J99",21353
+2012,1,"Aguascalientes","K00-K93",12528
+2012,1,"Aguascalientes","L00-L99",2170
+2012,1,"Aguascalientes","M00-M99",4579
+2012,1,"Aguascalientes","N00-N99",9354
+2012,1,"Aguascalientes","O00-O99",30599
+2012,1,"Aguascalientes","P00-P96",225
+2012,1,"Aguascalientes","Q00-Q99",407
+2012,1,"Aguascalientes","R00-R99",6181
+2012,1,"Aguascalientes","S00-T99",32392
+2012,1,"Aguascalientes","Z00-Z99",8146
+2012,2,"Baja California","A00-B99",3241
+2012,2,"Baja California","C00-D48",1413
+2012,2,"Baja California","D50-D89",813
+2012,2,"Baja California","E00-E90",6302
+2012,2,"Baja California","F00-F99",2468
+2012,2,"Baja California","G00-G99",2477
+2012,2,"Baja California","H00-H59",3971
+2012,2,"Baja California","I00-I99",3952
+2012,2,"Baja California","J00-J99",24878
+2012,2,"Baja California","K00-K93",18762
+2012,2,"Baja California","L00-L99",4044
+2012,2,"Baja California","M00-M99",6593
+2012,2,"Baja California","N00-N99",10006
+2012,2,"Baja California","O00-O99",8340
+2012,2,"Baja California","P00-P96",373
+2012,2,"Baja California","Q00-Q99",237
+2012,2,"Baja California","R00-R99",11928
+2012,2,"Baja California","S00-T99",22864
+2012,2,"Baja California","Z00-Z99",48883
+2012,3,"Baja California Sur","A00-B99",1516
+2012,3,"Baja California Sur","C00-D48",360
+2012,3,"Baja California Sur","D50-D89",242
+2012,3,"Baja California Sur","E00-E90",2219
+2012,3,"Baja California Sur","F00-F99",1183
+2012,3,"Baja California Sur","G00-G99",1552
+2012,3,"Baja California Sur","H00-H59",3551
+2012,3,"Baja California Sur","I00-I99",897
+2012,3,"Baja California Sur","J00-J99",17469
+2012,3,"Baja California Sur","K00-K93",9514
+2012,3,"Baja California Sur","L00-L99",2320
+2012,3,"Baja California Sur","M00-M99",4379
+2012,3,"Baja California Sur","N00-N99",5271
+2012,3,"Baja California Sur","O00-O99",3362
+2012,3,"Baja California Sur","P00-P96",269
+2012,3,"Baja California Sur","Q00-Q99",84
+2012,3,"Baja California Sur","R00-R99",6101
+2012,3,"Baja California Sur","S00-T99",10129
+2012,3,"Baja California Sur","Z00-Z99",11590
+2012,4,"Campeche","A00-B99",2599
+2012,4,"Campeche","C00-D48",471
+2012,4,"Campeche","D50-D89",269
+2012,4,"Campeche","E00-E90",2525
+2012,4,"Campeche","F00-F99",1480
+2012,4,"Campeche","G00-G99",898
+2012,4,"Campeche","H00-H59",1800
+2012,4,"Campeche","I00-I99",798
+2012,4,"Campeche","J00-J99",14714
+2012,4,"Campeche","K00-K93",7711
+2012,4,"Campeche","L00-L99",2080
+2012,4,"Campeche","M00-M99",2523
+2012,4,"Campeche","N00-N99",5620
+2012,4,"Campeche","O00-O99",13568
+2012,4,"Campeche","P00-P96",181
+2012,4,"Campeche","Q00-Q99",28
+2012,4,"Campeche","R00-R99",5989
+2012,4,"Campeche","S00-T99",11489
+2012,4,"Campeche","Z00-Z99",5738
+2012,5,"Coahuila de Zaragoza","A00-B99",1842
+2012,5,"Coahuila de Zaragoza","C00-D48",1342
+2012,5,"Coahuila de Zaragoza","D50-D89",500
+2012,5,"Coahuila de Zaragoza","E00-E90",4190
+2012,5,"Coahuila de Zaragoza","F00-F99",1491
+2012,5,"Coahuila de Zaragoza","G00-G99",917
+2012,5,"Coahuila de Zaragoza","H00-H59",2459
+2012,5,"Coahuila de Zaragoza","I00-I99",1574
+2012,5,"Coahuila de Zaragoza","J00-J99",13316
+2012,5,"Coahuila de Zaragoza","K00-K93",9982
+2012,5,"Coahuila de Zaragoza","L00-L99",1909
+2012,5,"Coahuila de Zaragoza","M00-M99",2719
+2012,5,"Coahuila de Zaragoza","N00-N99",7753
+2012,5,"Coahuila de Zaragoza","O00-O99",25361
+2012,5,"Coahuila de Zaragoza","P00-P96",765
+2012,5,"Coahuila de Zaragoza","Q00-Q99",398
+2012,5,"Coahuila de Zaragoza","R00-R99",4783
+2012,5,"Coahuila de Zaragoza","S00-T99",16769
+2012,5,"Coahuila de Zaragoza","Z00-Z99",13569
+2012,6,"Colima","A00-B99",1226
+2012,6,"Colima","C00-D48",375
+2012,6,"Colima","D50-D89",284
+2012,6,"Colima","E00-E90",3177
+2012,6,"Colima","F00-F99",1341
+2012,6,"Colima","G00-G99",912
+2012,6,"Colima","H00-H59",1959
+2012,6,"Colima","I00-I99",869
+2012,6,"Colima","J00-J99",10325
+2012,6,"Colima","K00-K93",6565
+2012,6,"Colima","L00-L99",1406
+2012,6,"Colima","M00-M99",2417
+2012,6,"Colima","N00-N99",3980
+2012,6,"Colima","O00-O99",1994
+2012,6,"Colima","P00-P96",200
+2012,6,"Colima","Q00-Q99",79
+2012,6,"Colima","R00-R99",5172
+2012,6,"Colima","S00-T99",14622
+2012,6,"Colima","Z00-Z99",4889
+2012,7,"Chiapas","A00-B99",10818
+2012,7,"Chiapas","C00-D48",2618
+2012,7,"Chiapas","D50-D89",1542
+2012,7,"Chiapas","E00-E90",10370
+2012,7,"Chiapas","F00-F99",2997
+2012,7,"Chiapas","G00-G99",2488
+2012,7,"Chiapas","H00-H59",4373
+2012,7,"Chiapas","I00-I99",2871
+2012,7,"Chiapas","J00-J99",45697
+2012,7,"Chiapas","K00-K93",25165
+2012,7,"Chiapas","L00-L99",5409
+2012,7,"Chiapas","M00-M99",6420
+2012,7,"Chiapas","N00-N99",18676
+2012,7,"Chiapas","O00-O99",33046
+2012,7,"Chiapas","P00-P96",1091
+2012,7,"Chiapas","Q00-Q99",441
+2012,7,"Chiapas","R00-R99",12961
+2012,7,"Chiapas","S00-T99",28752
+2012,7,"Chiapas","Z00-Z99",73076
+2012,8,"Chihuahua","A00-B99",345
+2012,8,"Chihuahua","C00-D48",464
+2012,8,"Chihuahua","D50-D89",132
+2012,8,"Chihuahua","E00-E90",864
+2012,8,"Chihuahua","F00-F99",414
+2012,8,"Chihuahua","G00-G99",435
+2012,8,"Chihuahua","H00-H59",446
+2012,8,"Chihuahua","I00-I99",837
+2012,8,"Chihuahua","J00-J99",3569
+2012,8,"Chihuahua","K00-K93",3247
+2012,8,"Chihuahua","L00-L99",603
+2012,8,"Chihuahua","M00-M99",1241
+2012,8,"Chihuahua","N00-N99",2115
+2012,8,"Chihuahua","O00-O99",5118
+2012,8,"Chihuahua","P00-P96",38
+2012,8,"Chihuahua","Q00-Q99",30
+2012,8,"Chihuahua","R00-R99",1612
+2012,8,"Chihuahua","S00-T99",6460
+2012,8,"Chihuahua","Z00-Z99",6187
+2012,9,"Ciudad de México","A00-B99",12342
+2012,9,"Ciudad de México","C00-D48",3997
+2012,9,"Ciudad de México","D50-D89",2062
+2012,9,"Ciudad de México","E00-E90",22812
+2012,9,"Ciudad de México","F00-F99",11568
+2012,9,"Ciudad de México","G00-G99",8572
+2012,9,"Ciudad de México","H00-H59",12235
+2012,9,"Ciudad de México","I00-I99",12100
+2012,9,"Ciudad de México","J00-J99",97608
+2012,9,"Ciudad de México","K00-K93",55582
+2012,9,"Ciudad de México","L00-L99",12858
+2012,9,"Ciudad de México","M00-M99",26431
+2012,9,"Ciudad de México","N00-N99",49318
+2012,9,"Ciudad de México","O00-O99",106272
+2012,9,"Ciudad de México","P00-P96",2352
+2012,9,"Ciudad de México","Q00-Q99",1098
+2012,9,"Ciudad de México","R00-R99",35916
+2012,9,"Ciudad de México","S00-T99",172974
+2012,9,"Ciudad de México","Z00-Z99",81609
+2012,10,"Durango","A00-B99",3114
+2012,10,"Durango","C00-D48",314
+2012,10,"Durango","D50-D89",343
+2012,10,"Durango","E00-E90",3888
+2012,10,"Durango","F00-F99",2596
+2012,10,"Durango","G00-G99",3548
+2012,10,"Durango","H00-H59",3573
+2012,10,"Durango","I00-I99",1883
+2012,10,"Durango","J00-J99",28814
+2012,10,"Durango","K00-K93",13409
+2012,10,"Durango","L00-L99",3133
+2012,10,"Durango","M00-M99",5884
+2012,10,"Durango","N00-N99",8950
+2012,10,"Durango","O00-O99",20070
+2012,10,"Durango","P00-P96",146
+2012,10,"Durango","Q00-Q99",70
+2012,10,"Durango","R00-R99",321
+2012,10,"Durango","S00-T99",21108
+2012,10,"Durango","Z00-Z99",19213
+2012,11,"Guanajuato","A00-B99",7865
+2012,11,"Guanajuato","C00-D48",3727
+2012,11,"Guanajuato","D50-D89",2173
+2012,11,"Guanajuato","E00-E90",19397
+2012,11,"Guanajuato","F00-F99",8129
+2012,11,"Guanajuato","G00-G99",6646
+2012,11,"Guanajuato","H00-H59",7785
+2012,11,"Guanajuato","I00-I99",7286
+2012,11,"Guanajuato","J00-J99",97547
+2012,11,"Guanajuato","K00-K93",47605
+2012,11,"Guanajuato","L00-L99",9921
+2012,11,"Guanajuato","M00-M99",15434
+2012,11,"Guanajuato","N00-N99",34174
+2012,11,"Guanajuato","O00-O99",44172
+2012,11,"Guanajuato","P00-P96",2379
+2012,11,"Guanajuato","Q00-Q99",735
+2012,11,"Guanajuato","R00-R99",26416
+2012,11,"Guanajuato","S00-T99",149883
+2012,11,"Guanajuato","Z00-Z99",98252
+2012,12,"Guerrero","A00-B99",4982
+2012,12,"Guerrero","C00-D48",1129
+2012,12,"Guerrero","D50-D89",1398
+2012,12,"Guerrero","E00-E90",7210
+2012,12,"Guerrero","F00-F99",2086
+2012,12,"Guerrero","G00-G99",2039
+2012,12,"Guerrero","H00-H59",2762
+2012,12,"Guerrero","I00-I99",2729
+2012,12,"Guerrero","J00-J99",24006
+2012,12,"Guerrero","K00-K93",15817
+2012,12,"Guerrero","L00-L99",2876
+2012,12,"Guerrero","M00-M99",4027
+2012,12,"Guerrero","N00-N99",10469
+2012,12,"Guerrero","O00-O99",23653
+2012,12,"Guerrero","P00-P96",890
+2012,12,"Guerrero","Q00-Q99",284
+2012,12,"Guerrero","R00-R99",14683
+2012,12,"Guerrero","S00-T99",35028
+2012,12,"Guerrero","Z00-Z99",37418
+2012,13,"Hidalgo","A00-B99",1429
+2012,13,"Hidalgo","C00-D48",1655
+2012,13,"Hidalgo","D50-D89",951
+2012,13,"Hidalgo","E00-E90",6524
+2012,13,"Hidalgo","F00-F99",1743
+2012,13,"Hidalgo","G00-G99",1966
+2012,13,"Hidalgo","H00-H59",1445
+2012,13,"Hidalgo","I00-I99",3020
+2012,13,"Hidalgo","J00-J99",15582
+2012,13,"Hidalgo","K00-K93",14686
+2012,13,"Hidalgo","L00-L99",1683
+2012,13,"Hidalgo","M00-M99",4232
+2012,13,"Hidalgo","N00-N99",8665
+2012,13,"Hidalgo","O00-O99",25427
+2012,13,"Hidalgo","P00-P96",577
+2012,13,"Hidalgo","Q00-Q99",187
+2012,13,"Hidalgo","R00-R99",8444
+2012,13,"Hidalgo","S00-T99",32220
+2012,13,"Hidalgo","Z00-Z99",37127
+2012,14,"Jalisco","A00-B99",10043
+2012,14,"Jalisco","C00-D48",2219
+2012,14,"Jalisco","D50-D89",1546
+2012,14,"Jalisco","E00-E90",10800
+2012,14,"Jalisco","F00-F99",12213
+2012,14,"Jalisco","G00-G99",6148
+2012,14,"Jalisco","H00-H59",11488
+2012,14,"Jalisco","I00-I99",7200
+2012,14,"Jalisco","J00-J99",90761
+2012,14,"Jalisco","K00-K93",44934
+2012,14,"Jalisco","L00-L99",9169
+2012,14,"Jalisco","M00-M99",17296
+2012,14,"Jalisco","N00-N99",31450
+2012,14,"Jalisco","O00-O99",66592
+2012,14,"Jalisco","P00-P96",1735
+2012,14,"Jalisco","Q00-Q99",571
+2012,14,"Jalisco","R00-R99",61551
+2012,14,"Jalisco","S00-T99",86387
+2012,14,"Jalisco","Z00-Z99",131841
+2012,15,"Estado de México","A00-B99",13084
+2012,15,"Estado de México","C00-D48",5805
+2012,15,"Estado de México","D50-D89",2968
+2012,15,"Estado de México","E00-E90",32194
+2012,15,"Estado de México","F00-F99",11886
+2012,15,"Estado de México","G00-G99",11398
+2012,15,"Estado de México","H00-H59",11764
+2012,15,"Estado de México","I00-I99",11153
+2012,15,"Estado de México","J00-J99",143551
+2012,15,"Estado de México","K00-K93",78214
+2012,15,"Estado de México","L00-L99",15173
+2012,15,"Estado de México","M00-M99",27397
+2012,15,"Estado de México","N00-N99",64069
+2012,15,"Estado de México","O00-O99",157476
+2012,15,"Estado de México","P00-P96",3671
+2012,15,"Estado de México","Q00-Q99",1227
+2012,15,"Estado de México","R00-R99",42260
+2012,15,"Estado de México","S00-T99",152948
+2012,15,"Estado de México","Z00-Z99",229006
+2012,16,"Michoacán de Ocampo","A00-B99",5335
+2012,16,"Michoacán de Ocampo","C00-D48",2306
+2012,16,"Michoacán de Ocampo","D50-D89",1229
+2012,16,"Michoacán de Ocampo","E00-E90",10014
+2012,16,"Michoacán de Ocampo","F00-F99",4574
+2012,16,"Michoacán de Ocampo","G00-G99",4336
+2012,16,"Michoacán de Ocampo","H00-H59",3550
+2012,16,"Michoacán de Ocampo","I00-I99",4009
+2012,16,"Michoacán de Ocampo","J00-J99",36714
+2012,16,"Michoacán de Ocampo","K00-K93",27209
+2012,16,"Michoacán de Ocampo","L00-L99",5109
+2012,16,"Michoacán de Ocampo","M00-M99",7562
+2012,16,"Michoacán de Ocampo","N00-N99",16864
+2012,16,"Michoacán de Ocampo","O00-O99",35405
+2012,16,"Michoacán de Ocampo","P00-P96",878
+2012,16,"Michoacán de Ocampo","Q00-Q99",646
+2012,16,"Michoacán de Ocampo","R00-R99",16255
+2012,16,"Michoacán de Ocampo","S00-T99",58838
+2012,16,"Michoacán de Ocampo","Z00-Z99",47442
+2012,17,"Morelos","A00-B99",3469
+2012,17,"Morelos","C00-D48",1091
+2012,17,"Morelos","D50-D89",946
+2012,17,"Morelos","E00-E90",7243
+2012,17,"Morelos","F00-F99",2133
+2012,17,"Morelos","G00-G99",2561
+2012,17,"Morelos","H00-H59",4312
+2012,17,"Morelos","I00-I99",2326
+2012,17,"Morelos","J00-J99",36936
+2012,17,"Morelos","K00-K93",17130
+2012,17,"Morelos","L00-L99",4240
+2012,17,"Morelos","M00-M99",4840
+2012,17,"Morelos","N00-N99",12296
+2012,17,"Morelos","O00-O99",18222
+2012,17,"Morelos","P00-P96",645
+2012,17,"Morelos","Q00-Q99",504
+2012,17,"Morelos","R00-R99",14512
+2012,17,"Morelos","S00-T99",47906
+2012,17,"Morelos","Z00-Z99",29508
+2012,18,"Nayarit","A00-B99",1813
+2012,18,"Nayarit","C00-D48",456
+2012,18,"Nayarit","D50-D89",390
+2012,18,"Nayarit","E00-E90",2765
+2012,18,"Nayarit","F00-F99",1331
+2012,18,"Nayarit","G00-G99",1340
+2012,18,"Nayarit","H00-H59",2369
+2012,18,"Nayarit","I00-I99",1346
+2012,18,"Nayarit","J00-J99",13257
+2012,18,"Nayarit","K00-K93",7686
+2012,18,"Nayarit","L00-L99",1973
+2012,18,"Nayarit","M00-M99",2769
+2012,18,"Nayarit","N00-N99",5113
+2012,18,"Nayarit","O00-O99",3433
+2012,18,"Nayarit","P00-P96",192
+2012,18,"Nayarit","Q00-Q99",70
+2012,18,"Nayarit","R00-R99",4374
+2012,18,"Nayarit","S00-T99",19734
+2012,18,"Nayarit","Z00-Z99",7456
+2012,19,"Nuevo León","A00-B99",4211
+2012,19,"Nuevo León","C00-D48",587
+2012,19,"Nuevo León","D50-D89",409
+2012,19,"Nuevo León","E00-E90",4144
+2012,19,"Nuevo León","F00-F99",2926
+2012,19,"Nuevo León","G00-G99",2203
+2012,19,"Nuevo León","H00-H59",5079
+2012,19,"Nuevo León","I00-I99",1634
+2012,19,"Nuevo León","J00-J99",22303
+2012,19,"Nuevo León","K00-K93",13764
+2012,19,"Nuevo León","L00-L99",4061
+2012,19,"Nuevo León","M00-M99",7494
+2012,19,"Nuevo León","N00-N99",8625
+2012,19,"Nuevo León","O00-O99",17710
+2012,19,"Nuevo León","P00-P96",331
+2012,19,"Nuevo León","Q00-Q99",164
+2012,19,"Nuevo León","R00-R99",12914
+2012,19,"Nuevo León","S00-T99",27036
+2012,19,"Nuevo León","Z00-Z99",32467
+2012,20,"Oaxaca","A00-B99",5445
+2012,20,"Oaxaca","C00-D48",1899
+2012,20,"Oaxaca","D50-D89",1784
+2012,20,"Oaxaca","E00-E90",7796
+2012,20,"Oaxaca","F00-F99",2231
+2012,20,"Oaxaca","G00-G99",2623
+2012,20,"Oaxaca","H00-H59",3995
+2012,20,"Oaxaca","I00-I99",3343
+2012,20,"Oaxaca","J00-J99",29173
+2012,20,"Oaxaca","K00-K93",16295
+2012,20,"Oaxaca","L00-L99",3943
+2012,20,"Oaxaca","M00-M99",5717
+2012,20,"Oaxaca","N00-N99",14007
+2012,20,"Oaxaca","O00-O99",30512
+2012,20,"Oaxaca","P00-P96",1298
+2012,20,"Oaxaca","Q00-Q99",339
+2012,20,"Oaxaca","R00-R99",11001
+2012,20,"Oaxaca","S00-T99",30570
+2012,20,"Oaxaca","Z00-Z99",56137
+2012,21,"Puebla","A00-B99",8117
+2012,21,"Puebla","C00-D48",2743
+2012,21,"Puebla","D50-D89",1604
+2012,21,"Puebla","E00-E90",10588
+2012,21,"Puebla","F00-F99",3598
+2012,21,"Puebla","G00-G99",2957
+2012,21,"Puebla","H00-H59",4654
+2012,21,"Puebla","I00-I99",5144
+2012,21,"Puebla","J00-J99",44510
+2012,21,"Puebla","K00-K93",25507
+2012,21,"Puebla","L00-L99",5171
+2012,21,"Puebla","M00-M99",7271
+2012,21,"Puebla","N00-N99",16612
+2012,21,"Puebla","O00-O99",51448
+2012,21,"Puebla","P00-P96",1168
+2012,21,"Puebla","Q00-Q99",418
+2012,21,"Puebla","R00-R99",12069
+2012,21,"Puebla","S00-T99",49882
+2012,21,"Puebla","Z00-Z99",69161
+2012,22,"Querétaro","A00-B99",1260
+2012,22,"Querétaro","C00-D48",1656
+2012,22,"Querétaro","D50-D89",549
+2012,22,"Querétaro","E00-E90",4038
+2012,22,"Querétaro","F00-F99",1915
+2012,22,"Querétaro","G00-G99",1487
+2012,22,"Querétaro","H00-H59",1396
+2012,22,"Querétaro","I00-I99",1687
+2012,22,"Querétaro","J00-J99",14286
+2012,22,"Querétaro","K00-K93",9980
+2012,22,"Querétaro","L00-L99",1892
+2012,22,"Querétaro","M00-M99",2483
+2012,22,"Querétaro","N00-N99",7932
+2012,22,"Querétaro","O00-O99",38943
+2012,22,"Querétaro","P00-P96",1084
+2012,22,"Querétaro","Q00-Q99",318
+2012,22,"Querétaro","R00-R99",5567
+2012,22,"Querétaro","S00-T99",18242
+2012,22,"Querétaro","Z00-Z99",23029
+2012,23,"Quintana Roo","A00-B99",2464
+2012,23,"Quintana Roo","C00-D48",328
+2012,23,"Quintana Roo","D50-D89",253
+2012,23,"Quintana Roo","E00-E90",2656
+2012,23,"Quintana Roo","F00-F99",1234
+2012,23,"Quintana Roo","G00-G99",862
+2012,23,"Quintana Roo","H00-H59",1622
+2012,23,"Quintana Roo","I00-I99",581
+2012,23,"Quintana Roo","J00-J99",14483
+2012,23,"Quintana Roo","K00-K93",6634
+2012,23,"Quintana Roo","L00-L99",1685
+2012,23,"Quintana Roo","M00-M99",2359
+2012,23,"Quintana Roo","N00-N99",5346
+2012,23,"Quintana Roo","O00-O99",7863
+2012,23,"Quintana Roo","P00-P96",126
+2012,23,"Quintana Roo","Q00-Q99",69
+2012,23,"Quintana Roo","R00-R99",3719
+2012,23,"Quintana Roo","S00-T99",12453
+2012,23,"Quintana Roo","Z00-Z99",12167
+2012,24,"San Luis Potosí","A00-B99",2324
+2012,24,"San Luis Potosí","C00-D48",665
+2012,24,"San Luis Potosí","D50-D89",512
+2012,24,"San Luis Potosí","E00-E90",3408
+2012,24,"San Luis Potosí","F00-F99",1432
+2012,24,"San Luis Potosí","G00-G99",1862
+2012,24,"San Luis Potosí","H00-H59",2662
+2012,24,"San Luis Potosí","I00-I99",1844
+2012,24,"San Luis Potosí","J00-J99",17298
+2012,24,"San Luis Potosí","K00-K93",10490
+2012,24,"San Luis Potosí","L00-L99",2263
+2012,24,"San Luis Potosí","M00-M99",3907
+2012,24,"San Luis Potosí","N00-N99",7553
+2012,24,"San Luis Potosí","O00-O99",7151
+2012,24,"San Luis Potosí","P00-P96",684
+2012,24,"San Luis Potosí","Q00-Q99",108
+2012,24,"San Luis Potosí","R00-R99",3848
+2012,24,"San Luis Potosí","S00-T99",19278
+2012,24,"San Luis Potosí","Z00-Z99",20894
+2012,25,"Sinaloa","A00-B99",7070
+2012,25,"Sinaloa","C00-D48",1020
+2012,25,"Sinaloa","D50-D89",806
+2012,25,"Sinaloa","E00-E90",5915
+2012,25,"Sinaloa","F00-F99",2849
+2012,25,"Sinaloa","G00-G99",2997
+2012,25,"Sinaloa","H00-H59",5733
+2012,25,"Sinaloa","I00-I99",3384
+2012,25,"Sinaloa","J00-J99",42193
+2012,25,"Sinaloa","K00-K93",20623
+2012,25,"Sinaloa","L00-L99",4916
+2012,25,"Sinaloa","M00-M99",9304
+2012,25,"Sinaloa","N00-N99",13075
+2012,25,"Sinaloa","O00-O99",18414
+2012,25,"Sinaloa","P00-P96",399
+2012,25,"Sinaloa","Q00-Q99",193
+2012,25,"Sinaloa","R00-R99",21786
+2012,25,"Sinaloa","S00-T99",41159
+2012,25,"Sinaloa","Z00-Z99",40480
+2012,26,"Sonora","A00-B99",4762
+2012,26,"Sonora","C00-D48",1818
+2012,26,"Sonora","D50-D89",1022
+2012,26,"Sonora","E00-E90",6279
+2012,26,"Sonora","F00-F99",4013
+2012,26,"Sonora","G00-G99",3894
+2012,26,"Sonora","H00-H59",6413
+2012,26,"Sonora","I00-I99",5747
+2012,26,"Sonora","J00-J99",46489
+2012,26,"Sonora","K00-K93",23982
+2012,26,"Sonora","L00-L99",6320
+2012,26,"Sonora","M00-M99",9321
+2012,26,"Sonora","N00-N99",16342
+2012,26,"Sonora","O00-O99",24574
+2012,26,"Sonora","P00-P96",560
+2012,26,"Sonora","Q00-Q99",224
+2012,26,"Sonora","R00-R99",15626
+2012,26,"Sonora","S00-T99",55524
+2012,26,"Sonora","Z00-Z99",41780
+2012,27,"Tabasco","A00-B99",7709
+2012,27,"Tabasco","C00-D48",2572
+2012,27,"Tabasco","D50-D89",2493
+2012,27,"Tabasco","E00-E90",13088
+2012,27,"Tabasco","F00-F99",7257
+2012,27,"Tabasco","G00-G99",3224
+2012,27,"Tabasco","H00-H59",5731
+2012,27,"Tabasco","I00-I99",3129
+2012,27,"Tabasco","J00-J99",52705
+2012,27,"Tabasco","K00-K93",26655
+2012,27,"Tabasco","L00-L99",7178
+2012,27,"Tabasco","M00-M99",7690
+2012,27,"Tabasco","N00-N99",21383
+2012,27,"Tabasco","O00-O99",63294
+2012,27,"Tabasco","P00-P96",846
+2012,27,"Tabasco","Q00-Q99",637
+2012,27,"Tabasco","R00-R99",24409
+2012,27,"Tabasco","S00-T99",45590
+2012,27,"Tabasco","Z00-Z99",48162
+2012,28,"Tamaulipas","A00-B99",4395
+2012,28,"Tamaulipas","C00-D48",1109
+2012,28,"Tamaulipas","D50-D89",983
+2012,28,"Tamaulipas","E00-E90",7251
+2012,28,"Tamaulipas","F00-F99",2284
+2012,28,"Tamaulipas","G00-G99",2959
+2012,28,"Tamaulipas","H00-H59",4402
+2012,28,"Tamaulipas","I00-I99",3091
+2012,28,"Tamaulipas","J00-J99",32715
+2012,28,"Tamaulipas","K00-K93",18050
+2012,28,"Tamaulipas","L00-L99",3740
+2012,28,"Tamaulipas","M00-M99",7156
+2012,28,"Tamaulipas","N00-N99",11232
+2012,28,"Tamaulipas","O00-O99",22752
+2012,28,"Tamaulipas","P00-P96",705
+2012,28,"Tamaulipas","Q00-Q99",150
+2012,28,"Tamaulipas","R00-R99",10240
+2012,28,"Tamaulipas","S00-T99",33602
+2012,28,"Tamaulipas","Z00-Z99",31644
+2012,29,"Tlaxcala","A00-B99",2539
+2012,29,"Tlaxcala","C00-D48",1165
+2012,29,"Tlaxcala","D50-D89",587
+2012,29,"Tlaxcala","E00-E90",4190
+2012,29,"Tlaxcala","F00-F99",1656
+2012,29,"Tlaxcala","G00-G99",1531
+2012,29,"Tlaxcala","H00-H59",2522
+2012,29,"Tlaxcala","I00-I99",1893
+2012,29,"Tlaxcala","J00-J99",17407
+2012,29,"Tlaxcala","K00-K93",9476
+2012,29,"Tlaxcala","L00-L99",2081
+2012,29,"Tlaxcala","M00-M99",3107
+2012,29,"Tlaxcala","N00-N99",8118
+2012,29,"Tlaxcala","O00-O99",19293
+2012,29,"Tlaxcala","P00-P96",811
+2012,29,"Tlaxcala","Q00-Q99",523
+2012,29,"Tlaxcala","R00-R99",5923
+2012,29,"Tlaxcala","S00-T99",17152
+2012,29,"Tlaxcala","Z00-Z99",24351
+2012,30,"Veracruz de Ignacio de la Llave","A00-B99",11322
+2012,30,"Veracruz de Ignacio de la Llave","C00-D48",2718
+2012,30,"Veracruz de Ignacio de la Llave","D50-D89",2767
+2012,30,"Veracruz de Ignacio de la Llave","E00-E90",16517
+2012,30,"Veracruz de Ignacio de la Llave","F00-F99",8071
+2012,30,"Veracruz de Ignacio de la Llave","G00-G99",5727
+2012,30,"Veracruz de Ignacio de la Llave","H00-H59",7526
+2012,30,"Veracruz de Ignacio de la Llave","I00-I99",6739
+2012,30,"Veracruz de Ignacio de la Llave","J00-J99",57451
+2012,30,"Veracruz de Ignacio de la Llave","K00-K93",38994
+2012,30,"Veracruz de Ignacio de la Llave","L00-L99",8818
+2012,30,"Veracruz de Ignacio de la Llave","M00-M99",12091
+2012,30,"Veracruz de Ignacio de la Llave","N00-N99",27590
+2012,30,"Veracruz de Ignacio de la Llave","O00-O99",43402
+2012,30,"Veracruz de Ignacio de la Llave","P00-P96",2070
+2012,30,"Veracruz de Ignacio de la Llave","Q00-Q99",678
+2012,30,"Veracruz de Ignacio de la Llave","R00-R99",32112
+2012,30,"Veracruz de Ignacio de la Llave","S00-T99",60030
+2012,30,"Veracruz de Ignacio de la Llave","Z00-Z99",81561
+2012,31,"Yucatán","A00-B99",1058
+2012,31,"Yucatán","C00-D48",198
+2012,31,"Yucatán","D50-D89",215
+2012,31,"Yucatán","E00-E90",1226
+2012,31,"Yucatán","F00-F99",2250
+2012,31,"Yucatán","G00-G99",564
+2012,31,"Yucatán","H00-H59",828
+2012,31,"Yucatán","I00-I99",575
+2012,31,"Yucatán","J00-J99",6338
+2012,31,"Yucatán","K00-K93",3139
+2012,31,"Yucatán","L00-L99",790
+2012,31,"Yucatán","M00-M99",1202
+2012,31,"Yucatán","N00-N99",2643
+2012,31,"Yucatán","O00-O99",3460
+2012,31,"Yucatán","P00-P96",132
+2012,31,"Yucatán","Q00-Q99",48
+2012,31,"Yucatán","R00-R99",2530
+2012,31,"Yucatán","S00-T99",8511
+2012,31,"Yucatán","Z00-Z99",2089
+2012,32,"Zacatecas","A00-B99",5002
+2012,32,"Zacatecas","C00-D48",988
+2012,32,"Zacatecas","D50-D89",944
+2012,32,"Zacatecas","E00-E90",3775
+2012,32,"Zacatecas","F00-F99",3124
+2012,32,"Zacatecas","G00-G99",3176
+2012,32,"Zacatecas","H00-H59",4562
+2012,32,"Zacatecas","I00-I99",2760
+2012,32,"Zacatecas","J00-J99",35388
+2012,32,"Zacatecas","K00-K93",18657
+2012,32,"Zacatecas","L00-L99",4265
+2012,32,"Zacatecas","M00-M99",9085
+2012,32,"Zacatecas","N00-N99",13714
+2012,32,"Zacatecas","O00-O99",8395
+2012,32,"Zacatecas","P00-P96",295
+2012,32,"Zacatecas","Q00-Q99",257
+2012,32,"Zacatecas","R00-R99",9688
+2012,32,"Zacatecas","S00-T99",30647
+2012,32,"Zacatecas","Z00-Z99",43055
+2013,1,"Aguascalientes","A00-B99",1516
+2013,1,"Aguascalientes","C00-D48",719
+2013,1,"Aguascalientes","D50-D89",485
+2013,1,"Aguascalientes","E00-E90",2941
+2013,1,"Aguascalientes","F00-F99",6563
+2013,1,"Aguascalientes","G00-G99",2025
+2013,1,"Aguascalientes","H00-H59",2710
+2013,1,"Aguascalientes","I00-I99",2086
+2013,1,"Aguascalientes","J00-J99",22583
+2013,1,"Aguascalientes","K00-K93",13869
+2013,1,"Aguascalientes","L00-L99",2199
+2013,1,"Aguascalientes","M00-M99",4816
+2013,1,"Aguascalientes","N00-N99",9567
+2013,1,"Aguascalientes","O00-O99",35826
+2013,1,"Aguascalientes","P00-P96",236
+2013,1,"Aguascalientes","Q00-Q99",509
+2013,1,"Aguascalientes","R00-R99",5835
+2013,1,"Aguascalientes","S00-T99",31768
+2013,1,"Aguascalientes","Z00-Z99",9532
+2013,2,"Baja California","A00-B99",3936
+2013,2,"Baja California","C00-D48",1832
+2013,2,"Baja California","D50-D89",976
+2013,2,"Baja California","E00-E90",6881
+2013,2,"Baja California","F00-F99",2812
+2013,2,"Baja California","G00-G99",2609
+2013,2,"Baja California","H00-H59",4176
+2013,2,"Baja California","I00-I99",4805
+2013,2,"Baja California","J00-J99",30149
+2013,2,"Baja California","K00-K93",20995
+2013,2,"Baja California","L00-L99",4889
+2013,2,"Baja California","M00-M99",7518
+2013,2,"Baja California","N00-N99",12351
+2013,2,"Baja California","O00-O99",14227
+2013,2,"Baja California","P00-P96",412
+2013,2,"Baja California","Q00-Q99",305
+2013,2,"Baja California","R00-R99",13970
+2013,2,"Baja California","S00-T99",23826
+2013,2,"Baja California","Z00-Z99",56839
+2013,3,"Baja California Sur","A00-B99",1693
+2013,3,"Baja California Sur","C00-D48",376
+2013,3,"Baja California Sur","D50-D89",213
+2013,3,"Baja California Sur","E00-E90",2068
+2013,3,"Baja California Sur","F00-F99",1226
+2013,3,"Baja California Sur","G00-G99",1464
+2013,3,"Baja California Sur","H00-H59",3055
+2013,3,"Baja California Sur","I00-I99",799
+2013,3,"Baja California Sur","J00-J99",14306
+2013,3,"Baja California Sur","K00-K93",7967
+2013,3,"Baja California Sur","L00-L99",2068
+2013,3,"Baja California Sur","M00-M99",3862
+2013,3,"Baja California Sur","N00-N99",4799
+2013,3,"Baja California Sur","O00-O99",2635
+2013,3,"Baja California Sur","P00-P96",208
+2013,3,"Baja California Sur","Q00-Q99",76
+2013,3,"Baja California Sur","R00-R99",5843
+2013,3,"Baja California Sur","S00-T99",8606
+2013,3,"Baja California Sur","Z00-Z99",12746
+2013,4,"Campeche","A00-B99",2713
+2013,4,"Campeche","C00-D48",450
+2013,4,"Campeche","D50-D89",289
+2013,4,"Campeche","E00-E90",2889
+2013,4,"Campeche","F00-F99",1465
+2013,4,"Campeche","G00-G99",920
+2013,4,"Campeche","H00-H59",1982
+2013,4,"Campeche","I00-I99",852
+2013,4,"Campeche","J00-J99",14921
+2013,4,"Campeche","K00-K93",8851
+2013,4,"Campeche","L00-L99",2181
+2013,4,"Campeche","M00-M99",2507
+2013,4,"Campeche","N00-N99",5772
+2013,4,"Campeche","O00-O99",15154
+2013,4,"Campeche","P00-P96",201
+2013,4,"Campeche","Q00-Q99",34
+2013,4,"Campeche","R00-R99",5926
+2013,4,"Campeche","S00-T99",13026
+2013,4,"Campeche","Z00-Z99",7233
+2013,5,"Coahuila de Zaragoza","A00-B99",1947
+2013,5,"Coahuila de Zaragoza","C00-D48",1324
+2013,5,"Coahuila de Zaragoza","D50-D89",579
+2013,5,"Coahuila de Zaragoza","E00-E90",4839
+2013,5,"Coahuila de Zaragoza","F00-F99",1559
+2013,5,"Coahuila de Zaragoza","G00-G99",1112
+2013,5,"Coahuila de Zaragoza","H00-H59",2486
+2013,5,"Coahuila de Zaragoza","I00-I99",1634
+2013,5,"Coahuila de Zaragoza","J00-J99",14524
+2013,5,"Coahuila de Zaragoza","K00-K93",7753
+2013,5,"Coahuila de Zaragoza","L00-L99",1823
+2013,5,"Coahuila de Zaragoza","M00-M99",2499
+2013,5,"Coahuila de Zaragoza","N00-N99",7479
+2013,5,"Coahuila de Zaragoza","O00-O99",28163
+2013,5,"Coahuila de Zaragoza","P00-P96",583
+2013,5,"Coahuila de Zaragoza","Q00-Q99",340
+2013,5,"Coahuila de Zaragoza","R00-R99",5174
+2013,5,"Coahuila de Zaragoza","S00-T99",16861
+2013,5,"Coahuila de Zaragoza","Z00-Z99",10956
+2013,6,"Colima","A00-B99",979
+2013,6,"Colima","C00-D48",301
+2013,6,"Colima","D50-D89",192
+2013,6,"Colima","E00-E90",2527
+2013,6,"Colima","F00-F99",821
+2013,6,"Colima","G00-G99",713
+2013,6,"Colima","H00-H59",1349
+2013,6,"Colima","I00-I99",606
+2013,6,"Colima","J00-J99",7235
+2013,6,"Colima","K00-K93",5462
+2013,6,"Colima","L00-L99",1303
+2013,6,"Colima","M00-M99",1728
+2013,6,"Colima","N00-N99",2973
+2013,6,"Colima","O00-O99",1797
+2013,6,"Colima","P00-P96",190
+2013,6,"Colima","Q00-Q99",70
+2013,6,"Colima","R00-R99",4082
+2013,6,"Colima","S00-T99",11396
+2013,6,"Colima","Z00-Z99",4963
+2013,7,"Chiapas","A00-B99",11229
+2013,7,"Chiapas","C00-D48",2797
+2013,7,"Chiapas","D50-D89",1619
+2013,7,"Chiapas","E00-E90",10448
+2013,7,"Chiapas","F00-F99",3099
+2013,7,"Chiapas","G00-G99",2766
+2013,7,"Chiapas","H00-H59",4160
+2013,7,"Chiapas","I00-I99",3158
+2013,7,"Chiapas","J00-J99",38773
+2013,7,"Chiapas","K00-K93",29688
+2013,7,"Chiapas","L00-L99",5291
+2013,7,"Chiapas","M00-M99",6600
+2013,7,"Chiapas","N00-N99",18985
+2013,7,"Chiapas","O00-O99",40220
+2013,7,"Chiapas","P00-P96",1269
+2013,7,"Chiapas","Q00-Q99",440
+2013,7,"Chiapas","R00-R99",12899
+2013,7,"Chiapas","S00-T99",28629
+2013,7,"Chiapas","Z00-Z99",67043
+2013,8,"Chihuahua","A00-B99",1495
+2013,8,"Chihuahua","C00-D48",675
+2013,8,"Chihuahua","D50-D89",244
+2013,8,"Chihuahua","E00-E90",1390
+2013,8,"Chihuahua","F00-F99",631
+2013,8,"Chihuahua","G00-G99",1022
+2013,8,"Chihuahua","H00-H59",1259
+2013,8,"Chihuahua","I00-I99",1247
+2013,8,"Chihuahua","J00-J99",6793
+2013,8,"Chihuahua","K00-K93",4803
+2013,8,"Chihuahua","L00-L99",1252
+2013,8,"Chihuahua","M00-M99",2581
+2013,8,"Chihuahua","N00-N99",3949
+2013,8,"Chihuahua","O00-O99",14019
+2013,8,"Chihuahua","P00-P96",102
+2013,8,"Chihuahua","Q00-Q99",49
+2013,8,"Chihuahua","R00-R99",2071
+2013,8,"Chihuahua","S00-T99",8995
+2013,8,"Chihuahua","Z00-Z99",16706
+2013,9,"Ciudad de México","A00-B99",11104
+2013,9,"Ciudad de México","C00-D48",4592
+2013,9,"Ciudad de México","D50-D89",1992
+2013,9,"Ciudad de México","E00-E90",24656
+2013,9,"Ciudad de México","F00-F99",12972
+2013,9,"Ciudad de México","G00-G99",8971
+2013,9,"Ciudad de México","H00-H59",12027
+2013,9,"Ciudad de México","I00-I99",13167
+2013,9,"Ciudad de México","J00-J99",97447
+2013,9,"Ciudad de México","K00-K93",58843
+2013,9,"Ciudad de México","L00-L99",13146
+2013,9,"Ciudad de México","M00-M99",28060
+2013,9,"Ciudad de México","N00-N99",51630
+2013,9,"Ciudad de México","O00-O99",131013
+2013,9,"Ciudad de México","P00-P96",2225
+2013,9,"Ciudad de México","Q00-Q99",1067
+2013,9,"Ciudad de México","R00-R99",33099
+2013,9,"Ciudad de México","S00-T99",181554
+2013,9,"Ciudad de México","Z00-Z99",72473
+2013,10,"Durango","A00-B99",2502
+2013,10,"Durango","C00-D48",408
+2013,10,"Durango","D50-D89",436
+2013,10,"Durango","E00-E90",3950
+2013,10,"Durango","F00-F99",2542
+2013,10,"Durango","G00-G99",3785
+2013,10,"Durango","H00-H59",3787
+2013,10,"Durango","I00-I99",1907
+2013,10,"Durango","J00-J99",33535
+2013,10,"Durango","K00-K93",14685
+2013,10,"Durango","L00-L99",3193
+2013,10,"Durango","M00-M99",5905
+2013,10,"Durango","N00-N99",9178
+2013,10,"Durango","O00-O99",21330
+2013,10,"Durango","P00-P96",222
+2013,10,"Durango","Q00-Q99",106
+2013,10,"Durango","R00-R99",516
+2013,10,"Durango","S00-T99",21875
+2013,10,"Durango","Z00-Z99",28730
+2013,11,"Guanajuato","A00-B99",8143
+2013,11,"Guanajuato","C00-D48",3799
+2013,11,"Guanajuato","D50-D89",2253
+2013,11,"Guanajuato","E00-E90",20202
+2013,11,"Guanajuato","F00-F99",9443
+2013,11,"Guanajuato","G00-G99",7320
+2013,11,"Guanajuato","H00-H59",9669
+2013,11,"Guanajuato","I00-I99",7486
+2013,11,"Guanajuato","J00-J99",115890
+2013,11,"Guanajuato","K00-K93",55116
+2013,11,"Guanajuato","L00-L99",11535
+2013,11,"Guanajuato","M00-M99",18471
+2013,11,"Guanajuato","N00-N99",38743
+2013,11,"Guanajuato","O00-O99",48894
+2013,11,"Guanajuato","P00-P96",2496
+2013,11,"Guanajuato","Q00-Q99",558
+2013,11,"Guanajuato","R00-R99",32205
+2013,11,"Guanajuato","S00-T99",161254
+2013,11,"Guanajuato","Z00-Z99",108302
+2013,12,"Guerrero","A00-B99",4932
+2013,12,"Guerrero","C00-D48",1318
+2013,12,"Guerrero","D50-D89",1548
+2013,12,"Guerrero","E00-E90",8418
+2013,12,"Guerrero","F00-F99",2151
+2013,12,"Guerrero","G00-G99",1983
+2013,12,"Guerrero","H00-H59",2710
+2013,12,"Guerrero","I00-I99",2981
+2013,12,"Guerrero","J00-J99",23707
+2013,12,"Guerrero","K00-K93",16867
+2013,12,"Guerrero","L00-L99",2996
+2013,12,"Guerrero","M00-M99",4052
+2013,12,"Guerrero","N00-N99",11112
+2013,12,"Guerrero","O00-O99",26195
+2013,12,"Guerrero","P00-P96",964
+2013,12,"Guerrero","Q00-Q99",261
+2013,12,"Guerrero","R00-R99",12806
+2013,12,"Guerrero","S00-T99",35819
+2013,12,"Guerrero","Z00-Z99",35965
+2013,13,"Hidalgo","A00-B99",2317
+2013,13,"Hidalgo","C00-D48",1650
+2013,13,"Hidalgo","D50-D89",1103
+2013,13,"Hidalgo","E00-E90",7031
+2013,13,"Hidalgo","F00-F99",1885
+2013,13,"Hidalgo","G00-G99",2235
+2013,13,"Hidalgo","H00-H59",1638
+2013,13,"Hidalgo","I00-I99",3100
+2013,13,"Hidalgo","J00-J99",18716
+2013,13,"Hidalgo","K00-K93",16285
+2013,13,"Hidalgo","L00-L99",1838
+2013,13,"Hidalgo","M00-M99",4755
+2013,13,"Hidalgo","N00-N99",9252
+2013,13,"Hidalgo","O00-O99",21712
+2013,13,"Hidalgo","P00-P96",600
+2013,13,"Hidalgo","Q00-Q99",213
+2013,13,"Hidalgo","R00-R99",8981
+2013,13,"Hidalgo","S00-T99",32365
+2013,13,"Hidalgo","Z00-Z99",44376
+2013,14,"Jalisco","A00-B99",9270
+2013,14,"Jalisco","C00-D48",2365
+2013,14,"Jalisco","D50-D89",1707
+2013,14,"Jalisco","E00-E90",11047
+2013,14,"Jalisco","F00-F99",10968
+2013,14,"Jalisco","G00-G99",6206
+2013,14,"Jalisco","H00-H59",10829
+2013,14,"Jalisco","I00-I99",7541
+2013,14,"Jalisco","J00-J99",90088
+2013,14,"Jalisco","K00-K93",45449
+2013,14,"Jalisco","L00-L99",9060
+2013,14,"Jalisco","M00-M99",17400
+2013,14,"Jalisco","N00-N99",30893
+2013,14,"Jalisco","O00-O99",80901
+2013,14,"Jalisco","P00-P96",1745
+2013,14,"Jalisco","Q00-Q99",611
+2013,14,"Jalisco","R00-R99",65077
+2013,14,"Jalisco","S00-T99",85169
+2013,14,"Jalisco","Z00-Z99",117924
+2013,15,"Estado de México","A00-B99",14170
+2013,15,"Estado de México","C00-D48",5738
+2013,15,"Estado de México","D50-D89",3163
+2013,15,"Estado de México","E00-E90",33990
+2013,15,"Estado de México","F00-F99",11840
+2013,15,"Estado de México","G00-G99",12678
+2013,15,"Estado de México","H00-H59",12596
+2013,15,"Estado de México","I00-I99",12728
+2013,15,"Estado de México","J00-J99",154941
+2013,15,"Estado de México","K00-K93",84923
+2013,15,"Estado de México","L00-L99",16074
+2013,15,"Estado de México","M00-M99",28024
+2013,15,"Estado de México","N00-N99",69487
+2013,15,"Estado de México","O00-O99",161044
+2013,15,"Estado de México","P00-P96",5707
+2013,15,"Estado de México","Q00-Q99",1289
+2013,15,"Estado de México","R00-R99",46531
+2013,15,"Estado de México","S00-T99",162381
+2013,15,"Estado de México","Z00-Z99",248595
+2013,16,"Michoacán de Ocampo","A00-B99",5631
+2013,16,"Michoacán de Ocampo","C00-D48",2501
+2013,16,"Michoacán de Ocampo","D50-D89",1378
+2013,16,"Michoacán de Ocampo","E00-E90",11368
+2013,16,"Michoacán de Ocampo","F00-F99",4746
+2013,16,"Michoacán de Ocampo","G00-G99",4857
+2013,16,"Michoacán de Ocampo","H00-H59",3971
+2013,16,"Michoacán de Ocampo","I00-I99",4165
+2013,16,"Michoacán de Ocampo","J00-J99",38417
+2013,16,"Michoacán de Ocampo","K00-K93",28738
+2013,16,"Michoacán de Ocampo","L00-L99",5226
+2013,16,"Michoacán de Ocampo","M00-M99",7931
+2013,16,"Michoacán de Ocampo","N00-N99",17073
+2013,16,"Michoacán de Ocampo","O00-O99",33205
+2013,16,"Michoacán de Ocampo","P00-P96",965
+2013,16,"Michoacán de Ocampo","Q00-Q99",765
+2013,16,"Michoacán de Ocampo","R00-R99",16110
+2013,16,"Michoacán de Ocampo","S00-T99",60368
+2013,16,"Michoacán de Ocampo","Z00-Z99",45109
+2013,17,"Morelos","A00-B99",3629
+2013,17,"Morelos","C00-D48",1267
+2013,17,"Morelos","D50-D89",1112
+2013,17,"Morelos","E00-E90",7874
+2013,17,"Morelos","F00-F99",2234
+2013,17,"Morelos","G00-G99",2829
+2013,17,"Morelos","H00-H59",5119
+2013,17,"Morelos","I00-I99",2616
+2013,17,"Morelos","J00-J99",43317
+2013,17,"Morelos","K00-K93",18020
+2013,17,"Morelos","L00-L99",4638
+2013,17,"Morelos","M00-M99",4902
+2013,17,"Morelos","N00-N99",15013
+2013,17,"Morelos","O00-O99",16108
+2013,17,"Morelos","P00-P96",750
+2013,17,"Morelos","Q00-Q99",535
+2013,17,"Morelos","R00-R99",16681
+2013,17,"Morelos","S00-T99",46615
+2013,17,"Morelos","Z00-Z99",33105
+2013,18,"Nayarit","A00-B99",2556
+2013,18,"Nayarit","C00-D48",534
+2013,18,"Nayarit","D50-D89",419
+2013,18,"Nayarit","E00-E90",2929
+2013,18,"Nayarit","F00-F99",1244
+2013,18,"Nayarit","G00-G99",1303
+2013,18,"Nayarit","H00-H59",2282
+2013,18,"Nayarit","I00-I99",1561
+2013,18,"Nayarit","J00-J99",13439
+2013,18,"Nayarit","K00-K93",7702
+2013,18,"Nayarit","L00-L99",2119
+2013,18,"Nayarit","M00-M99",2764
+2013,18,"Nayarit","N00-N99",5156
+2013,18,"Nayarit","O00-O99",3962
+2013,18,"Nayarit","P00-P96",223
+2013,18,"Nayarit","Q00-Q99",92
+2013,18,"Nayarit","R00-R99",7119
+2013,18,"Nayarit","S00-T99",19497
+2013,18,"Nayarit","Z00-Z99",8200
+2013,19,"Nuevo León","A00-B99",4724
+2013,19,"Nuevo León","C00-D48",674
+2013,19,"Nuevo León","D50-D89",459
+2013,19,"Nuevo León","E00-E90",4206
+2013,19,"Nuevo León","F00-F99",2460
+2013,19,"Nuevo León","G00-G99",2571
+2013,19,"Nuevo León","H00-H59",6115
+2013,19,"Nuevo León","I00-I99",1739
+2013,19,"Nuevo León","J00-J99",28237
+2013,19,"Nuevo León","K00-K93",15936
+2013,19,"Nuevo León","L00-L99",4778
+2013,19,"Nuevo León","M00-M99",8385
+2013,19,"Nuevo León","N00-N99",9784
+2013,19,"Nuevo León","O00-O99",31355
+2013,19,"Nuevo León","P00-P96",347
+2013,19,"Nuevo León","Q00-Q99",272
+2013,19,"Nuevo León","R00-R99",15963
+2013,19,"Nuevo León","S00-T99",32170
+2013,19,"Nuevo León","Z00-Z99",36636
+2013,20,"Oaxaca","A00-B99",5495
+2013,20,"Oaxaca","C00-D48",2003
+2013,20,"Oaxaca","D50-D89",1583
+2013,20,"Oaxaca","E00-E90",9396
+2013,20,"Oaxaca","F00-F99",2347
+2013,20,"Oaxaca","G00-G99",3059
+2013,20,"Oaxaca","H00-H59",4266
+2013,20,"Oaxaca","I00-I99",3891
+2013,20,"Oaxaca","J00-J99",31564
+2013,20,"Oaxaca","K00-K93",17971
+2013,20,"Oaxaca","L00-L99",4178
+2013,20,"Oaxaca","M00-M99",5862
+2013,20,"Oaxaca","N00-N99",14911
+2013,20,"Oaxaca","O00-O99",32584
+2013,20,"Oaxaca","P00-P96",1594
+2013,20,"Oaxaca","Q00-Q99",464
+2013,20,"Oaxaca","R00-R99",12496
+2013,20,"Oaxaca","S00-T99",31268
+2013,20,"Oaxaca","Z00-Z99",58441
+2013,21,"Puebla","A00-B99",8776
+2013,21,"Puebla","C00-D48",2960
+2013,21,"Puebla","D50-D89",1900
+2013,21,"Puebla","E00-E90",11701
+2013,21,"Puebla","F00-F99",3570
+2013,21,"Puebla","G00-G99",3391
+2013,21,"Puebla","H00-H59",5193
+2013,21,"Puebla","I00-I99",5764
+2013,21,"Puebla","J00-J99",54404
+2013,21,"Puebla","K00-K93",26594
+2013,21,"Puebla","L00-L99",6002
+2013,21,"Puebla","M00-M99",8111
+2013,21,"Puebla","N00-N99",18864
+2013,21,"Puebla","O00-O99",50568
+2013,21,"Puebla","P00-P96",1083
+2013,21,"Puebla","Q00-Q99",398
+2013,21,"Puebla","R00-R99",14938
+2013,21,"Puebla","S00-T99",48720
+2013,21,"Puebla","Z00-Z99",65968
+2013,22,"Querétaro","A00-B99",17
+2013,22,"Querétaro","C00-D48",17
+2013,22,"Querétaro","D50-D89",6
+2013,22,"Querétaro","E00-E90",61
+2013,22,"Querétaro","F00-F99",33
+2013,22,"Querétaro","G00-G99",27
+2013,22,"Querétaro","H00-H59",18
+2013,22,"Querétaro","I00-I99",34
+2013,22,"Querétaro","J00-J99",281
+2013,22,"Querétaro","K00-K93",159
+2013,22,"Querétaro","L00-L99",19
+2013,22,"Querétaro","M00-M99",36
+2013,22,"Querétaro","N00-N99",91
+2013,22,"Querétaro","O00-O99",584
+2013,22,"Querétaro","P00-P96",10
+2013,22,"Querétaro","Q00-Q99",2
+2013,22,"Querétaro","R00-R99",114
+2013,22,"Querétaro","S00-T99",191
+2013,22,"Querétaro","Z00-Z99",452
+2013,23,"Quintana Roo","A00-B99",39
+2013,23,"Quintana Roo","C00-D48",3
+2013,23,"Quintana Roo","D50-D89",4
+2013,23,"Quintana Roo","E00-E90",18
+2013,23,"Quintana Roo","F00-F99",6
+2013,23,"Quintana Roo","G00-G99",3
+2013,23,"Quintana Roo","H00-H59",12
+2013,23,"Quintana Roo","I00-I99",2
+2013,23,"Quintana Roo","J00-J99",190
+2013,23,"Quintana Roo","K00-K93",66
+2013,23,"Quintana Roo","L00-L99",22
+2013,23,"Quintana Roo","M00-M99",20
+2013,23,"Quintana Roo","N00-N99",52
+2013,23,"Quintana Roo","O00-O99",135
+2013,23,"Quintana Roo","R00-R99",62
+2013,23,"Quintana Roo","S00-T99",128
+2013,23,"Quintana Roo","Z00-Z99",230
+2013,24,"San Luis Potosí","A00-B99",2326
+2013,24,"San Luis Potosí","C00-D48",822
+2013,24,"San Luis Potosí","D50-D89",702
+2013,24,"San Luis Potosí","E00-E90",4404
+2013,24,"San Luis Potosí","F00-F99",1994
+2013,24,"San Luis Potosí","G00-G99",2481
+2013,24,"San Luis Potosí","H00-H59",3493
+2013,24,"San Luis Potosí","I00-I99",2244
+2013,24,"San Luis Potosí","J00-J99",23958
+2013,24,"San Luis Potosí","K00-K93",13100
+2013,24,"San Luis Potosí","L00-L99",2971
+2013,24,"San Luis Potosí","M00-M99",5360
+2013,24,"San Luis Potosí","N00-N99",9813
+2013,24,"San Luis Potosí","O00-O99",8031
+2013,24,"San Luis Potosí","P00-P96",922
+2013,24,"San Luis Potosí","Q00-Q99",171
+2013,24,"San Luis Potosí","R00-R99",5972
+2013,24,"San Luis Potosí","S00-T99",24366
+2013,24,"San Luis Potosí","Z00-Z99",18522
+2013,25,"Sinaloa","A00-B99",113
+2013,25,"Sinaloa","C00-D48",14
+2013,25,"Sinaloa","D50-D89",55
+2013,25,"Sinaloa","E00-E90",101
+2013,25,"Sinaloa","F00-F99",60
+2013,25,"Sinaloa","G00-G99",50
+2013,25,"Sinaloa","H00-H59",92
+2013,25,"Sinaloa","I00-I99",69
+2013,25,"Sinaloa","J00-J99",779
+2013,25,"Sinaloa","K00-K93",294
+2013,25,"Sinaloa","L00-L99",82
+2013,25,"Sinaloa","M00-M99",114
+2013,25,"Sinaloa","N00-N99",164
+2013,25,"Sinaloa","O00-O99",210
+2013,25,"Sinaloa","P00-P96",11
+2013,25,"Sinaloa","Q00-Q99",2
+2013,25,"Sinaloa","R00-R99",497
+2013,25,"Sinaloa","S00-T99",599
+2013,25,"Sinaloa","Z00-Z99",788
+2013,26,"Sonora","A00-B99",4725
+2013,26,"Sonora","C00-D48",1789
+2013,26,"Sonora","D50-D89",1041
+2013,26,"Sonora","E00-E90",6202
+2013,26,"Sonora","F00-F99",3868
+2013,26,"Sonora","G00-G99",3975
+2013,26,"Sonora","H00-H59",6714
+2013,26,"Sonora","I00-I99",5801
+2013,26,"Sonora","J00-J99",41229
+2013,26,"Sonora","K00-K93",23972
+2013,26,"Sonora","L00-L99",6266
+2013,26,"Sonora","M00-M99",9136
+2013,26,"Sonora","N00-N99",15864
+2013,26,"Sonora","O00-O99",25043
+2013,26,"Sonora","P00-P96",486
+2013,26,"Sonora","Q00-Q99",215
+2013,26,"Sonora","R00-R99",15949
+2013,26,"Sonora","S00-T99",53847
+2013,26,"Sonora","Z00-Z99",41805
+2013,27,"Tabasco","A00-B99",110
+2013,27,"Tabasco","C00-D48",28
+2013,27,"Tabasco","D50-D89",31
+2013,27,"Tabasco","E00-E90",171
+2013,27,"Tabasco","F00-F99",71
+2013,27,"Tabasco","G00-G99",33
+2013,27,"Tabasco","H00-H59",54
+2013,27,"Tabasco","I00-I99",50
+2013,27,"Tabasco","J00-J99",709
+2013,27,"Tabasco","K00-K93",381
+2013,27,"Tabasco","L00-L99",92
+2013,27,"Tabasco","M00-M99",86
+2013,27,"Tabasco","N00-N99",206
+2013,27,"Tabasco","O00-O99",782
+2013,27,"Tabasco","P00-P96",13
+2013,27,"Tabasco","Q00-Q99",3
+2013,27,"Tabasco","R00-R99",213
+2013,27,"Tabasco","S00-T99",437
+2013,27,"Tabasco","Z00-Z99",673
+2013,28,"Tamaulipas","A00-B99",4371
+2013,28,"Tamaulipas","C00-D48",1088
+2013,28,"Tamaulipas","D50-D89",1051
+2013,28,"Tamaulipas","E00-E90",8174
+2013,28,"Tamaulipas","F00-F99",2413
+2013,28,"Tamaulipas","G00-G99",2750
+2013,28,"Tamaulipas","H00-H59",4328
+2013,28,"Tamaulipas","I00-I99",3037
+2013,28,"Tamaulipas","J00-J99",31922
+2013,28,"Tamaulipas","K00-K93",19541
+2013,28,"Tamaulipas","L00-L99",3794
+2013,28,"Tamaulipas","M00-M99",7441
+2013,28,"Tamaulipas","N00-N99",11333
+2013,28,"Tamaulipas","O00-O99",18526
+2013,28,"Tamaulipas","P00-P96",771
+2013,28,"Tamaulipas","Q00-Q99",131
+2013,28,"Tamaulipas","R00-R99",12178
+2013,28,"Tamaulipas","S00-T99",31386
+2013,28,"Tamaulipas","Z00-Z99",25379
+2013,29,"Tlaxcala","A00-B99",2385
+2013,29,"Tlaxcala","C00-D48",1126
+2013,29,"Tlaxcala","D50-D89",606
+2013,29,"Tlaxcala","E00-E90",4325
+2013,29,"Tlaxcala","F00-F99",1570
+2013,29,"Tlaxcala","G00-G99",1515
+2013,29,"Tlaxcala","H00-H59",2133
+2013,29,"Tlaxcala","I00-I99",1622
+2013,29,"Tlaxcala","J00-J99",17676
+2013,29,"Tlaxcala","K00-K93",9166
+2013,29,"Tlaxcala","L00-L99",1849
+2013,29,"Tlaxcala","M00-M99",2926
+2013,29,"Tlaxcala","N00-N99",8129
+2013,29,"Tlaxcala","O00-O99",21108
+2013,29,"Tlaxcala","P00-P96",723
+2013,29,"Tlaxcala","Q00-Q99",471
+2013,29,"Tlaxcala","R00-R99",6091
+2013,29,"Tlaxcala","S00-T99",17214
+2013,29,"Tlaxcala","Z00-Z99",24266
+2013,30,"Veracruz de Ignacio de la Llave","A00-B99",10944
+2013,30,"Veracruz de Ignacio de la Llave","C00-D48",2910
+2013,30,"Veracruz de Ignacio de la Llave","D50-D89",2587
+2013,30,"Veracruz de Ignacio de la Llave","E00-E90",16697
+2013,30,"Veracruz de Ignacio de la Llave","F00-F99",8791
+2013,30,"Veracruz de Ignacio de la Llave","G00-G99",5706
+2013,30,"Veracruz de Ignacio de la Llave","H00-H59",7148
+2013,30,"Veracruz de Ignacio de la Llave","I00-I99",7260
+2013,30,"Veracruz de Ignacio de la Llave","J00-J99",49814
+2013,30,"Veracruz de Ignacio de la Llave","K00-K93",38243
+2013,30,"Veracruz de Ignacio de la Llave","L00-L99",8152
+2013,30,"Veracruz de Ignacio de la Llave","M00-M99",10881
+2013,30,"Veracruz de Ignacio de la Llave","N00-N99",25667
+2013,30,"Veracruz de Ignacio de la Llave","O00-O99",48336
+2013,30,"Veracruz de Ignacio de la Llave","P00-P96",2250
+2013,30,"Veracruz de Ignacio de la Llave","Q00-Q99",619
+2013,30,"Veracruz de Ignacio de la Llave","R00-R99",26513
+2013,30,"Veracruz de Ignacio de la Llave","S00-T99",58519
+2013,30,"Veracruz de Ignacio de la Llave","Z00-Z99",78087
+2013,31,"Yucatán","A00-B99",898
+2013,31,"Yucatán","C00-D48",184
+2013,31,"Yucatán","D50-D89",251
+2013,31,"Yucatán","E00-E90",1336
+2013,31,"Yucatán","F00-F99",1962
+2013,31,"Yucatán","G00-G99",566
+2013,31,"Yucatán","H00-H59",646
+2013,31,"Yucatán","I00-I99",503
+2013,31,"Yucatán","J00-J99",6238
+2013,31,"Yucatán","K00-K93",3196
+2013,31,"Yucatán","L00-L99",737
+2013,31,"Yucatán","M00-M99",1119
+2013,31,"Yucatán","N00-N99",2484
+2013,31,"Yucatán","O00-O99",3040
+2013,31,"Yucatán","P00-P96",102
+2013,31,"Yucatán","Q00-Q99",38
+2013,31,"Yucatán","R00-R99",3185
+2013,31,"Yucatán","S00-T99",7622
+2013,31,"Yucatán","Z00-Z99",1205
+2013,32,"Zacatecas","A00-B99",6212
+2013,32,"Zacatecas","C00-D48",971
+2013,32,"Zacatecas","D50-D89",984
+2013,32,"Zacatecas","E00-E90",4099
+2013,32,"Zacatecas","F00-F99",3236
+2013,32,"Zacatecas","G00-G99",3512
+2013,32,"Zacatecas","H00-H59",6098
+2013,32,"Zacatecas","I00-I99",2909
+2013,32,"Zacatecas","J00-J99",44100
+2013,32,"Zacatecas","K00-K93",22457
+2013,32,"Zacatecas","L00-L99",4826
+2013,32,"Zacatecas","M00-M99",10751
+2013,32,"Zacatecas","N00-N99",15821
+2013,32,"Zacatecas","O00-O99",7637
+2013,32,"Zacatecas","P00-P96",303
+2013,32,"Zacatecas","Q00-Q99",352
+2013,32,"Zacatecas","R00-R99",14673
+2013,32,"Zacatecas","S00-T99",31496
+2013,32,"Zacatecas","Z00-Z99",46344
+2014,1,"Aguascalientes","A00-B99",1571
+2014,1,"Aguascalientes","C00-D48",739
+2014,1,"Aguascalientes","D50-D89",551
+2014,1,"Aguascalientes","E00-E90",2724
+2014,1,"Aguascalientes","F00-F99",8033
+2014,1,"Aguascalientes","G00-G99",2097
+2014,1,"Aguascalientes","H00-H59",2286
+2014,1,"Aguascalientes","I00-I99",2165
+2014,1,"Aguascalientes","J00-J99",22000
+2014,1,"Aguascalientes","K00-K93",13582
+2014,1,"Aguascalientes","L00-L99",2136
+2014,1,"Aguascalientes","M00-M99",4586
+2014,1,"Aguascalientes","N00-N99",9806
+2014,1,"Aguascalientes","O00-O99",31034
+2014,1,"Aguascalientes","P00-P96",273
+2014,1,"Aguascalientes","Q00-Q99",490
+2014,1,"Aguascalientes","R00-R99",5642
+2014,1,"Aguascalientes","S00-T99",32090
+2014,1,"Aguascalientes","Z00-Z99",12352
+2014,2,"Baja California","A00-B99",3837
+2014,2,"Baja California","C00-D48",1540
+2014,2,"Baja California","D50-D89",1061
+2014,2,"Baja California","E00-E90",5998
+2014,2,"Baja California","F00-F99",2372
+2014,2,"Baja California","G00-G99",2311
+2014,2,"Baja California","H00-H59",3647
+2014,2,"Baja California","I00-I99",4070
+2014,2,"Baja California","J00-J99",26409
+2014,2,"Baja California","K00-K93",20048
+2014,2,"Baja California","L00-L99",4917
+2014,2,"Baja California","M00-M99",6911
+2014,2,"Baja California","N00-N99",10892
+2014,2,"Baja California","O00-O99",9420
+2014,2,"Baja California","P00-P96",261
+2014,2,"Baja California","Q00-Q99",178
+2014,2,"Baja California","R00-R99",10379
+2014,2,"Baja California","S00-T99",22021
+2014,2,"Baja California","Z00-Z99",50736
+2014,3,"Baja California Sur","A00-B99",1522
+2014,3,"Baja California Sur","C00-D48",301
+2014,3,"Baja California Sur","D50-D89",228
+2014,3,"Baja California Sur","E00-E90",1960
+2014,3,"Baja California Sur","F00-F99",1295
+2014,3,"Baja California Sur","G00-G99",1478
+2014,3,"Baja California Sur","H00-H59",2689
+2014,3,"Baja California Sur","I00-I99",592
+2014,3,"Baja California Sur","J00-J99",11733
+2014,3,"Baja California Sur","K00-K93",7867
+2014,3,"Baja California Sur","L00-L99",1944
+2014,3,"Baja California Sur","M00-M99",3619
+2014,3,"Baja California Sur","N00-N99",4920
+2014,3,"Baja California Sur","O00-O99",2175
+2014,3,"Baja California Sur","P00-P96",223
+2014,3,"Baja California Sur","Q00-Q99",52
+2014,3,"Baja California Sur","R00-R99",6649
+2014,3,"Baja California Sur","S00-T99",8404
+2014,3,"Baja California Sur","Z00-Z99",13942
+2014,4,"Campeche","A00-B99",5568
+2014,4,"Campeche","C00-D48",568
+2014,4,"Campeche","D50-D89",428
+2014,4,"Campeche","E00-E90",3638
+2014,4,"Campeche","F00-F99",1740
+2014,4,"Campeche","G00-G99",1053
+2014,4,"Campeche","H00-H59",2197
+2014,4,"Campeche","I00-I99",944
+2014,4,"Campeche","J00-J99",16314
+2014,4,"Campeche","K00-K93",9163
+2014,4,"Campeche","L00-L99",2658
+2014,4,"Campeche","M00-M99",3257
+2014,4,"Campeche","N00-N99",7262
+2014,4,"Campeche","O00-O99",18052
+2014,4,"Campeche","P00-P96",259
+2014,4,"Campeche","Q00-Q99",87
+2014,4,"Campeche","R00-R99",7982
+2014,4,"Campeche","S00-T99",15077
+2014,4,"Campeche","Z00-Z99",7069
+2014,5,"Coahuila de Zaragoza","A00-B99",1782
+2014,5,"Coahuila de Zaragoza","C00-D48",1291
+2014,5,"Coahuila de Zaragoza","D50-D89",498
+2014,5,"Coahuila de Zaragoza","E00-E90",4534
+2014,5,"Coahuila de Zaragoza","F00-F99",1801
+2014,5,"Coahuila de Zaragoza","G00-G99",1181
+2014,5,"Coahuila de Zaragoza","H00-H59",2513
+2014,5,"Coahuila de Zaragoza","I00-I99",1429
+2014,5,"Coahuila de Zaragoza","J00-J99",14282
+2014,5,"Coahuila de Zaragoza","K00-K93",10062
+2014,5,"Coahuila de Zaragoza","L00-L99",2017
+2014,5,"Coahuila de Zaragoza","M00-M99",2889
+2014,5,"Coahuila de Zaragoza","N00-N99",6603
+2014,5,"Coahuila de Zaragoza","O00-O99",26911
+2014,5,"Coahuila de Zaragoza","P00-P96",691
+2014,5,"Coahuila de Zaragoza","Q00-Q99",247
+2014,5,"Coahuila de Zaragoza","R00-R99",5126
+2014,5,"Coahuila de Zaragoza","S00-T99",18473
+2014,5,"Coahuila de Zaragoza","Z00-Z99",10657
+2014,6,"Colima","A00-B99",1230
+2014,6,"Colima","C00-D48",488
+2014,6,"Colima","D50-D89",243
+2014,6,"Colima","E00-E90",3081
+2014,6,"Colima","F00-F99",1614
+2014,6,"Colima","G00-G99",1150
+2014,6,"Colima","H00-H59",1892
+2014,6,"Colima","I00-I99",841
+2014,6,"Colima","J00-J99",12622
+2014,6,"Colima","K00-K93",8082
+2014,6,"Colima","L00-L99",1799
+2014,6,"Colima","M00-M99",2759
+2014,6,"Colima","N00-N99",4710
+2014,6,"Colima","O00-O99",3507
+2014,6,"Colima","P00-P96",279
+2014,6,"Colima","Q00-Q99",139
+2014,6,"Colima","R00-R99",7063
+2014,6,"Colima","S00-T99",16508
+2014,6,"Colima","Z00-Z99",9796
+2014,7,"Chiapas","A00-B99",18625
+2014,7,"Chiapas","C00-D48",2964
+2014,7,"Chiapas","D50-D89",1828
+2014,7,"Chiapas","E00-E90",11288
+2014,7,"Chiapas","F00-F99",2985
+2014,7,"Chiapas","G00-G99",2870
+2014,7,"Chiapas","H00-H59",4923
+2014,7,"Chiapas","I00-I99",2761
+2014,7,"Chiapas","J00-J99",50342
+2014,7,"Chiapas","K00-K93",30649
+2014,7,"Chiapas","L00-L99",5437
+2014,7,"Chiapas","M00-M99",7662
+2014,7,"Chiapas","N00-N99",19706
+2014,7,"Chiapas","O00-O99",52949
+2014,7,"Chiapas","P00-P96",1207
+2014,7,"Chiapas","Q00-Q99",416
+2014,7,"Chiapas","R00-R99",14647
+2014,7,"Chiapas","S00-T99",28527
+2014,7,"Chiapas","Z00-Z99",59796
+2014,8,"Chihuahua","A00-B99",2026
+2014,8,"Chihuahua","C00-D48",729
+2014,8,"Chihuahua","D50-D89",412
+2014,8,"Chihuahua","E00-E90",1798
+2014,8,"Chihuahua","F00-F99",954
+2014,8,"Chihuahua","G00-G99",1368
+2014,8,"Chihuahua","H00-H59",1705
+2014,8,"Chihuahua","I00-I99",1505
+2014,8,"Chihuahua","J00-J99",14137
+2014,8,"Chihuahua","K00-K93",6667
+2014,8,"Chihuahua","L00-L99",2057
+2014,8,"Chihuahua","M00-M99",3616
+2014,8,"Chihuahua","N00-N99",5728
+2014,8,"Chihuahua","O00-O99",14142
+2014,8,"Chihuahua","P00-P96",166
+2014,8,"Chihuahua","Q00-Q99",105
+2014,8,"Chihuahua","R00-R99",3338
+2014,8,"Chihuahua","S00-T99",14485
+2014,8,"Chihuahua","Z00-Z99",20730
+2014,9,"Ciudad de México","A00-B99",11725
+2014,9,"Ciudad de México","C00-D48",4853
+2014,9,"Ciudad de México","D50-D89",2257
+2014,9,"Ciudad de México","E00-E90",26348
+2014,9,"Ciudad de México","F00-F99",17538
+2014,9,"Ciudad de México","G00-G99",10475
+2014,9,"Ciudad de México","H00-H59",11932
+2014,9,"Ciudad de México","I00-I99",12959
+2014,9,"Ciudad de México","J00-J99",100852
+2014,9,"Ciudad de México","K00-K93",61109
+2014,9,"Ciudad de México","L00-L99",14183
+2014,9,"Ciudad de México","M00-M99",35221
+2014,9,"Ciudad de México","N00-N99",53640
+2014,9,"Ciudad de México","O00-O99",142127
+2014,9,"Ciudad de México","P00-P96",2533
+2014,9,"Ciudad de México","Q00-Q99",1173
+2014,9,"Ciudad de México","R00-R99",24968
+2014,9,"Ciudad de México","S00-T99",195111
+2014,9,"Ciudad de México","Z00-Z99",70743
+2014,10,"Durango","A00-B99",3871
+2014,10,"Durango","C00-D48",592
+2014,10,"Durango","D50-D89",520
+2014,10,"Durango","E00-E90",4507
+2014,10,"Durango","F00-F99",2616
+2014,10,"Durango","G00-G99",3564
+2014,10,"Durango","H00-H59",3737
+2014,10,"Durango","I00-I99",2210
+2014,10,"Durango","J00-J99",35555
+2014,10,"Durango","K00-K93",16114
+2014,10,"Durango","L00-L99",3932
+2014,10,"Durango","M00-M99",6461
+2014,10,"Durango","N00-N99",10049
+2014,10,"Durango","O00-O99",21815
+2014,10,"Durango","P00-P96",227
+2014,10,"Durango","Q00-Q99",78
+2014,10,"Durango","R00-R99",1199
+2014,10,"Durango","S00-T99",24994
+2014,10,"Durango","Z00-Z99",36636
+2014,11,"Guanajuato","A00-B99",8564
+2014,11,"Guanajuato","C00-D48",5171
+2014,11,"Guanajuato","D50-D89",3084
+2014,11,"Guanajuato","E00-E90",23560
+2014,11,"Guanajuato","F00-F99",10504
+2014,11,"Guanajuato","G00-G99",8310
+2014,11,"Guanajuato","H00-H59",10747
+2014,11,"Guanajuato","I00-I99",8236
+2014,11,"Guanajuato","J00-J99",139541
+2014,11,"Guanajuato","K00-K93",61948
+2014,11,"Guanajuato","L00-L99",13446
+2014,11,"Guanajuato","M00-M99",22571
+2014,11,"Guanajuato","N00-N99",44254
+2014,11,"Guanajuato","O00-O99",57133
+2014,11,"Guanajuato","P00-P96",2485
+2014,11,"Guanajuato","Q00-Q99",826
+2014,11,"Guanajuato","R00-R99",36991
+2014,11,"Guanajuato","S00-T99",179503
+2014,11,"Guanajuato","Z00-Z99",106846
+2014,12,"Guerrero","A00-B99",6933
+2014,12,"Guerrero","C00-D48",1359
+2014,12,"Guerrero","D50-D89",1763
+2014,12,"Guerrero","E00-E90",9725
+2014,12,"Guerrero","F00-F99",2740
+2014,12,"Guerrero","G00-G99",2242
+2014,12,"Guerrero","H00-H59",3085
+2014,12,"Guerrero","I00-I99",3089
+2014,12,"Guerrero","J00-J99",28223
+2014,12,"Guerrero","K00-K93",22416
+2014,12,"Guerrero","L00-L99",3910
+2014,12,"Guerrero","M00-M99",4731
+2014,12,"Guerrero","N00-N99",13317
+2014,12,"Guerrero","O00-O99",27561
+2014,12,"Guerrero","P00-P96",827
+2014,12,"Guerrero","Q00-Q99",333
+2014,12,"Guerrero","R00-R99",14245
+2014,12,"Guerrero","S00-T99",40669
+2014,12,"Guerrero","Z00-Z99",42424
+2014,13,"Hidalgo","A00-B99",2650
+2014,13,"Hidalgo","C00-D48",1986
+2014,13,"Hidalgo","D50-D89",1307
+2014,13,"Hidalgo","E00-E90",8056
+2014,13,"Hidalgo","F00-F99",1960
+2014,13,"Hidalgo","G00-G99",3059
+2014,13,"Hidalgo","H00-H59",1918
+2014,13,"Hidalgo","I00-I99",3703
+2014,13,"Hidalgo","J00-J99",20905
+2014,13,"Hidalgo","K00-K93",17955
+2014,13,"Hidalgo","L00-L99",2354
+2014,13,"Hidalgo","M00-M99",6141
+2014,13,"Hidalgo","N00-N99",10342
+2014,13,"Hidalgo","O00-O99",22673
+2014,13,"Hidalgo","P00-P96",507
+2014,13,"Hidalgo","Q00-Q99",290
+2014,13,"Hidalgo","R00-R99",9902
+2014,13,"Hidalgo","S00-T99",33319
+2014,13,"Hidalgo","Z00-Z99",42370
+2014,14,"Jalisco","A00-B99",8447
+2014,14,"Jalisco","C00-D48",2564
+2014,14,"Jalisco","D50-D89",2013
+2014,14,"Jalisco","E00-E90",11347
+2014,14,"Jalisco","F00-F99",12493
+2014,14,"Jalisco","G00-G99",6945
+2014,14,"Jalisco","H00-H59",10193
+2014,14,"Jalisco","I00-I99",7128
+2014,14,"Jalisco","J00-J99",89562
+2014,14,"Jalisco","K00-K93",43582
+2014,14,"Jalisco","L00-L99",9691
+2014,14,"Jalisco","M00-M99",17858
+2014,14,"Jalisco","N00-N99",31793
+2014,14,"Jalisco","O00-O99",62171
+2014,14,"Jalisco","P00-P96",1612
+2014,14,"Jalisco","Q00-Q99",624
+2014,14,"Jalisco","R00-R99",58888
+2014,14,"Jalisco","S00-T99",85394
+2014,14,"Jalisco","Z00-Z99",133557
+2014,15,"Estado de México","A00-B99",20684
+2014,15,"Estado de México","C00-D48",6048
+2014,15,"Estado de México","D50-D89",3282
+2014,15,"Estado de México","E00-E90",36155
+2014,15,"Estado de México","F00-F99",12259
+2014,15,"Estado de México","G00-G99",13735
+2014,15,"Estado de México","H00-H59",13297
+2014,15,"Estado de México","I00-I99",12027
+2014,15,"Estado de México","J00-J99",179883
+2014,15,"Estado de México","K00-K93",86433
+2014,15,"Estado de México","L00-L99",17850
+2014,15,"Estado de México","M00-M99",32009
+2014,15,"Estado de México","N00-N99",76435
+2014,15,"Estado de México","O00-O99",157904
+2014,15,"Estado de México","P00-P96",5789
+2014,15,"Estado de México","Q00-Q99",1354
+2014,15,"Estado de México","R00-R99",47993
+2014,15,"Estado de México","S00-T99",173033
+2014,15,"Estado de México","Z00-Z99",274535
+2014,16,"Michoacán de Ocampo","A00-B99",5044
+2014,16,"Michoacán de Ocampo","C00-D48",2911
+2014,16,"Michoacán de Ocampo","D50-D89",1470
+2014,16,"Michoacán de Ocampo","E00-E90",11825
+2014,16,"Michoacán de Ocampo","F00-F99",5406
+2014,16,"Michoacán de Ocampo","G00-G99",5271
+2014,16,"Michoacán de Ocampo","H00-H59",3598
+2014,16,"Michoacán de Ocampo","I00-I99",4241
+2014,16,"Michoacán de Ocampo","J00-J99",37593
+2014,16,"Michoacán de Ocampo","K00-K93",30066
+2014,16,"Michoacán de Ocampo","L00-L99",5372
+2014,16,"Michoacán de Ocampo","M00-M99",8011
+2014,16,"Michoacán de Ocampo","N00-N99",18106
+2014,16,"Michoacán de Ocampo","O00-O99",31495
+2014,16,"Michoacán de Ocampo","P00-P96",1078
+2014,16,"Michoacán de Ocampo","Q00-Q99",796
+2014,16,"Michoacán de Ocampo","R00-R99",16240
+2014,16,"Michoacán de Ocampo","S00-T99",63935
+2014,16,"Michoacán de Ocampo","Z00-Z99",48673
+2014,17,"Morelos","A00-B99",4282
+2014,17,"Morelos","C00-D48",1452
+2014,17,"Morelos","D50-D89",1346
+2014,17,"Morelos","E00-E90",9474
+2014,17,"Morelos","F00-F99",2928
+2014,17,"Morelos","G00-G99",3463
+2014,17,"Morelos","H00-H59",5853
+2014,17,"Morelos","I00-I99",2619
+2014,17,"Morelos","J00-J99",44808
+2014,17,"Morelos","K00-K93",21604
+2014,17,"Morelos","L00-L99",5418
+2014,17,"Morelos","M00-M99",6425
+2014,17,"Morelos","N00-N99",17816
+2014,17,"Morelos","O00-O99",39127
+2014,17,"Morelos","P00-P96",1023
+2014,17,"Morelos","Q00-Q99",535
+2014,17,"Morelos","R00-R99",15216
+2014,17,"Morelos","S00-T99",53461
+2014,17,"Morelos","Z00-Z99",19371
+2014,18,"Nayarit","A00-B99",2365
+2014,18,"Nayarit","C00-D48",791
+2014,18,"Nayarit","D50-D89",445
+2014,18,"Nayarit","E00-E90",3434
+2014,18,"Nayarit","F00-F99",1432
+2014,18,"Nayarit","G00-G99",1465
+2014,18,"Nayarit","H00-H59",2326
+2014,18,"Nayarit","I00-I99",1904
+2014,18,"Nayarit","J00-J99",13891
+2014,18,"Nayarit","K00-K93",8215
+2014,18,"Nayarit","L00-L99",2255
+2014,18,"Nayarit","M00-M99",2916
+2014,18,"Nayarit","N00-N99",6013
+2014,18,"Nayarit","O00-O99",4141
+2014,18,"Nayarit","P00-P96",160
+2014,18,"Nayarit","Q00-Q99",55
+2014,18,"Nayarit","R00-R99",6067
+2014,18,"Nayarit","S00-T99",21185
+2014,18,"Nayarit","Z00-Z99",7693
+2014,19,"Nuevo León","A00-B99",3887
+2014,19,"Nuevo León","C00-D48",519
+2014,19,"Nuevo León","D50-D89",459
+2014,19,"Nuevo León","E00-E90",3376
+2014,19,"Nuevo León","F00-F99",2423
+2014,19,"Nuevo León","G00-G99",2026
+2014,19,"Nuevo León","H00-H59",4892
+2014,19,"Nuevo León","I00-I99",1567
+2014,19,"Nuevo León","J00-J99",23287
+2014,19,"Nuevo León","K00-K93",13192
+2014,19,"Nuevo León","L00-L99",3904
+2014,19,"Nuevo León","M00-M99",6383
+2014,19,"Nuevo León","N00-N99",7873
+2014,19,"Nuevo León","O00-O99",24499
+2014,19,"Nuevo León","P00-P96",377
+2014,19,"Nuevo León","Q00-Q99",231
+2014,19,"Nuevo León","R00-R99",12614
+2014,19,"Nuevo León","S00-T99",27105
+2014,19,"Nuevo León","Z00-Z99",36021
+2014,20,"Oaxaca","A00-B99",5913
+2014,20,"Oaxaca","C00-D48",2144
+2014,20,"Oaxaca","D50-D89",1774
+2014,20,"Oaxaca","E00-E90",8939
+2014,20,"Oaxaca","F00-F99",2539
+2014,20,"Oaxaca","G00-G99",3243
+2014,20,"Oaxaca","H00-H59",4441
+2014,20,"Oaxaca","I00-I99",3547
+2014,20,"Oaxaca","J00-J99",35034
+2014,20,"Oaxaca","K00-K93",18866
+2014,20,"Oaxaca","L00-L99",4174
+2014,20,"Oaxaca","M00-M99",6159
+2014,20,"Oaxaca","N00-N99",15372
+2014,20,"Oaxaca","O00-O99",35033
+2014,20,"Oaxaca","P00-P96",1568
+2014,20,"Oaxaca","Q00-Q99",427
+2014,20,"Oaxaca","R00-R99",13500
+2014,20,"Oaxaca","S00-T99",34219
+2014,20,"Oaxaca","Z00-Z99",57354
+2014,21,"Puebla","A00-B99",11916
+2014,21,"Puebla","C00-D48",3467
+2014,21,"Puebla","D50-D89",2782
+2014,21,"Puebla","E00-E90",16631
+2014,21,"Puebla","F00-F99",4850
+2014,21,"Puebla","G00-G99",4849
+2014,21,"Puebla","H00-H59",6603
+2014,21,"Puebla","I00-I99",6590
+2014,21,"Puebla","J00-J99",72417
+2014,21,"Puebla","K00-K93",32934
+2014,21,"Puebla","L00-L99",7669
+2014,21,"Puebla","M00-M99",11394
+2014,21,"Puebla","N00-N99",25108
+2014,21,"Puebla","O00-O99",54985
+2014,21,"Puebla","P00-P96",1684
+2014,21,"Puebla","Q00-Q99",566
+2014,21,"Puebla","R00-R99",16160
+2014,21,"Puebla","S00-T99",62487
+2014,21,"Puebla","Z00-Z99",76173
+2014,22,"Querétaro","A00-B99",2932
+2014,22,"Querétaro","C00-D48",1751
+2014,22,"Querétaro","D50-D89",874
+2014,22,"Querétaro","E00-E90",5849
+2014,22,"Querétaro","F00-F99",2107
+2014,22,"Querétaro","G00-G99",1465
+2014,22,"Querétaro","H00-H59",1659
+2014,22,"Querétaro","I00-I99",1839
+2014,22,"Querétaro","J00-J99",18501
+2014,22,"Querétaro","K00-K93",12041
+2014,22,"Querétaro","L00-L99",2355
+2014,22,"Querétaro","M00-M99",2846
+2014,22,"Querétaro","N00-N99",8402
+2014,22,"Querétaro","O00-O99",39298
+2014,22,"Querétaro","P00-P96",1157
+2014,22,"Querétaro","Q00-Q99",244
+2014,22,"Querétaro","R00-R99",8562
+2014,22,"Querétaro","S00-T99",22511
+2014,22,"Querétaro","Z00-Z99",33654
+2014,23,"Quintana Roo","A00-B99",2394
+2014,23,"Quintana Roo","C00-D48",367
+2014,23,"Quintana Roo","D50-D89",375
+2014,23,"Quintana Roo","E00-E90",2571
+2014,23,"Quintana Roo","F00-F99",1149
+2014,23,"Quintana Roo","G00-G99",989
+2014,23,"Quintana Roo","H00-H59",1774
+2014,23,"Quintana Roo","I00-I99",590
+2014,23,"Quintana Roo","J00-J99",14161
+2014,23,"Quintana Roo","K00-K93",6416
+2014,23,"Quintana Roo","L00-L99",1918
+2014,23,"Quintana Roo","M00-M99",2639
+2014,23,"Quintana Roo","N00-N99",5930
+2014,23,"Quintana Roo","O00-O99",9983
+2014,23,"Quintana Roo","P00-P96",270
+2014,23,"Quintana Roo","Q00-Q99",42
+2014,23,"Quintana Roo","R00-R99",5999
+2014,23,"Quintana Roo","S00-T99",14574
+2014,23,"Quintana Roo","Z00-Z99",23156
+2014,24,"San Luis Potosí","A00-B99",3087
+2014,24,"San Luis Potosí","C00-D48",993
+2014,24,"San Luis Potosí","D50-D89",737
+2014,24,"San Luis Potosí","E00-E90",5580
+2014,24,"San Luis Potosí","F00-F99",2419
+2014,24,"San Luis Potosí","G00-G99",3090
+2014,24,"San Luis Potosí","H00-H59",3882
+2014,24,"San Luis Potosí","I00-I99",2154
+2014,24,"San Luis Potosí","J00-J99",30294
+2014,24,"San Luis Potosí","K00-K93",15012
+2014,24,"San Luis Potosí","L00-L99",3711
+2014,24,"San Luis Potosí","M00-M99",6927
+2014,24,"San Luis Potosí","N00-N99",11026
+2014,24,"San Luis Potosí","O00-O99",11955
+2014,24,"San Luis Potosí","P00-P96",1050
+2014,24,"San Luis Potosí","Q00-Q99",196
+2014,24,"San Luis Potosí","R00-R99",7270
+2014,24,"San Luis Potosí","S00-T99",29733
+2014,24,"San Luis Potosí","Z00-Z99",21452
+2014,25,"Sinaloa","A00-B99",7596
+2014,25,"Sinaloa","C00-D48",1394
+2014,25,"Sinaloa","D50-D89",2118
+2014,25,"Sinaloa","E00-E90",6335
+2014,25,"Sinaloa","F00-F99",3842
+2014,25,"Sinaloa","G00-G99",3546
+2014,25,"Sinaloa","H00-H59",6302
+2014,25,"Sinaloa","I00-I99",3401
+2014,25,"Sinaloa","J00-J99",43375
+2014,25,"Sinaloa","K00-K93",22085
+2014,25,"Sinaloa","L00-L99",5717
+2014,25,"Sinaloa","M00-M99",10093
+2014,25,"Sinaloa","N00-N99",14371
+2014,25,"Sinaloa","O00-O99",17576
+2014,25,"Sinaloa","P00-P96",517
+2014,25,"Sinaloa","Q00-Q99",311
+2014,25,"Sinaloa","R00-R99",41064
+2014,25,"Sinaloa","S00-T99",40809
+2014,25,"Sinaloa","Z00-Z99",52859
+2014,26,"Sonora","A00-B99",5682
+2014,26,"Sonora","C00-D48",1844
+2014,26,"Sonora","D50-D89",973
+2014,26,"Sonora","E00-E90",6047
+2014,26,"Sonora","F00-F99",3524
+2014,26,"Sonora","G00-G99",3373
+2014,26,"Sonora","H00-H59",6692
+2014,26,"Sonora","I00-I99",5434
+2014,26,"Sonora","J00-J99",44451
+2014,26,"Sonora","K00-K93",21701
+2014,26,"Sonora","L00-L99",6635
+2014,26,"Sonora","M00-M99",8796
+2014,26,"Sonora","N00-N99",16681
+2014,26,"Sonora","O00-O99",23379
+2014,26,"Sonora","P00-P96",329
+2014,26,"Sonora","Q00-Q99",242
+2014,26,"Sonora","R00-R99",22323
+2014,26,"Sonora","S00-T99",50663
+2014,26,"Sonora","Z00-Z99",42769
+2014,27,"Tabasco","A00-B99",7437
+2014,27,"Tabasco","C00-D48",2705
+2014,27,"Tabasco","D50-D89",2209
+2014,27,"Tabasco","E00-E90",14381
+2014,27,"Tabasco","F00-F99",6662
+2014,27,"Tabasco","G00-G99",3269
+2014,27,"Tabasco","H00-H59",5565
+2014,27,"Tabasco","I00-I99",3808
+2014,27,"Tabasco","J00-J99",48012
+2014,27,"Tabasco","K00-K93",29385
+2014,27,"Tabasco","L00-L99",6086
+2014,27,"Tabasco","M00-M99",7496
+2014,27,"Tabasco","N00-N99",21499
+2014,27,"Tabasco","O00-O99",65852
+2014,27,"Tabasco","P00-P96",1222
+2014,27,"Tabasco","Q00-Q99",671
+2014,27,"Tabasco","R00-R99",17065
+2014,27,"Tabasco","S00-T99",44929
+2014,27,"Tabasco","Z00-Z99",48594
+2014,28,"Tamaulipas","A00-B99",4654
+2014,28,"Tamaulipas","C00-D48",1354
+2014,28,"Tamaulipas","D50-D89",1175
+2014,28,"Tamaulipas","E00-E90",9022
+2014,28,"Tamaulipas","F00-F99",2642
+2014,28,"Tamaulipas","G00-G99",2999
+2014,28,"Tamaulipas","H00-H59",4597
+2014,28,"Tamaulipas","I00-I99",3208
+2014,28,"Tamaulipas","J00-J99",33669
+2014,28,"Tamaulipas","K00-K93",19638
+2014,28,"Tamaulipas","L00-L99",4303
+2014,28,"Tamaulipas","M00-M99",8441
+2014,28,"Tamaulipas","N00-N99",12830
+2014,28,"Tamaulipas","O00-O99",18944
+2014,28,"Tamaulipas","P00-P96",755
+2014,28,"Tamaulipas","Q00-Q99",144
+2014,28,"Tamaulipas","R00-R99",11559
+2014,28,"Tamaulipas","S00-T99",36511
+2014,28,"Tamaulipas","Z00-Z99",28875
+2014,29,"Tlaxcala","A00-B99",2422
+2014,29,"Tlaxcala","C00-D48",1261
+2014,29,"Tlaxcala","D50-D89",734
+2014,29,"Tlaxcala","E00-E90",5297
+2014,29,"Tlaxcala","F00-F99",1782
+2014,29,"Tlaxcala","G00-G99",1714
+2014,29,"Tlaxcala","H00-H59",2212
+2014,29,"Tlaxcala","I00-I99",1753
+2014,29,"Tlaxcala","J00-J99",20155
+2014,29,"Tlaxcala","K00-K93",10144
+2014,29,"Tlaxcala","L00-L99",2226
+2014,29,"Tlaxcala","M00-M99",3514
+2014,29,"Tlaxcala","N00-N99",8465
+2014,29,"Tlaxcala","O00-O99",21203
+2014,29,"Tlaxcala","P00-P96",646
+2014,29,"Tlaxcala","Q00-Q99",577
+2014,29,"Tlaxcala","R00-R99",6205
+2014,29,"Tlaxcala","S00-T99",20508
+2014,29,"Tlaxcala","Z00-Z99",24229
+2014,30,"Veracruz de Ignacio de la Llave","A00-B99",12894
+2014,30,"Veracruz de Ignacio de la Llave","C00-D48",3016
+2014,30,"Veracruz de Ignacio de la Llave","D50-D89",2768
+2014,30,"Veracruz de Ignacio de la Llave","E00-E90",18081
+2014,30,"Veracruz de Ignacio de la Llave","F00-F99",10488
+2014,30,"Veracruz de Ignacio de la Llave","G00-G99",6033
+2014,30,"Veracruz de Ignacio de la Llave","H00-H59",6928
+2014,30,"Veracruz de Ignacio de la Llave","I00-I99",6755
+2014,30,"Veracruz de Ignacio de la Llave","J00-J99",49992
+2014,30,"Veracruz de Ignacio de la Llave","K00-K93",39549
+2014,30,"Veracruz de Ignacio de la Llave","L00-L99",8424
+2014,30,"Veracruz de Ignacio de la Llave","M00-M99",11089
+2014,30,"Veracruz de Ignacio de la Llave","N00-N99",27288
+2014,30,"Veracruz de Ignacio de la Llave","O00-O99",52514
+2014,30,"Veracruz de Ignacio de la Llave","P00-P96",2339
+2014,30,"Veracruz de Ignacio de la Llave","Q00-Q99",768
+2014,30,"Veracruz de Ignacio de la Llave","R00-R99",26597
+2014,30,"Veracruz de Ignacio de la Llave","S00-T99",61150
+2014,30,"Veracruz de Ignacio de la Llave","Z00-Z99",83357
+2014,31,"Yucatán","A00-B99",656
+2014,31,"Yucatán","C00-D48",175
+2014,31,"Yucatán","D50-D89",278
+2014,31,"Yucatán","E00-E90",1818
+2014,31,"Yucatán","F00-F99",2087
+2014,31,"Yucatán","G00-G99",599
+2014,31,"Yucatán","H00-H59",494
+2014,31,"Yucatán","I00-I99",572
+2014,31,"Yucatán","J00-J99",3928
+2014,31,"Yucatán","K00-K93",3246
+2014,31,"Yucatán","L00-L99",701
+2014,31,"Yucatán","M00-M99",1026
+2014,31,"Yucatán","N00-N99",2354
+2014,31,"Yucatán","O00-O99",2612
+2014,31,"Yucatán","P00-P96",125
+2014,31,"Yucatán","Q00-Q99",51
+2014,31,"Yucatán","R00-R99",2683
+2014,31,"Yucatán","S00-T99",9247
+2014,31,"Yucatán","Z00-Z99",1381
+2014,32,"Zacatecas","A00-B99",5010
+2014,32,"Zacatecas","C00-D48",1137
+2014,32,"Zacatecas","D50-D89",1042
+2014,32,"Zacatecas","E00-E90",4648
+2014,32,"Zacatecas","F00-F99",3236
+2014,32,"Zacatecas","G00-G99",3822
+2014,32,"Zacatecas","H00-H59",6257
+2014,32,"Zacatecas","I00-I99",2656
+2014,32,"Zacatecas","J00-J99",49899
+2014,32,"Zacatecas","K00-K93",19750
+2014,32,"Zacatecas","L00-L99",4895
+2014,32,"Zacatecas","M00-M99",11580
+2014,32,"Zacatecas","N00-N99",15783
+2014,32,"Zacatecas","O00-O99",7110
+2014,32,"Zacatecas","P00-P96",285
+2014,32,"Zacatecas","Q00-Q99",280
+2014,32,"Zacatecas","R00-R99",19072
+2014,32,"Zacatecas","S00-T99",31555
+2014,32,"Zacatecas","Z00-Z99",49282
+2015,1,"Aguascalientes","A00-B99",1493
+2015,1,"Aguascalientes","C00-D48",843
+2015,1,"Aguascalientes","D50-D89",601
+2015,1,"Aguascalientes","E00-E90",3123
+2015,1,"Aguascalientes","F00-F99",7917
+2015,1,"Aguascalientes","G00-G99",2115
+2015,1,"Aguascalientes","H00-H59",2282
+2015,1,"Aguascalientes","I00-I99",2224
+2015,1,"Aguascalientes","J00-J99",18506
+2015,1,"Aguascalientes","K00-K93",13601
+2015,1,"Aguascalientes","L00-L99",2488
+2015,1,"Aguascalientes","M00-M99",5262
+2015,1,"Aguascalientes","N00-N99",9800
+2015,1,"Aguascalientes","O00-O99",20558
+2015,1,"Aguascalientes","P00-P96",205
+2015,1,"Aguascalientes","Q00-Q99",369
+2015,1,"Aguascalientes","R00-R99",6794
+2015,1,"Aguascalientes","S00-T99",31364
+2015,1,"Aguascalientes","V01-Y98",1
+2015,1,"Aguascalientes","Z00-Z99",21370
+2015,2,"Baja California","A00-B99",2515
+2015,2,"Baja California","C00-D48",1172
+2015,2,"Baja California","D50-D89",658
+2015,2,"Baja California","E00-E90",4131
+2015,2,"Baja California","F00-F99",2188
+2015,2,"Baja California","G00-G99",1832
+2015,2,"Baja California","H00-H59",3227
+2015,2,"Baja California","I00-I99",2511
+2015,2,"Baja California","J00-J99",18694
+2015,2,"Baja California","K00-K93",13465
+2015,2,"Baja California","L00-L99",4131
+2015,2,"Baja California","M00-M99",5675
+2015,2,"Baja California","N00-N99",8681
+2015,2,"Baja California","O00-O99",9017
+2015,2,"Baja California","P00-P96",156
+2015,2,"Baja California","Q00-Q99",132
+2015,2,"Baja California","R00-R99",9868
+2015,2,"Baja California","S00-T99",18801
+2015,2,"Baja California","Z00-Z99",45304
+2015,3,"Baja California Sur","A00-B99",1482
+2015,3,"Baja California Sur","C00-D48",348
+2015,3,"Baja California Sur","D50-D89",273
+2015,3,"Baja California Sur","E00-E90",1805
+2015,3,"Baja California Sur","F00-F99",1197
+2015,3,"Baja California Sur","G00-G99",1422
+2015,3,"Baja California Sur","H00-H59",2867
+2015,3,"Baja California Sur","I00-I99",721
+2015,3,"Baja California Sur","J00-J99",11340
+2015,3,"Baja California Sur","K00-K93",7846
+2015,3,"Baja California Sur","L00-L99",1992
+2015,3,"Baja California Sur","M00-M99",3911
+2015,3,"Baja California Sur","N00-N99",4698
+2015,3,"Baja California Sur","O00-O99",2418
+2015,3,"Baja California Sur","P00-P96",164
+2015,3,"Baja California Sur","Q00-Q99",68
+2015,3,"Baja California Sur","R00-R99",5676
+2015,3,"Baja California Sur","S00-T99",8112
+2015,3,"Baja California Sur","Z00-Z99",13744
+2015,4,"Campeche","A00-B99",6863
+2015,4,"Campeche","C00-D48",608
+2015,4,"Campeche","D50-D89",455
+2015,4,"Campeche","E00-E90",3920
+2015,4,"Campeche","F00-F99",1722
+2015,4,"Campeche","G00-G99",1104
+2015,4,"Campeche","H00-H59",2258
+2015,4,"Campeche","I00-I99",998
+2015,4,"Campeche","J00-J99",16507
+2015,4,"Campeche","K00-K93",9882
+2015,4,"Campeche","L00-L99",2838
+2015,4,"Campeche","M00-M99",3862
+2015,4,"Campeche","N00-N99",7712
+2015,4,"Campeche","O00-O99",19739
+2015,4,"Campeche","P00-P96",300
+2015,4,"Campeche","Q00-Q99",102
+2015,4,"Campeche","R00-R99",14368
+2015,4,"Campeche","S00-T99",14736
+2015,4,"Campeche","Z00-Z99",9228
+2015,5,"Coahuila de Zaragoza","A00-B99",1669
+2015,5,"Coahuila de Zaragoza","C00-D48",1008
+2015,5,"Coahuila de Zaragoza","D50-D89",433
+2015,5,"Coahuila de Zaragoza","E00-E90",4779
+2015,5,"Coahuila de Zaragoza","F00-F99",1979
+2015,5,"Coahuila de Zaragoza","G00-G99",1182
+2015,5,"Coahuila de Zaragoza","H00-H59",2413
+2015,5,"Coahuila de Zaragoza","I00-I99",1564
+2015,5,"Coahuila de Zaragoza","J00-J99",13365
+2015,5,"Coahuila de Zaragoza","K00-K93",10172
+2015,5,"Coahuila de Zaragoza","L00-L99",2150
+2015,5,"Coahuila de Zaragoza","M00-M99",2924
+2015,5,"Coahuila de Zaragoza","N00-N99",6152
+2015,5,"Coahuila de Zaragoza","O00-O99",25630
+2015,5,"Coahuila de Zaragoza","P00-P96",658
+2015,5,"Coahuila de Zaragoza","Q00-Q99",213
+2015,5,"Coahuila de Zaragoza","R00-R99",4743
+2015,5,"Coahuila de Zaragoza","S00-T99",18939
+2015,5,"Coahuila de Zaragoza","Z00-Z99",11468
+2015,6,"Colima","A00-B99",3903
+2015,6,"Colima","C00-D48",497
+2015,6,"Colima","D50-D89",258
+2015,6,"Colima","E00-E90",2705
+2015,6,"Colima","F00-F99",1480
+2015,6,"Colima","G00-G99",1002
+2015,6,"Colima","H00-H59",1864
+2015,6,"Colima","I00-I99",876
+2015,6,"Colima","J00-J99",10853
+2015,6,"Colima","K00-K93",7596
+2015,6,"Colima","L00-L99",2041
+2015,6,"Colima","M00-M99",2880
+2015,6,"Colima","N00-N99",4753
+2015,6,"Colima","O00-O99",2729
+2015,6,"Colima","P00-P96",304
+2015,6,"Colima","Q00-Q99",124
+2015,6,"Colima","R00-R99",9502
+2015,6,"Colima","S00-T99",17643
+2015,6,"Colima","V01-Y98",16
+2015,6,"Colima","Z00-Z99",11591
+2015,7,"Chiapas","A00-B99",16295
+2015,7,"Chiapas","C00-D48",3309
+2015,7,"Chiapas","D50-D89",2070
+2015,7,"Chiapas","E00-E90",12375
+2015,7,"Chiapas","F00-F99",3280
+2015,7,"Chiapas","G00-G99",3085
+2015,7,"Chiapas","H00-H59",4691
+2015,7,"Chiapas","I00-I99",3252
+2015,7,"Chiapas","J00-J99",46591
+2015,7,"Chiapas","K00-K93",28443
+2015,7,"Chiapas","L00-L99",6151
+2015,7,"Chiapas","M00-M99",8934
+2015,7,"Chiapas","N00-N99",21541
+2015,7,"Chiapas","O00-O99",62768
+2015,7,"Chiapas","P00-P96",962
+2015,7,"Chiapas","Q00-Q99",505
+2015,7,"Chiapas","R00-R99",24101
+2015,7,"Chiapas","S00-T99",27777
+2015,7,"Chiapas","Z00-Z99",65593
+2015,8,"Chihuahua","A00-B99",3169
+2015,8,"Chihuahua","C00-D48",951
+2015,8,"Chihuahua","D50-D89",599
+2015,8,"Chihuahua","E00-E90",3537
+2015,8,"Chihuahua","F00-F99",1863
+2015,8,"Chihuahua","G00-G99",2270
+2015,8,"Chihuahua","H00-H59",3072
+2015,8,"Chihuahua","I00-I99",2673
+2015,8,"Chihuahua","J00-J99",22082
+2015,8,"Chihuahua","K00-K93",12426
+2015,8,"Chihuahua","L00-L99",3453
+2015,8,"Chihuahua","M00-M99",6433
+2015,8,"Chihuahua","N00-N99",10491
+2015,8,"Chihuahua","O00-O99",17854
+2015,8,"Chihuahua","P00-P96",276
+2015,8,"Chihuahua","Q00-Q99",174
+2015,8,"Chihuahua","R00-R99",6624
+2015,8,"Chihuahua","S00-T99",29391
+2015,8,"Chihuahua","Z00-Z99",30679
+2015,9,"Ciudad de México","A00-B99",9977
+2015,9,"Ciudad de México","C00-D48",5597
+2015,9,"Ciudad de México","D50-D89",2758
+2015,9,"Ciudad de México","E00-E90",25994
+2015,9,"Ciudad de México","F00-F99",19883
+2015,9,"Ciudad de México","G00-G99",10261
+2015,9,"Ciudad de México","H00-H59",10655
+2015,9,"Ciudad de México","I00-I99",12403
+2015,9,"Ciudad de México","J00-J99",79863
+2015,9,"Ciudad de México","K00-K93",59735
+2015,9,"Ciudad de México","L00-L99",13741
+2015,9,"Ciudad de México","M00-M99",34796
+2015,9,"Ciudad de México","N00-N99",52818
+2015,9,"Ciudad de México","O00-O99",122586
+2015,9,"Ciudad de México","P00-P96",3993
+2015,9,"Ciudad de México","Q00-Q99",1282
+2015,9,"Ciudad de México","R00-R99",27217
+2015,9,"Ciudad de México","S00-T99",191917
+2015,9,"Ciudad de México","V01-Y98",10
+2015,9,"Ciudad de México","Z00-Z99",66584
+2015,10,"Durango","A00-B99",4054
+2015,10,"Durango","C00-D48",656
+2015,10,"Durango","D50-D89",698
+2015,10,"Durango","E00-E90",4756
+2015,10,"Durango","F00-F99",2711
+2015,10,"Durango","G00-G99",3814
+2015,10,"Durango","H00-H59",3912
+2015,10,"Durango","I00-I99",2690
+2015,10,"Durango","J00-J99",32618
+2015,10,"Durango","K00-K93",17319
+2015,10,"Durango","L00-L99",4039
+2015,10,"Durango","M00-M99",6729
+2015,10,"Durango","N00-N99",9713
+2015,10,"Durango","O00-O99",24212
+2015,10,"Durango","P00-P96",314
+2015,10,"Durango","Q00-Q99",131
+2015,10,"Durango","R00-R99",3922
+2015,10,"Durango","S00-T99",25898
+2015,10,"Durango","Z00-Z99",37148
+2015,11,"Guanajuato","A00-B99",7742
+2015,11,"Guanajuato","C00-D48",4623
+2015,11,"Guanajuato","D50-D89",3245
+2015,11,"Guanajuato","E00-E90",24746
+2015,11,"Guanajuato","F00-F99",12288
+2015,11,"Guanajuato","G00-G99",8917
+2015,11,"Guanajuato","H00-H59",12711
+2015,11,"Guanajuato","I00-I99",8788
+2015,11,"Guanajuato","J00-J99",133458
+2015,11,"Guanajuato","K00-K93",62550
+2015,11,"Guanajuato","L00-L99",14790
+2015,11,"Guanajuato","M00-M99",23855
+2015,11,"Guanajuato","N00-N99",47741
+2015,11,"Guanajuato","O00-O99",64538
+2015,11,"Guanajuato","P00-P96",2961
+2015,11,"Guanajuato","Q00-Q99",826
+2015,11,"Guanajuato","R00-R99",41370
+2015,11,"Guanajuato","S00-T99",188614
+2015,11,"Guanajuato","Z00-Z99",134596
+2015,12,"Guerrero","A00-B99",6030
+2015,12,"Guerrero","C00-D48",1262
+2015,12,"Guerrero","D50-D89",1749
+2015,12,"Guerrero","E00-E90",8767
+2015,12,"Guerrero","F00-F99",1971
+2015,12,"Guerrero","G00-G99",1762
+2015,12,"Guerrero","H00-H59",2276
+2015,12,"Guerrero","I00-I99",2634
+2015,12,"Guerrero","J00-J99",21933
+2015,12,"Guerrero","K00-K93",18580
+2015,12,"Guerrero","L00-L99",3331
+2015,12,"Guerrero","M00-M99",4405
+2015,12,"Guerrero","N00-N99",11725
+2015,12,"Guerrero","O00-O99",21783
+2015,12,"Guerrero","P00-P96",679
+2015,12,"Guerrero","Q00-Q99",312
+2015,12,"Guerrero","R00-R99",25309
+2015,12,"Guerrero","S00-T99",31886
+2015,12,"Guerrero","Z00-Z99",43443
+2015,13,"Hidalgo","A00-B99",3098
+2015,13,"Hidalgo","C00-D48",1793
+2015,13,"Hidalgo","D50-D89",1379
+2015,13,"Hidalgo","E00-E90",8780
+2015,13,"Hidalgo","F00-F99",2061
+2015,13,"Hidalgo","G00-G99",3302
+2015,13,"Hidalgo","H00-H59",2095
+2015,13,"Hidalgo","I00-I99",4531
+2015,13,"Hidalgo","J00-J99",19639
+2015,13,"Hidalgo","K00-K93",18322
+2015,13,"Hidalgo","L00-L99",2462
+2015,13,"Hidalgo","M00-M99",7117
+2015,13,"Hidalgo","N00-N99",10658
+2015,13,"Hidalgo","O00-O99",19738
+2015,13,"Hidalgo","P00-P96",550
+2015,13,"Hidalgo","Q00-Q99",217
+2015,13,"Hidalgo","R00-R99",11478
+2015,13,"Hidalgo","S00-T99",35611
+2015,13,"Hidalgo","Z00-Z99",41768
+2015,14,"Jalisco","A00-B99",8141
+2015,14,"Jalisco","C00-D48",2562
+2015,14,"Jalisco","D50-D89",2350
+2015,14,"Jalisco","E00-E90",11145
+2015,14,"Jalisco","F00-F99",15077
+2015,14,"Jalisco","G00-G99",7057
+2015,14,"Jalisco","H00-H59",10264
+2015,14,"Jalisco","I00-I99",6676
+2015,14,"Jalisco","J00-J99",81283
+2015,14,"Jalisco","K00-K93",42930
+2015,14,"Jalisco","L00-L99",10460
+2015,14,"Jalisco","M00-M99",18661
+2015,14,"Jalisco","N00-N99",31165
+2015,14,"Jalisco","O00-O99",52310
+2015,14,"Jalisco","P00-P96",1647
+2015,14,"Jalisco","Q00-Q99",681
+2015,14,"Jalisco","R00-R99",62490
+2015,14,"Jalisco","S00-T99",91170
+2015,14,"Jalisco","V01-Y98",1
+2015,14,"Jalisco","Z00-Z99",146197
+2015,15,"Estado de México","A00-B99",18392
+2015,15,"Estado de México","C00-D48",6976
+2015,15,"Estado de México","D50-D89",3391
+2015,15,"Estado de México","E00-E90",38822
+2015,15,"Estado de México","F00-F99",13846
+2015,15,"Estado de México","G00-G99",13678
+2015,15,"Estado de México","H00-H59",13488
+2015,15,"Estado de México","I00-I99",12548
+2015,15,"Estado de México","J00-J99",158826
+2015,15,"Estado de México","K00-K93",90337
+2015,15,"Estado de México","L00-L99",17532
+2015,15,"Estado de México","M00-M99",32613
+2015,15,"Estado de México","N00-N99",81775
+2015,15,"Estado de México","O00-O99",154799
+2015,15,"Estado de México","P00-P96",5823
+2015,15,"Estado de México","Q00-Q99",1392
+2015,15,"Estado de México","R00-R99",50905
+2015,15,"Estado de México","S00-T99",170879
+2015,15,"Estado de México","V01-Y98",5
+2015,15,"Estado de México","Z00-Z99",283059
+2015,16,"Michoacán de Ocampo","A00-B99",6071
+2015,16,"Michoacán de Ocampo","C00-D48",2814
+2015,16,"Michoacán de Ocampo","D50-D89",1639
+2015,16,"Michoacán de Ocampo","E00-E90",11677
+2015,16,"Michoacán de Ocampo","F00-F99",5537
+2015,16,"Michoacán de Ocampo","G00-G99",5245
+2015,16,"Michoacán de Ocampo","H00-H59",3343
+2015,16,"Michoacán de Ocampo","I00-I99",4711
+2015,16,"Michoacán de Ocampo","J00-J99",36342
+2015,16,"Michoacán de Ocampo","K00-K93",30633
+2015,16,"Michoacán de Ocampo","L00-L99",5708
+2015,16,"Michoacán de Ocampo","M00-M99",9216
+2015,16,"Michoacán de Ocampo","N00-N99",18511
+2015,16,"Michoacán de Ocampo","O00-O99",28058
+2015,16,"Michoacán de Ocampo","P00-P96",1009
+2015,16,"Michoacán de Ocampo","Q00-Q99",786
+2015,16,"Michoacán de Ocampo","R00-R99",23043
+2015,16,"Michoacán de Ocampo","S00-T99",63532
+2015,16,"Michoacán de Ocampo","Z00-Z99",46473
+2015,17,"Morelos","A00-B99",5506
+2015,17,"Morelos","C00-D48",1376
+2015,17,"Morelos","D50-D89",1219
+2015,17,"Morelos","E00-E90",9240
+2015,17,"Morelos","F00-F99",2539
+2015,17,"Morelos","G00-G99",2991
+2015,17,"Morelos","H00-H59",4440
+2015,17,"Morelos","I00-I99",2909
+2015,17,"Morelos","J00-J99",39071
+2015,17,"Morelos","K00-K93",19978
+2015,17,"Morelos","L00-L99",4770
+2015,17,"Morelos","M00-M99",5684
+2015,17,"Morelos","N00-N99",16096
+2015,17,"Morelos","O00-O99",42203
+2015,17,"Morelos","P00-P96",972
+2015,17,"Morelos","Q00-Q99",462
+2015,17,"Morelos","R00-R99",17527
+2015,17,"Morelos","S00-T99",49517
+2015,17,"Morelos","Z00-Z99",10803
+2015,18,"Nayarit","A00-B99",2409
+2015,18,"Nayarit","C00-D48",796
+2015,18,"Nayarit","D50-D89",499
+2015,18,"Nayarit","E00-E90",3626
+2015,18,"Nayarit","F00-F99",1576
+2015,18,"Nayarit","G00-G99",1493
+2015,18,"Nayarit","H00-H59",2294
+2015,18,"Nayarit","I00-I99",1791
+2015,18,"Nayarit","J00-J99",13455
+2015,18,"Nayarit","K00-K93",8082
+2015,18,"Nayarit","L00-L99",2381
+2015,18,"Nayarit","M00-M99",2764
+2015,18,"Nayarit","N00-N99",6081
+2015,18,"Nayarit","O00-O99",3947
+2015,18,"Nayarit","P00-P96",141
+2015,18,"Nayarit","Q00-Q99",77
+2015,18,"Nayarit","R00-R99",6924
+2015,18,"Nayarit","S00-T99",19766
+2015,18,"Nayarit","Z00-Z99",7892
+2015,19,"Nuevo León","A00-B99",3035
+2015,19,"Nuevo León","C00-D48",622
+2015,19,"Nuevo León","D50-D89",542
+2015,19,"Nuevo León","E00-E90",3442
+2015,19,"Nuevo León","F00-F99",2726
+2015,19,"Nuevo León","G00-G99",2322
+2015,19,"Nuevo León","H00-H59",4990
+2015,19,"Nuevo León","I00-I99",1908
+2015,19,"Nuevo León","J00-J99",19679
+2015,19,"Nuevo León","K00-K93",14351
+2015,19,"Nuevo León","L00-L99",4241
+2015,19,"Nuevo León","M00-M99",7171
+2015,19,"Nuevo León","N00-N99",9637
+2015,19,"Nuevo León","O00-O99",34654
+2015,19,"Nuevo León","P00-P96",464
+2015,19,"Nuevo León","Q00-Q99",197
+2015,19,"Nuevo León","R00-R99",14314
+2015,19,"Nuevo León","S00-T99",26114
+2015,19,"Nuevo León","Z00-Z99",66955
+2015,20,"Oaxaca","A00-B99",7511
+2015,20,"Oaxaca","C00-D48",2265
+2015,20,"Oaxaca","D50-D89",1425
+2015,20,"Oaxaca","E00-E90",8331
+2015,20,"Oaxaca","F00-F99",2451
+2015,20,"Oaxaca","G00-G99",2768
+2015,20,"Oaxaca","H00-H59",3468
+2015,20,"Oaxaca","I00-I99",3326
+2015,20,"Oaxaca","J00-J99",28940
+2015,20,"Oaxaca","K00-K93",17307
+2015,20,"Oaxaca","L00-L99",4045
+2015,20,"Oaxaca","M00-M99",5573
+2015,20,"Oaxaca","N00-N99",13635
+2015,20,"Oaxaca","O00-O99",32852
+2015,20,"Oaxaca","P00-P96",1992
+2015,20,"Oaxaca","Q00-Q99",363
+2015,20,"Oaxaca","R00-R99",17305
+2015,20,"Oaxaca","S00-T99",31238
+2015,20,"Oaxaca","Z00-Z99",57927
+2015,21,"Puebla","A00-B99",12113
+2015,21,"Puebla","C00-D48",3959
+2015,21,"Puebla","D50-D89",3547
+2015,21,"Puebla","E00-E90",18239
+2015,21,"Puebla","F00-F99",5322
+2015,21,"Puebla","G00-G99",5271
+2015,21,"Puebla","H00-H59",7106
+2015,21,"Puebla","I00-I99",6999
+2015,21,"Puebla","J00-J99",73869
+2015,21,"Puebla","K00-K93",36226
+2015,21,"Puebla","L00-L99",8230
+2015,21,"Puebla","M00-M99",12404
+2015,21,"Puebla","N00-N99",27621
+2015,21,"Puebla","O00-O99",52224
+2015,21,"Puebla","P00-P96",1615
+2015,21,"Puebla","Q00-Q99",577
+2015,21,"Puebla","R00-R99",17138
+2015,21,"Puebla","S00-T99",66136
+2015,21,"Puebla","V01-Y98",1
+2015,21,"Puebla","Z00-Z99",79463
+2015,22,"Querétaro","A00-B99",2342
+2015,22,"Querétaro","C00-D48",1918
+2015,22,"Querétaro","D50-D89",869
+2015,22,"Querétaro","E00-E90",6339
+2015,22,"Querétaro","F00-F99",2499
+2015,22,"Querétaro","G00-G99",1586
+2015,22,"Querétaro","H00-H59",1517
+2015,22,"Querétaro","I00-I99",2333
+2015,22,"Querétaro","J00-J99",18457
+2015,22,"Querétaro","K00-K93",13822
+2015,22,"Querétaro","L00-L99",2271
+2015,22,"Querétaro","M00-M99",2888
+2015,22,"Querétaro","N00-N99",9809
+2015,22,"Querétaro","O00-O99",37837
+2015,22,"Querétaro","P00-P96",1061
+2015,22,"Querétaro","Q00-Q99",264
+2015,22,"Querétaro","R00-R99",8480
+2015,22,"Querétaro","S00-T99",23024
+2015,22,"Querétaro","Z00-Z99",36843
+2015,23,"Quintana Roo","A00-B99",3034
+2015,23,"Quintana Roo","C00-D48",425
+2015,23,"Quintana Roo","D50-D89",621
+2015,23,"Quintana Roo","E00-E90",3510
+2015,23,"Quintana Roo","F00-F99",1966
+2015,23,"Quintana Roo","G00-G99",1067
+2015,23,"Quintana Roo","H00-H59",2057
+2015,23,"Quintana Roo","I00-I99",669
+2015,23,"Quintana Roo","J00-J99",19455
+2015,23,"Quintana Roo","K00-K93",9311
+2015,23,"Quintana Roo","L00-L99",2593
+2015,23,"Quintana Roo","M00-M99",3482
+2015,23,"Quintana Roo","N00-N99",7588
+2015,23,"Quintana Roo","O00-O99",9461
+2015,23,"Quintana Roo","P00-P96",337
+2015,23,"Quintana Roo","Q00-Q99",59
+2015,23,"Quintana Roo","R00-R99",12076
+2015,23,"Quintana Roo","S00-T99",20393
+2015,23,"Quintana Roo","Z00-Z99",20831
+2015,24,"San Luis Potosí","A00-B99",3831
+2015,24,"San Luis Potosí","C00-D48",1394
+2015,24,"San Luis Potosí","D50-D89",1109
+2015,24,"San Luis Potosí","E00-E90",6579
+2015,24,"San Luis Potosí","F00-F99",3225
+2015,24,"San Luis Potosí","G00-G99",4032
+2015,24,"San Luis Potosí","H00-H59",5379
+2015,24,"San Luis Potosí","I00-I99",2999
+2015,24,"San Luis Potosí","J00-J99",37375
+2015,24,"San Luis Potosí","K00-K93",17760
+2015,24,"San Luis Potosí","L00-L99",4321
+2015,24,"San Luis Potosí","M00-M99",8154
+2015,24,"San Luis Potosí","N00-N99",14142
+2015,24,"San Luis Potosí","O00-O99",13214
+2015,24,"San Luis Potosí","P00-P96",1203
+2015,24,"San Luis Potosí","Q00-Q99",372
+2015,24,"San Luis Potosí","R00-R99",9605
+2015,24,"San Luis Potosí","S00-T99",42184
+2015,24,"San Luis Potosí","Z00-Z99",33803
+2015,25,"Sinaloa","A00-B99",7203
+2015,25,"Sinaloa","C00-D48",2318
+2015,25,"Sinaloa","D50-D89",930
+2015,25,"Sinaloa","E00-E90",7173
+2015,25,"Sinaloa","F00-F99",4806
+2015,25,"Sinaloa","G00-G99",3633
+2015,25,"Sinaloa","H00-H59",6314
+2015,25,"Sinaloa","I00-I99",3464
+2015,25,"Sinaloa","J00-J99",42174
+2015,25,"Sinaloa","K00-K93",20817
+2015,25,"Sinaloa","L00-L99",6274
+2015,25,"Sinaloa","M00-M99",12452
+2015,25,"Sinaloa","N00-N99",14372
+2015,25,"Sinaloa","O00-O99",14892
+2015,25,"Sinaloa","P00-P96",488
+2015,25,"Sinaloa","Q00-Q99",269
+2015,25,"Sinaloa","R00-R99",37830
+2015,25,"Sinaloa","S00-T99",38325
+2015,25,"Sinaloa","Z00-Z99",58832
+2015,26,"Sonora","A00-B99",6020
+2015,26,"Sonora","C00-D48",1671
+2015,26,"Sonora","D50-D89",1322
+2015,26,"Sonora","E00-E90",6746
+2015,26,"Sonora","F00-F99",4231
+2015,26,"Sonora","G00-G99",3668
+2015,26,"Sonora","H00-H59",7002
+2015,26,"Sonora","I00-I99",5769
+2015,26,"Sonora","J00-J99",41070
+2015,26,"Sonora","K00-K93",23150
+2015,26,"Sonora","L00-L99",6699
+2015,26,"Sonora","M00-M99",9695
+2015,26,"Sonora","N00-N99",17713
+2015,26,"Sonora","O00-O99",20707
+2015,26,"Sonora","P00-P96",393
+2015,26,"Sonora","Q00-Q99",224
+2015,26,"Sonora","R00-R99",25575
+2015,26,"Sonora","S00-T99",52447
+2015,26,"Sonora","Z00-Z99",49260
+2015,27,"Tabasco","A00-B99",7042
+2015,27,"Tabasco","C00-D48",2473
+2015,27,"Tabasco","D50-D89",2373
+2015,27,"Tabasco","E00-E90",13914
+2015,27,"Tabasco","F00-F99",5910
+2015,27,"Tabasco","G00-G99",2973
+2015,27,"Tabasco","H00-H59",5333
+2015,27,"Tabasco","I00-I99",3674
+2015,27,"Tabasco","J00-J99",44942
+2015,27,"Tabasco","K00-K93",28083
+2015,27,"Tabasco","L00-L99",6178
+2015,27,"Tabasco","M00-M99",7596
+2015,27,"Tabasco","N00-N99",20600
+2015,27,"Tabasco","O00-O99",63736
+2015,27,"Tabasco","P00-P96",1430
+2015,27,"Tabasco","Q00-Q99",689
+2015,27,"Tabasco","R00-R99",28292
+2015,27,"Tabasco","S00-T99",42052
+2015,27,"Tabasco","Z00-Z99",53032
+2015,28,"Tamaulipas","A00-B99",6139
+2015,28,"Tamaulipas","C00-D48",1358
+2015,28,"Tamaulipas","D50-D89",1537
+2015,28,"Tamaulipas","E00-E90",9690
+2015,28,"Tamaulipas","F00-F99",3871
+2015,28,"Tamaulipas","G00-G99",2936
+2015,28,"Tamaulipas","H00-H59",4979
+2015,28,"Tamaulipas","I00-I99",3949
+2015,28,"Tamaulipas","J00-J99",34136
+2015,28,"Tamaulipas","K00-K93",23036
+2015,28,"Tamaulipas","L00-L99",4853
+2015,28,"Tamaulipas","M00-M99",9474
+2015,28,"Tamaulipas","N00-N99",13839
+2015,28,"Tamaulipas","O00-O99",16983
+2015,28,"Tamaulipas","P00-P96",819
+2015,28,"Tamaulipas","Q00-Q99",183
+2015,28,"Tamaulipas","R00-R99",13921
+2015,28,"Tamaulipas","S00-T99",42459
+2015,28,"Tamaulipas","Z00-Z99",29143
+2015,29,"Tlaxcala","A00-B99",2406
+2015,29,"Tlaxcala","C00-D48",1535
+2015,29,"Tlaxcala","D50-D89",579
+2015,29,"Tlaxcala","E00-E90",4859
+2015,29,"Tlaxcala","F00-F99",1874
+2015,29,"Tlaxcala","G00-G99",1769
+2015,29,"Tlaxcala","H00-H59",2312
+2015,29,"Tlaxcala","I00-I99",1780
+2015,29,"Tlaxcala","J00-J99",17899
+2015,29,"Tlaxcala","K00-K93",10779
+2015,29,"Tlaxcala","L00-L99",2127
+2015,29,"Tlaxcala","M00-M99",3873
+2015,29,"Tlaxcala","N00-N99",8682
+2015,29,"Tlaxcala","O00-O99",23402
+2015,29,"Tlaxcala","P00-P96",718
+2015,29,"Tlaxcala","Q00-Q99",523
+2015,29,"Tlaxcala","R00-R99",5298
+2015,29,"Tlaxcala","S00-T99",20621
+2015,29,"Tlaxcala","Z00-Z99",23798
+2015,30,"Veracruz de Ignacio de la Llave","A00-B99",13283
+2015,30,"Veracruz de Ignacio de la Llave","C00-D48",3124
+2015,30,"Veracruz de Ignacio de la Llave","D50-D89",2800
+2015,30,"Veracruz de Ignacio de la Llave","E00-E90",17940
+2015,30,"Veracruz de Ignacio de la Llave","F00-F99",10259
+2015,30,"Veracruz de Ignacio de la Llave","G00-G99",5929
+2015,30,"Veracruz de Ignacio de la Llave","H00-H59",7189
+2015,30,"Veracruz de Ignacio de la Llave","I00-I99",6876
+2015,30,"Veracruz de Ignacio de la Llave","J00-J99",48187
+2015,30,"Veracruz de Ignacio de la Llave","K00-K93",40620
+2015,30,"Veracruz de Ignacio de la Llave","L00-L99",8772
+2015,30,"Veracruz de Ignacio de la Llave","M00-M99",11535
+2015,30,"Veracruz de Ignacio de la Llave","N00-N99",27735
+2015,30,"Veracruz de Ignacio de la Llave","O00-O99",51840
+2015,30,"Veracruz de Ignacio de la Llave","P00-P96",2776
+2015,30,"Veracruz de Ignacio de la Llave","Q00-Q99",792
+2015,30,"Veracruz de Ignacio de la Llave","R00-R99",36220
+2015,30,"Veracruz de Ignacio de la Llave","S00-T99",61244
+2015,30,"Veracruz de Ignacio de la Llave","Z00-Z99",93092
+2015,31,"Yucatán","A00-B99",941
+2015,31,"Yucatán","C00-D48",364
+2015,31,"Yucatán","D50-D89",286
+2015,31,"Yucatán","E00-E90",1900
+2015,31,"Yucatán","F00-F99",2275
+2015,31,"Yucatán","G00-G99",616
+2015,31,"Yucatán","H00-H59",400
+2015,31,"Yucatán","I00-I99",674
+2015,31,"Yucatán","J00-J99",3519
+2015,31,"Yucatán","K00-K93",3727
+2015,31,"Yucatán","L00-L99",709
+2015,31,"Yucatán","M00-M99",1010
+2015,31,"Yucatán","N00-N99",2441
+2015,31,"Yucatán","O00-O99",2251
+2015,31,"Yucatán","P00-P96",151
+2015,31,"Yucatán","Q00-Q99",67
+2015,31,"Yucatán","R00-R99",4201
+2015,31,"Yucatán","S00-T99",9238
+2015,31,"Yucatán","Z00-Z99",525
+2015,32,"Zacatecas","A00-B99",3775
+2015,32,"Zacatecas","C00-D48",1279
+2015,32,"Zacatecas","D50-D89",1033
+2015,32,"Zacatecas","E00-E90",5726
+2015,32,"Zacatecas","F00-F99",3218
+2015,32,"Zacatecas","G00-G99",3987
+2015,32,"Zacatecas","H00-H59",5326
+2015,32,"Zacatecas","I00-I99",2594
+2015,32,"Zacatecas","J00-J99",39404
+2015,32,"Zacatecas","K00-K93",20221
+2015,32,"Zacatecas","L00-L99",4712
+2015,32,"Zacatecas","M00-M99",12496
+2015,32,"Zacatecas","N00-N99",14884
+2015,32,"Zacatecas","O00-O99",6577
+2015,32,"Zacatecas","P00-P96",290
+2015,32,"Zacatecas","Q00-Q99",281
+2015,32,"Zacatecas","R00-R99",19835
+2015,32,"Zacatecas","S00-T99",30021
+2015,32,"Zacatecas","Z00-Z99",50753
+2016,1,"Aguascalientes","A00-B99",1600
+2016,1,"Aguascalientes","C00-D48",1000
+2016,1,"Aguascalientes","D50-D89",674
+2016,1,"Aguascalientes","E00-E90",3390
+2016,1,"Aguascalientes","F00-F99",8945
+2016,1,"Aguascalientes","G00-G99",2033
+2016,1,"Aguascalientes","H00-H59",2219
+2016,1,"Aguascalientes","I00-I99",2198
+2016,1,"Aguascalientes","J00-J99",17373
+2016,1,"Aguascalientes","K00-K93",12328
+2016,1,"Aguascalientes","L00-L99",2249
+2016,1,"Aguascalientes","M00-M99",5397
+2016,1,"Aguascalientes","N00-N99",9484
+2016,1,"Aguascalientes","O00-O99",16887
+2016,1,"Aguascalientes","P00-P96",327
+2016,1,"Aguascalientes","Q00-Q99",416
+2016,1,"Aguascalientes","R00-R99",6804
+2016,1,"Aguascalientes","S00-T99",30358
+2016,1,"Aguascalientes","V01-Y98",13
+2016,1,"Aguascalientes","Z00-Z99",25952
+2016,2,"Baja California","A00-B99",3191
+2016,2,"Baja California","C00-D48",1625
+2016,2,"Baja California","D50-D89",1254
+2016,2,"Baja California","E00-E90",5974
+2016,2,"Baja California","F00-F99",2925
+2016,2,"Baja California","G00-G99",2576
+2016,2,"Baja California","H00-H59",3501
+2016,2,"Baja California","I00-I99",4465
+2016,2,"Baja California","J00-J99",24017
+2016,2,"Baja California","K00-K93",18416
+2016,2,"Baja California","L00-L99",5305
+2016,2,"Baja California","M00-M99",7901
+2016,2,"Baja California","N00-N99",10683
+2016,2,"Baja California","O00-O99",12706
+2016,2,"Baja California","P00-P96",347
+2016,2,"Baja California","Q00-Q99",250
+2016,2,"Baja California","R00-R99",16936
+2016,2,"Baja California","S00-T99",25457
+2016,2,"Baja California","V01-Y98",626
+2016,2,"Baja California","Z00-Z99",45179
+2016,3,"Baja California Sur","A00-B99",1579
+2016,3,"Baja California Sur","C00-D48",322
+2016,3,"Baja California Sur","D50-D89",223
+2016,3,"Baja California Sur","E00-E90",1849
+2016,3,"Baja California Sur","F00-F99",1297
+2016,3,"Baja California Sur","G00-G99",1432
+2016,3,"Baja California Sur","H00-H59",2578
+2016,3,"Baja California Sur","I00-I99",627
+2016,3,"Baja California Sur","J00-J99",11712
+2016,3,"Baja California Sur","K00-K93",7227
+2016,3,"Baja California Sur","L00-L99",1893
+2016,3,"Baja California Sur","M00-M99",3773
+2016,3,"Baja California Sur","N00-N99",4453
+2016,3,"Baja California Sur","O00-O99",2646
+2016,3,"Baja California Sur","P00-P96",231
+2016,3,"Baja California Sur","Q00-Q99",69
+2016,3,"Baja California Sur","R00-R99",6329
+2016,3,"Baja California Sur","S00-T99",7712
+2016,3,"Baja California Sur","V01-Y98",11
+2016,3,"Baja California Sur","Z00-Z99",13326
+2016,4,"Campeche","A00-B99",4662
+2016,4,"Campeche","C00-D48",534
+2016,4,"Campeche","D50-D89",327
+2016,4,"Campeche","E00-E90",3202
+2016,4,"Campeche","F00-F99",1517
+2016,4,"Campeche","G00-G99",935
+2016,4,"Campeche","H00-H59",1981
+2016,4,"Campeche","I00-I99",722
+2016,4,"Campeche","J00-J99",13620
+2016,4,"Campeche","K00-K93",8692
+2016,4,"Campeche","L00-L99",2660
+2016,4,"Campeche","M00-M99",3101
+2016,4,"Campeche","N00-N99",6234
+2016,4,"Campeche","O00-O99",18652
+2016,4,"Campeche","P00-P96",193
+2016,4,"Campeche","Q00-Q99",68
+2016,4,"Campeche","R00-R99",7087
+2016,4,"Campeche","S00-T99",12497
+2016,4,"Campeche","Z00-Z99",8173
+2016,5,"Coahuila de Zaragoza","A00-B99",1139
+2016,5,"Coahuila de Zaragoza","C00-D48",494
+2016,5,"Coahuila de Zaragoza","D50-D89",364
+2016,5,"Coahuila de Zaragoza","E00-E90",3074
+2016,5,"Coahuila de Zaragoza","F00-F99",1874
+2016,5,"Coahuila de Zaragoza","G00-G99",941
+2016,5,"Coahuila de Zaragoza","H00-H59",1640
+2016,5,"Coahuila de Zaragoza","I00-I99",1085
+2016,5,"Coahuila de Zaragoza","J00-J99",10463
+2016,5,"Coahuila de Zaragoza","K00-K93",7927
+2016,5,"Coahuila de Zaragoza","L00-L99",1855
+2016,5,"Coahuila de Zaragoza","M00-M99",2346
+2016,5,"Coahuila de Zaragoza","N00-N99",5005
+2016,5,"Coahuila de Zaragoza","O00-O99",13136
+2016,5,"Coahuila de Zaragoza","P00-P96",264
+2016,5,"Coahuila de Zaragoza","Q00-Q99",100
+2016,5,"Coahuila de Zaragoza","R00-R99",4804
+2016,5,"Coahuila de Zaragoza","S00-T99",15739
+2016,5,"Coahuila de Zaragoza","V01-Y98",2
+2016,5,"Coahuila de Zaragoza","Z00-Z99",11245
+2016,6,"Colima","A00-B99",1725
+2016,6,"Colima","C00-D48",477
+2016,6,"Colima","D50-D89",254
+2016,6,"Colima","E00-E90",2807
+2016,6,"Colima","F00-F99",1487
+2016,6,"Colima","G00-G99",989
+2016,6,"Colima","H00-H59",1758
+2016,6,"Colima","I00-I99",784
+2016,6,"Colima","J00-J99",9660
+2016,6,"Colima","K00-K93",7666
+2016,6,"Colima","L00-L99",1937
+2016,6,"Colima","M00-M99",2695
+2016,6,"Colima","N00-N99",4157
+2016,6,"Colima","O00-O99",2669
+2016,6,"Colima","P00-P96",265
+2016,6,"Colima","Q00-Q99",113
+2016,6,"Colima","R00-R99",8028
+2016,6,"Colima","S00-T99",17731
+2016,6,"Colima","V01-Y98",1216
+2016,6,"Colima","Z00-Z99",13317
+2016,7,"Chiapas","A00-B99",11388
+2016,7,"Chiapas","C00-D48",3000
+2016,7,"Chiapas","D50-D89",1795
+2016,7,"Chiapas","E00-E90",11306
+2016,7,"Chiapas","F00-F99",2724
+2016,7,"Chiapas","G00-G99",2495
+2016,7,"Chiapas","H00-H59",3535
+2016,7,"Chiapas","I00-I99",3118
+2016,7,"Chiapas","J00-J99",34177
+2016,7,"Chiapas","K00-K93",24037
+2016,7,"Chiapas","L00-L99",5297
+2016,7,"Chiapas","M00-M99",5847
+2016,7,"Chiapas","N00-N99",16280
+2016,7,"Chiapas","O00-O99",58463
+2016,7,"Chiapas","P00-P96",798
+2016,7,"Chiapas","Q00-Q99",471
+2016,7,"Chiapas","R00-R99",14910
+2016,7,"Chiapas","S00-T99",26991
+2016,7,"Chiapas","V01-Y98",2
+2016,7,"Chiapas","Z00-Z99",59523
+2016,8,"Chihuahua","A00-B99",5030
+2016,8,"Chihuahua","C00-D48",1336
+2016,8,"Chihuahua","D50-D89",874
+2016,8,"Chihuahua","E00-E90",4857
+2016,8,"Chihuahua","F00-F99",2987
+2016,8,"Chihuahua","G00-G99",3187
+2016,8,"Chihuahua","H00-H59",4390
+2016,8,"Chihuahua","I00-I99",3504
+2016,8,"Chihuahua","J00-J99",31566
+2016,8,"Chihuahua","K00-K93",17517
+2016,8,"Chihuahua","L00-L99",4807
+2016,8,"Chihuahua","M00-M99",8683
+2016,8,"Chihuahua","N00-N99",13536
+2016,8,"Chihuahua","O00-O99",19894
+2016,8,"Chihuahua","P00-P96",305
+2016,8,"Chihuahua","Q00-Q99",244
+2016,8,"Chihuahua","R00-R99",10549
+2016,8,"Chihuahua","S00-T99",39699
+2016,8,"Chihuahua","Z00-Z99",39860
+2016,9,"Ciudad de México","A00-B99",7914
+2016,9,"Ciudad de México","C00-D48",4111
+2016,9,"Ciudad de México","D50-D89",2471
+2016,9,"Ciudad de México","E00-E90",23681
+2016,9,"Ciudad de México","F00-F99",21280
+2016,9,"Ciudad de México","G00-G99",8681
+2016,9,"Ciudad de México","H00-H59",9522
+2016,9,"Ciudad de México","I00-I99",10273
+2016,9,"Ciudad de México","J00-J99",71967
+2016,9,"Ciudad de México","K00-K93",52245
+2016,9,"Ciudad de México","L00-L99",11605
+2016,9,"Ciudad de México","M00-M99",25266
+2016,9,"Ciudad de México","N00-N99",45174
+2016,9,"Ciudad de México","O00-O99",118515
+2016,9,"Ciudad de México","P00-P96",4610
+2016,9,"Ciudad de México","Q00-Q99",1023
+2016,9,"Ciudad de México","R00-R99",19159
+2016,9,"Ciudad de México","S00-T99",153864
+2016,9,"Ciudad de México","V01-Y98",91
+2016,9,"Ciudad de México","Z00-Z99",60264
+2016,10,"Durango","A00-B99",3968
+2016,10,"Durango","C00-D48",737
+2016,10,"Durango","D50-D89",684
+2016,10,"Durango","E00-E90",4767
+2016,10,"Durango","F00-F99",2694
+2016,10,"Durango","G00-G99",3917
+2016,10,"Durango","H00-H59",3735
+2016,10,"Durango","I00-I99",2329
+2016,10,"Durango","J00-J99",35769
+2016,10,"Durango","K00-K93",18051
+2016,10,"Durango","L00-L99",4200
+2016,10,"Durango","M00-M99",7010
+2016,10,"Durango","N00-N99",9967
+2016,10,"Durango","O00-O99",23578
+2016,10,"Durango","P00-P96",333
+2016,10,"Durango","Q00-Q99",126
+2016,10,"Durango","R00-R99",4897
+2016,10,"Durango","S00-T99",26460
+2016,10,"Durango","Z00-Z99",35661
+2016,11,"Guanajuato","A00-B99",6901
+2016,11,"Guanajuato","C00-D48",3800
+2016,11,"Guanajuato","D50-D89",3086
+2016,11,"Guanajuato","E00-E90",21967
+2016,11,"Guanajuato","F00-F99",12182
+2016,11,"Guanajuato","G00-G99",8669
+2016,11,"Guanajuato","H00-H59",11742
+2016,11,"Guanajuato","I00-I99",8678
+2016,11,"Guanajuato","J00-J99",122140
+2016,11,"Guanajuato","K00-K93",57828
+2016,11,"Guanajuato","L00-L99",14308
+2016,11,"Guanajuato","M00-M99",22943
+2016,11,"Guanajuato","N00-N99",42598
+2016,11,"Guanajuato","O00-O99",67274
+2016,11,"Guanajuato","P00-P96",3072
+2016,11,"Guanajuato","Q00-Q99",893
+2016,11,"Guanajuato","R00-R99",41404
+2016,11,"Guanajuato","S00-T99",176372
+2016,11,"Guanajuato","V01-Y98",5
+2016,11,"Guanajuato","Z00-Z99",127226
+2016,12,"Guerrero","A00-B99",5749
+2016,12,"Guerrero","C00-D48",1229
+2016,12,"Guerrero","D50-D89",1916
+2016,12,"Guerrero","E00-E90",9145
+2016,12,"Guerrero","F00-F99",2629
+2016,12,"Guerrero","G00-G99",2040
+2016,12,"Guerrero","H00-H59",2681
+2016,12,"Guerrero","I00-I99",3111
+2016,12,"Guerrero","J00-J99",24936
+2016,12,"Guerrero","K00-K93",19183
+2016,12,"Guerrero","L00-L99",3861
+2016,12,"Guerrero","M00-M99",4343
+2016,12,"Guerrero","N00-N99",12536
+2016,12,"Guerrero","O00-O99",27509
+2016,12,"Guerrero","P00-P96",776
+2016,12,"Guerrero","Q00-Q99",312
+2016,12,"Guerrero","R00-R99",19376
+2016,12,"Guerrero","S00-T99",36109
+2016,12,"Guerrero","V01-Y98",4
+2016,12,"Guerrero","Z00-Z99",42907
+2016,13,"Hidalgo","A00-B99",3026
+2016,13,"Hidalgo","C00-D48",1676
+2016,13,"Hidalgo","D50-D89",1542
+2016,13,"Hidalgo","E00-E90",9135
+2016,13,"Hidalgo","F00-F99",1980
+2016,13,"Hidalgo","G00-G99",3334
+2016,13,"Hidalgo","H00-H59",1773
+2016,13,"Hidalgo","I00-I99",4529
+2016,13,"Hidalgo","J00-J99",17577
+2016,13,"Hidalgo","K00-K93",16463
+2016,13,"Hidalgo","L00-L99",2458
+2016,13,"Hidalgo","M00-M99",7269
+2016,13,"Hidalgo","N00-N99",10178
+2016,13,"Hidalgo","O00-O99",17093
+2016,13,"Hidalgo","P00-P96",535
+2016,13,"Hidalgo","Q00-Q99",186
+2016,13,"Hidalgo","R00-R99",12833
+2016,13,"Hidalgo","S00-T99",34377
+2016,13,"Hidalgo","Z00-Z99",46906
+2016,14,"Jalisco","A00-B99",8086
+2016,14,"Jalisco","C00-D48",2757
+2016,14,"Jalisco","D50-D89",2331
+2016,14,"Jalisco","E00-E90",11236
+2016,14,"Jalisco","F00-F99",14928
+2016,14,"Jalisco","G00-G99",6691
+2016,14,"Jalisco","H00-H59",9086
+2016,14,"Jalisco","I00-I99",6994
+2016,14,"Jalisco","J00-J99",79406
+2016,14,"Jalisco","K00-K93",40724
+2016,14,"Jalisco","L00-L99",10155
+2016,14,"Jalisco","M00-M99",18231
+2016,14,"Jalisco","N00-N99",30336
+2016,14,"Jalisco","O00-O99",49264
+2016,14,"Jalisco","P00-P96",1404
+2016,14,"Jalisco","Q00-Q99",691
+2016,14,"Jalisco","R00-R99",69969
+2016,14,"Jalisco","S00-T99",94371
+2016,14,"Jalisco","V01-Y98",452
+2016,14,"Jalisco","Z00-Z99",138441
+2016,15,"Estado de México","A00-B99",16485
+2016,15,"Estado de México","C00-D48",6072
+2016,15,"Estado de México","D50-D89",3513
+2016,15,"Estado de México","E00-E90",39418
+2016,15,"Estado de México","F00-F99",15408
+2016,15,"Estado de México","G00-G99",12757
+2016,15,"Estado de México","H00-H59",12660
+2016,15,"Estado de México","I00-I99",12594
+2016,15,"Estado de México","J00-J99",164169
+2016,15,"Estado de México","K00-K93",90355
+2016,15,"Estado de México","L00-L99",17506
+2016,15,"Estado de México","M00-M99",31998
+2016,15,"Estado de México","N00-N99",79817
+2016,15,"Estado de México","O00-O99",146024
+2016,15,"Estado de México","P00-P96",5870
+2016,15,"Estado de México","Q00-Q99",1313
+2016,15,"Estado de México","R00-R99",50369
+2016,15,"Estado de México","S00-T99",183670
+2016,15,"Estado de México","V01-Y98",128
+2016,15,"Estado de México","Z00-Z99",284840
+2016,16,"Michoacán de Ocampo","A00-B99",4849
+2016,16,"Michoacán de Ocampo","C00-D48",2494
+2016,16,"Michoacán de Ocampo","D50-D89",1577
+2016,16,"Michoacán de Ocampo","E00-E90",12382
+2016,16,"Michoacán de Ocampo","F00-F99",5402
+2016,16,"Michoacán de Ocampo","G00-G99",5175
+2016,16,"Michoacán de Ocampo","H00-H59",3102
+2016,16,"Michoacán de Ocampo","I00-I99",4653
+2016,16,"Michoacán de Ocampo","J00-J99",36211
+2016,16,"Michoacán de Ocampo","K00-K93",29772
+2016,16,"Michoacán de Ocampo","L00-L99",5929
+2016,16,"Michoacán de Ocampo","M00-M99",9067
+2016,16,"Michoacán de Ocampo","N00-N99",18600
+2016,16,"Michoacán de Ocampo","O00-O99",28597
+2016,16,"Michoacán de Ocampo","P00-P96",1311
+2016,16,"Michoacán de Ocampo","Q00-Q99",754
+2016,16,"Michoacán de Ocampo","R00-R99",19253
+2016,16,"Michoacán de Ocampo","S00-T99",64568
+2016,16,"Michoacán de Ocampo","V01-Y98",5
+2016,16,"Michoacán de Ocampo","Z00-Z99",47945
+2016,17,"Morelos","A00-B99",6
+2016,17,"Morelos","C00-D48",16
+2016,17,"Morelos","D50-D89",8
+2016,17,"Morelos","E00-E90",38
+2016,17,"Morelos","F00-F99",127
+2016,17,"Morelos","G00-G99",18
+2016,17,"Morelos","H00-H59",11
+2016,17,"Morelos","I00-I99",10
+2016,17,"Morelos","J00-J99",59
+2016,17,"Morelos","K00-K93",76
+2016,17,"Morelos","L00-L99",15
+2016,17,"Morelos","M00-M99",28
+2016,17,"Morelos","N00-N99",40
+2016,17,"Morelos","O00-O99",89
+2016,17,"Morelos","Q00-Q99",2
+2016,17,"Morelos","R00-R99",34
+2016,17,"Morelos","S00-T99",152
+2016,17,"Morelos","V01-Y98",2
+2016,17,"Morelos","Z00-Z99",80
+2016,18,"Nayarit","A00-B99",2079
+2016,18,"Nayarit","C00-D48",832
+2016,18,"Nayarit","D50-D89",484
+2016,18,"Nayarit","E00-E90",3783
+2016,18,"Nayarit","F00-F99",1779
+2016,18,"Nayarit","G00-G99",1710
+2016,18,"Nayarit","H00-H59",2097
+2016,18,"Nayarit","I00-I99",1935
+2016,18,"Nayarit","J00-J99",13113
+2016,18,"Nayarit","K00-K93",7731
+2016,18,"Nayarit","L00-L99",2180
+2016,18,"Nayarit","M00-M99",2645
+2016,18,"Nayarit","N00-N99",5931
+2016,18,"Nayarit","O00-O99",8235
+2016,18,"Nayarit","P00-P96",152
+2016,18,"Nayarit","Q00-Q99",84
+2016,18,"Nayarit","R00-R99",8491
+2016,18,"Nayarit","S00-T99",20485
+2016,18,"Nayarit","Z00-Z99",11479
+2016,19,"Nuevo León","A00-B99",4181
+2016,19,"Nuevo León","C00-D48",888
+2016,19,"Nuevo León","D50-D89",589
+2016,19,"Nuevo León","E00-E90",4255
+2016,19,"Nuevo León","F00-F99",2929
+2016,19,"Nuevo León","G00-G99",2636
+2016,19,"Nuevo León","H00-H59",5395
+2016,19,"Nuevo León","I00-I99",2571
+2016,19,"Nuevo León","J00-J99",22251
+2016,19,"Nuevo León","K00-K93",17006
+2016,19,"Nuevo León","L00-L99",4902
+2016,19,"Nuevo León","M00-M99",7821
+2016,19,"Nuevo León","N00-N99",10137
+2016,19,"Nuevo León","O00-O99",21531
+2016,19,"Nuevo León","P00-P96",770
+2016,19,"Nuevo León","Q00-Q99",226
+2016,19,"Nuevo León","R00-R99",16576
+2016,19,"Nuevo León","S00-T99",28930
+2016,19,"Nuevo León","Z00-Z99",100145
+2016,20,"Oaxaca","A00-B99",4431
+2016,20,"Oaxaca","C00-D48",1960
+2016,20,"Oaxaca","D50-D89",1258
+2016,20,"Oaxaca","E00-E90",8051
+2016,20,"Oaxaca","F00-F99",2526
+2016,20,"Oaxaca","G00-G99",2818
+2016,20,"Oaxaca","H00-H59",2932
+2016,20,"Oaxaca","I00-I99",3124
+2016,20,"Oaxaca","J00-J99",22787
+2016,20,"Oaxaca","K00-K93",15878
+2016,20,"Oaxaca","L00-L99",3646
+2016,20,"Oaxaca","M00-M99",4624
+2016,20,"Oaxaca","N00-N99",11682
+2016,20,"Oaxaca","O00-O99",31400
+2016,20,"Oaxaca","P00-P96",1501
+2016,20,"Oaxaca","Q00-Q99",358
+2016,20,"Oaxaca","R00-R99",12651
+2016,20,"Oaxaca","S00-T99",30337
+2016,20,"Oaxaca","V01-Y98",1
+2016,20,"Oaxaca","Z00-Z99",52520
+2016,21,"Puebla","A00-B99",11535
+2016,21,"Puebla","C00-D48",3446
+2016,21,"Puebla","D50-D89",2953
+2016,21,"Puebla","E00-E90",18199
+2016,21,"Puebla","F00-F99",5825
+2016,21,"Puebla","G00-G99",5207
+2016,21,"Puebla","H00-H59",6785
+2016,21,"Puebla","I00-I99",6720
+2016,21,"Puebla","J00-J99",78573
+2016,21,"Puebla","K00-K93",36319
+2016,21,"Puebla","L00-L99",8097
+2016,21,"Puebla","M00-M99",11836
+2016,21,"Puebla","N00-N99",26818
+2016,21,"Puebla","O00-O99",49460
+2016,21,"Puebla","P00-P96",1695
+2016,21,"Puebla","Q00-Q99",501
+2016,21,"Puebla","R00-R99",17185
+2016,21,"Puebla","S00-T99",68083
+2016,21,"Puebla","Z00-Z99",70789
+2016,22,"Querétaro","A00-B99",1409
+2016,22,"Querétaro","C00-D48",1998
+2016,22,"Querétaro","D50-D89",965
+2016,22,"Querétaro","E00-E90",6869
+2016,22,"Querétaro","F00-F99",2556
+2016,22,"Querétaro","G00-G99",1747
+2016,22,"Querétaro","H00-H59",1394
+2016,22,"Querétaro","I00-I99",2639
+2016,22,"Querétaro","J00-J99",18028
+2016,22,"Querétaro","K00-K93",14503
+2016,22,"Querétaro","L00-L99",2756
+2016,22,"Querétaro","M00-M99",3050
+2016,22,"Querétaro","N00-N99",9001
+2016,22,"Querétaro","O00-O99",33370
+2016,22,"Querétaro","P00-P96",1128
+2016,22,"Querétaro","Q00-Q99",302
+2016,22,"Querétaro","R00-R99",9317
+2016,22,"Querétaro","S00-T99",23714
+2016,22,"Querétaro","Z00-Z99",35629
+2016,23,"Quintana Roo","A00-B99",2156
+2016,23,"Quintana Roo","C00-D48",384
+2016,23,"Quintana Roo","D50-D89",460
+2016,23,"Quintana Roo","E00-E90",2726
+2016,23,"Quintana Roo","F00-F99",1424
+2016,23,"Quintana Roo","G00-G99",930
+2016,23,"Quintana Roo","H00-H59",1724
+2016,23,"Quintana Roo","I00-I99",663
+2016,23,"Quintana Roo","J00-J99",14964
+2016,23,"Quintana Roo","K00-K93",6973
+2016,23,"Quintana Roo","L00-L99",2159
+2016,23,"Quintana Roo","M00-M99",2822
+2016,23,"Quintana Roo","N00-N99",5918
+2016,23,"Quintana Roo","O00-O99",8457
+2016,23,"Quintana Roo","P00-P96",294
+2016,23,"Quintana Roo","Q00-Q99",42
+2016,23,"Quintana Roo","R00-R99",7070
+2016,23,"Quintana Roo","S00-T99",14809
+2016,23,"Quintana Roo","V01-Y98",2
+2016,23,"Quintana Roo","Z00-Z99",14805
+2016,24,"San Luis Potosí","A00-B99",4837
+2016,24,"San Luis Potosí","C00-D48",1573
+2016,24,"San Luis Potosí","D50-D89",1031
+2016,24,"San Luis Potosí","E00-E90",6504
+2016,24,"San Luis Potosí","F00-F99",3117
+2016,24,"San Luis Potosí","G00-G99",3380
+2016,24,"San Luis Potosí","H00-H59",4670
+2016,24,"San Luis Potosí","I00-I99",3092
+2016,24,"San Luis Potosí","J00-J99",32153
+2016,24,"San Luis Potosí","K00-K93",17227
+2016,24,"San Luis Potosí","L00-L99",4324
+2016,24,"San Luis Potosí","M00-M99",6967
+2016,24,"San Luis Potosí","N00-N99",13050
+2016,24,"San Luis Potosí","O00-O99",21194
+2016,24,"San Luis Potosí","P00-P96",1049
+2016,24,"San Luis Potosí","Q00-Q99",310
+2016,24,"San Luis Potosí","R00-R99",8727
+2016,24,"San Luis Potosí","S00-T99",43442
+2016,24,"San Luis Potosí","Z00-Z99",39853
+2016,25,"Sinaloa","A00-B99",5933
+2016,25,"Sinaloa","C00-D48",2810
+2016,25,"Sinaloa","D50-D89",1075
+2016,25,"Sinaloa","E00-E90",7137
+2016,25,"Sinaloa","F00-F99",4495
+2016,25,"Sinaloa","G00-G99",3395
+2016,25,"Sinaloa","H00-H59",6103
+2016,25,"Sinaloa","I00-I99",3326
+2016,25,"Sinaloa","J00-J99",41178
+2016,25,"Sinaloa","K00-K93",18030
+2016,25,"Sinaloa","L00-L99",6549
+2016,25,"Sinaloa","M00-M99",12841
+2016,25,"Sinaloa","N00-N99",12695
+2016,25,"Sinaloa","O00-O99",28900
+2016,25,"Sinaloa","P00-P96",541
+2016,25,"Sinaloa","Q00-Q99",227
+2016,25,"Sinaloa","R00-R99",40514
+2016,25,"Sinaloa","S00-T99",38650
+2016,25,"Sinaloa","Z00-Z99",40372
+2016,26,"Sonora","A00-B99",7731
+2016,26,"Sonora","C00-D48",1844
+2016,26,"Sonora","D50-D89",1193
+2016,26,"Sonora","E00-E90",7143
+2016,26,"Sonora","F00-F99",4688
+2016,26,"Sonora","G00-G99",4132
+2016,26,"Sonora","H00-H59",6661
+2016,26,"Sonora","I00-I99",6000
+2016,26,"Sonora","J00-J99",40578
+2016,26,"Sonora","K00-K93",24043
+2016,26,"Sonora","L00-L99",7204
+2016,26,"Sonora","M00-M99",10869
+2016,26,"Sonora","N00-N99",17078
+2016,26,"Sonora","O00-O99",20198
+2016,26,"Sonora","P00-P96",570
+2016,26,"Sonora","Q00-Q99",324
+2016,26,"Sonora","R00-R99",19822
+2016,26,"Sonora","S00-T99",53895
+2016,26,"Sonora","Z00-Z99",47160
+2016,27,"Tabasco","A00-B99",6974
+2016,27,"Tabasco","C00-D48",2381
+2016,27,"Tabasco","D50-D89",2238
+2016,27,"Tabasco","E00-E90",12812
+2016,27,"Tabasco","F00-F99",5507
+2016,27,"Tabasco","G00-G99",3111
+2016,27,"Tabasco","H00-H59",5469
+2016,27,"Tabasco","I00-I99",3763
+2016,27,"Tabasco","J00-J99",46229
+2016,27,"Tabasco","K00-K93",25535
+2016,27,"Tabasco","L00-L99",6926
+2016,27,"Tabasco","M00-M99",7630
+2016,27,"Tabasco","N00-N99",19877
+2016,27,"Tabasco","O00-O99",58787
+2016,27,"Tabasco","P00-P96",973
+2016,27,"Tabasco","Q00-Q99",483
+2016,27,"Tabasco","R00-R99",22165
+2016,27,"Tabasco","S00-T99",40466
+2016,27,"Tabasco","V01-Y98",2
+2016,27,"Tabasco","Z00-Z99",45144
+2016,28,"Tamaulipas","A00-B99",5541
+2016,28,"Tamaulipas","C00-D48",1212
+2016,28,"Tamaulipas","D50-D89",1524
+2016,28,"Tamaulipas","E00-E90",8346
+2016,28,"Tamaulipas","F00-F99",4194
+2016,28,"Tamaulipas","G00-G99",2422
+2016,28,"Tamaulipas","H00-H59",4055
+2016,28,"Tamaulipas","I00-I99",3274
+2016,28,"Tamaulipas","J00-J99",29136
+2016,28,"Tamaulipas","K00-K93",20059
+2016,28,"Tamaulipas","L00-L99",4576
+2016,28,"Tamaulipas","M00-M99",8651
+2016,28,"Tamaulipas","N00-N99",12182
+2016,28,"Tamaulipas","O00-O99",15433
+2016,28,"Tamaulipas","P00-P96",639
+2016,28,"Tamaulipas","Q00-Q99",153
+2016,28,"Tamaulipas","R00-R99",14909
+2016,28,"Tamaulipas","S00-T99",37405
+2016,28,"Tamaulipas","Z00-Z99",26344
+2016,29,"Tlaxcala","A00-B99",2230
+2016,29,"Tlaxcala","C00-D48",1676
+2016,29,"Tlaxcala","D50-D89",607
+2016,29,"Tlaxcala","E00-E90",4953
+2016,29,"Tlaxcala","F00-F99",1617
+2016,29,"Tlaxcala","G00-G99",1624
+2016,29,"Tlaxcala","H00-H59",2003
+2016,29,"Tlaxcala","I00-I99",1763
+2016,29,"Tlaxcala","J00-J99",16528
+2016,29,"Tlaxcala","K00-K93",10366
+2016,29,"Tlaxcala","L00-L99",1941
+2016,29,"Tlaxcala","M00-M99",3316
+2016,29,"Tlaxcala","N00-N99",7971
+2016,29,"Tlaxcala","O00-O99",24070
+2016,29,"Tlaxcala","P00-P96",595
+2016,29,"Tlaxcala","Q00-Q99",453
+2016,29,"Tlaxcala","R00-R99",4611
+2016,29,"Tlaxcala","S00-T99",19037
+2016,29,"Tlaxcala","V01-Y98",1
+2016,29,"Tlaxcala","Z00-Z99",24406
+2016,30,"Veracruz de Ignacio de la Llave","A00-B99",11648
+2016,30,"Veracruz de Ignacio de la Llave","C00-D48",3019
+2016,30,"Veracruz de Ignacio de la Llave","D50-D89",2779
+2016,30,"Veracruz de Ignacio de la Llave","E00-E90",17185
+2016,30,"Veracruz de Ignacio de la Llave","F00-F99",9960
+2016,30,"Veracruz de Ignacio de la Llave","G00-G99",5550
+2016,30,"Veracruz de Ignacio de la Llave","H00-H59",6906
+2016,30,"Veracruz de Ignacio de la Llave","I00-I99",6836
+2016,30,"Veracruz de Ignacio de la Llave","J00-J99",44891
+2016,30,"Veracruz de Ignacio de la Llave","K00-K93",39305
+2016,30,"Veracruz de Ignacio de la Llave","L00-L99",8278
+2016,30,"Veracruz de Ignacio de la Llave","M00-M99",11029
+2016,30,"Veracruz de Ignacio de la Llave","N00-N99",26758
+2016,30,"Veracruz de Ignacio de la Llave","O00-O99",44127
+2016,30,"Veracruz de Ignacio de la Llave","P00-P96",2427
+2016,30,"Veracruz de Ignacio de la Llave","Q00-Q99",698
+2016,30,"Veracruz de Ignacio de la Llave","R00-R99",28226
+2016,30,"Veracruz de Ignacio de la Llave","S00-T99",60810
+2016,30,"Veracruz de Ignacio de la Llave","V01-Y98",1
+2016,30,"Veracruz de Ignacio de la Llave","Z00-Z99",89416
+2016,31,"Yucatán","A00-B99",655
+2016,31,"Yucatán","C00-D48",634
+2016,31,"Yucatán","D50-D89",305
+2016,31,"Yucatán","E00-E90",1776
+2016,31,"Yucatán","F00-F99",2448
+2016,31,"Yucatán","G00-G99",751
+2016,31,"Yucatán","H00-H59",580
+2016,31,"Yucatán","I00-I99",935
+2016,31,"Yucatán","J00-J99",3646
+2016,31,"Yucatán","K00-K93",4288
+2016,31,"Yucatán","L00-L99",642
+2016,31,"Yucatán","M00-M99",1123
+2016,31,"Yucatán","N00-N99",2898
+2016,31,"Yucatán","O00-O99",1693
+2016,31,"Yucatán","P00-P96",170
+2016,31,"Yucatán","Q00-Q99",66
+2016,31,"Yucatán","R00-R99",3402
+2016,31,"Yucatán","S00-T99",9187
+2016,31,"Yucatán","Z00-Z99",1258
+2016,32,"Zacatecas","A00-B99",3360
+2016,32,"Zacatecas","C00-D48",1128
+2016,32,"Zacatecas","D50-D89",1041
+2016,32,"Zacatecas","E00-E90",6000
+2016,32,"Zacatecas","F00-F99",3133
+2016,32,"Zacatecas","G00-G99",3662
+2016,32,"Zacatecas","H00-H59",4793
+2016,32,"Zacatecas","I00-I99",2697
+2016,32,"Zacatecas","J00-J99",39696
+2016,32,"Zacatecas","K00-K93",18776
+2016,32,"Zacatecas","L00-L99",4307
+2016,32,"Zacatecas","M00-M99",11560
+2016,32,"Zacatecas","N00-N99",13782
+2016,32,"Zacatecas","O00-O99",7953
+2016,32,"Zacatecas","P00-P96",310
+2016,32,"Zacatecas","Q00-Q99",249
+2016,32,"Zacatecas","R00-R99",16519
+2016,32,"Zacatecas","S00-T99",31479
+2016,32,"Zacatecas","Z00-Z99",49622
+2017,1,"Aguascalientes","A00-B99",1316
+2017,1,"Aguascalientes","C00-D48",996
+2017,1,"Aguascalientes","D50-D89",686
+2017,1,"Aguascalientes","E00-E90",3108
+2017,1,"Aguascalientes","F00-F99",8195
+2017,1,"Aguascalientes","G00-G99",1701
+2017,1,"Aguascalientes","H00-H59",2078
+2017,1,"Aguascalientes","I00-I99",2011
+2017,1,"Aguascalientes","J00-J99",14817
+2017,1,"Aguascalientes","K00-K93",10598
+2017,1,"Aguascalientes","L00-L99",1951
+2017,1,"Aguascalientes","M00-M99",4701
+2017,1,"Aguascalientes","N00-N99",9291
+2017,1,"Aguascalientes","O00-O99",15138
+2017,1,"Aguascalientes","P00-P96",382
+2017,1,"Aguascalientes","Q00-Q99",385
+2017,1,"Aguascalientes","R00-R99",6281
+2017,1,"Aguascalientes","S00-T99",28983
+2017,1,"Aguascalientes","Z00-Z99",22048
+2017,2,"Baja California","A00-B99",870
+2017,2,"Baja California","C00-D48",464
+2017,2,"Baja California","D50-D89",391
+2017,2,"Baja California","E00-E90",2264
+2017,2,"Baja California","F00-F99",1055
+2017,2,"Baja California","G00-G99",788
+2017,2,"Baja California","H00-H59",1039
+2017,2,"Baja California","I00-I99",1338
+2017,2,"Baja California","J00-J99",7361
+2017,2,"Baja California","K00-K93",5865
+2017,2,"Baja California","L00-L99",1786
+2017,2,"Baja California","M00-M99",2394
+2017,2,"Baja California","N00-N99",3629
+2017,2,"Baja California","O00-O99",6582
+2017,2,"Baja California","P00-P96",88
+2017,2,"Baja California","Q00-Q99",63
+2017,2,"Baja California","R00-R99",5001
+2017,2,"Baja California","S00-T99",7934
+2017,2,"Baja California","Z00-Z99",19507
+2017,3,"Baja California Sur","A00-B99",1227
+2017,3,"Baja California Sur","C00-D48",329
+2017,3,"Baja California Sur","D50-D89",315
+2017,3,"Baja California Sur","E00-E90",1940
+2017,3,"Baja California Sur","F00-F99",1259
+2017,3,"Baja California Sur","G00-G99",1221
+2017,3,"Baja California Sur","H00-H59",2376
+2017,3,"Baja California Sur","I00-I99",604
+2017,3,"Baja California Sur","J00-J99",10045
+2017,3,"Baja California Sur","K00-K93",6877
+2017,3,"Baja California Sur","L00-L99",1794
+2017,3,"Baja California Sur","M00-M99",4164
+2017,3,"Baja California Sur","N00-N99",4356
+2017,3,"Baja California Sur","O00-O99",1840
+2017,3,"Baja California Sur","P00-P96",284
+2017,3,"Baja California Sur","Q00-Q99",63
+2017,3,"Baja California Sur","R00-R99",8693
+2017,3,"Baja California Sur","S00-T99",6161
+2017,3,"Baja California Sur","Z00-Z99",16625
+2017,4,"Campeche","A00-B99",1848
+2017,4,"Campeche","C00-D48",329
+2017,4,"Campeche","D50-D89",182
+2017,4,"Campeche","E00-E90",2114
+2017,4,"Campeche","F00-F99",1133
+2017,4,"Campeche","G00-G99",715
+2017,4,"Campeche","H00-H59",1750
+2017,4,"Campeche","I00-I99",454
+2017,4,"Campeche","J00-J99",9748
+2017,4,"Campeche","K00-K93",6726
+2017,4,"Campeche","L00-L99",1502
+2017,4,"Campeche","M00-M99",2017
+2017,4,"Campeche","N00-N99",4008
+2017,4,"Campeche","O00-O99",9217
+2017,4,"Campeche","P00-P96",85
+2017,4,"Campeche","Q00-Q99",44
+2017,4,"Campeche","R00-R99",3526
+2017,4,"Campeche","S00-T99",8045
+2017,4,"Campeche","Z00-Z99",7348
+2017,5,"Coahuila de Zaragoza","A00-B99",12
+2017,5,"Coahuila de Zaragoza","C00-D48",2
+2017,5,"Coahuila de Zaragoza","D50-D89",2
+2017,5,"Coahuila de Zaragoza","E00-E90",14
+2017,5,"Coahuila de Zaragoza","F00-F99",18
+2017,5,"Coahuila de Zaragoza","G00-G99",6
+2017,5,"Coahuila de Zaragoza","H00-H59",6
+2017,5,"Coahuila de Zaragoza","I00-I99",8
+2017,5,"Coahuila de Zaragoza","J00-J99",44
+2017,5,"Coahuila de Zaragoza","K00-K93",42
+2017,5,"Coahuila de Zaragoza","L00-L99",15
+2017,5,"Coahuila de Zaragoza","M00-M99",25
+2017,5,"Coahuila de Zaragoza","N00-N99",41
+2017,5,"Coahuila de Zaragoza","O00-O99",196
+2017,5,"Coahuila de Zaragoza","R00-R99",29
+2017,5,"Coahuila de Zaragoza","S00-T99",100
+2017,5,"Coahuila de Zaragoza","Z00-Z99",62
+2017,6,"Colima","A00-B99",864
+2017,6,"Colima","C00-D48",434
+2017,6,"Colima","D50-D89",217
+2017,6,"Colima","E00-E90",2695
+2017,6,"Colima","F00-F99",1488
+2017,6,"Colima","G00-G99",1042
+2017,6,"Colima","H00-H59",1853
+2017,6,"Colima","I00-I99",726
+2017,6,"Colima","J00-J99",9423
+2017,6,"Colima","K00-K93",7306
+2017,6,"Colima","L00-L99",1611
+2017,6,"Colima","M00-M99",2619
+2017,6,"Colima","N00-N99",3715
+2017,6,"Colima","O00-O99",2523
+2017,6,"Colima","P00-P96",266
+2017,6,"Colima","Q00-Q99",122
+2017,6,"Colima","R00-R99",7926
+2017,6,"Colima","S00-T99",16671
+2017,6,"Colima","Z00-Z99",14315
+2017,7,"Chiapas","A00-B99",4974
+2017,7,"Chiapas","C00-D48",1389
+2017,7,"Chiapas","D50-D89",852
+2017,7,"Chiapas","E00-E90",6345
+2017,7,"Chiapas","F00-F99",1096
+2017,7,"Chiapas","G00-G99",1187
+2017,7,"Chiapas","H00-H59",1383
+2017,7,"Chiapas","I00-I99",2527
+2017,7,"Chiapas","J00-J99",18455
+2017,7,"Chiapas","K00-K93",10922
+2017,7,"Chiapas","L00-L99",2600
+2017,7,"Chiapas","M00-M99",2294
+2017,7,"Chiapas","N00-N99",7547
+2017,7,"Chiapas","O00-O99",30959
+2017,7,"Chiapas","P00-P96",368
+2017,7,"Chiapas","Q00-Q99",258
+2017,7,"Chiapas","R00-R99",7029
+2017,7,"Chiapas","S00-T99",13332
+2017,7,"Chiapas","Z00-Z99",50625
+2017,8,"Chihuahua","A00-B99",973
+2017,8,"Chihuahua","C00-D48",309
+2017,8,"Chihuahua","D50-D89",191
+2017,8,"Chihuahua","E00-E90",1086
+2017,8,"Chihuahua","F00-F99",865
+2017,8,"Chihuahua","G00-G99",787
+2017,8,"Chihuahua","H00-H59",1040
+2017,8,"Chihuahua","I00-I99",879
+2017,8,"Chihuahua","J00-J99",8994
+2017,8,"Chihuahua","K00-K93",3833
+2017,8,"Chihuahua","L00-L99",906
+2017,8,"Chihuahua","M00-M99",2213
+2017,8,"Chihuahua","N00-N99",3405
+2017,8,"Chihuahua","O00-O99",4473
+2017,8,"Chihuahua","P00-P96",45
+2017,8,"Chihuahua","Q00-Q99",50
+2017,8,"Chihuahua","R00-R99",2386
+2017,8,"Chihuahua","S00-T99",8257
+2017,8,"Chihuahua","Z00-Z99",12646
+2017,9,"Ciudad de México","A00-B99",9555
+2017,9,"Ciudad de México","C00-D48",4178
+2017,9,"Ciudad de México","D50-D89",2263
+2017,9,"Ciudad de México","E00-E90",26102
+2017,9,"Ciudad de México","F00-F99",29298
+2017,9,"Ciudad de México","G00-G99",8311
+2017,9,"Ciudad de México","H00-H59",10334
+2017,9,"Ciudad de México","I00-I99",10481
+2017,9,"Ciudad de México","J00-J99",66898
+2017,9,"Ciudad de México","K00-K93",57728
+2017,9,"Ciudad de México","L00-L99",11025
+2017,9,"Ciudad de México","M00-M99",24755
+2017,9,"Ciudad de México","N00-N99",44409
+2017,9,"Ciudad de México","O00-O99",116810
+2017,9,"Ciudad de México","P00-P96",4513
+2017,9,"Ciudad de México","Q00-Q99",1045
+2017,9,"Ciudad de México","R00-R99",20008
+2017,9,"Ciudad de México","S00-T99",159179
+2017,9,"Ciudad de México","Z00-Z99",58669
+2017,10,"Durango","A00-B99",2681
+2017,10,"Durango","C00-D48",515
+2017,10,"Durango","D50-D89",634
+2017,10,"Durango","E00-E90",3614
+2017,10,"Durango","F00-F99",2768
+2017,10,"Durango","G00-G99",2948
+2017,10,"Durango","H00-H59",3239
+2017,10,"Durango","I00-I99",1679
+2017,10,"Durango","J00-J99",29448
+2017,10,"Durango","K00-K93",14572
+2017,10,"Durango","L00-L99",3368
+2017,10,"Durango","M00-M99",5476
+2017,10,"Durango","N00-N99",8073
+2017,10,"Durango","O00-O99",21086
+2017,10,"Durango","P00-P96",269
+2017,10,"Durango","Q00-Q99",137
+2017,10,"Durango","R00-R99",4466
+2017,10,"Durango","S00-T99",21264
+2017,10,"Durango","Z00-Z99",25582
+2017,11,"Guanajuato","A00-B99",6356
+2017,11,"Guanajuato","C00-D48",2888
+2017,11,"Guanajuato","D50-D89",2411
+2017,11,"Guanajuato","E00-E90",17074
+2017,11,"Guanajuato","F00-F99",8960
+2017,11,"Guanajuato","G00-G99",7006
+2017,11,"Guanajuato","H00-H59",8997
+2017,11,"Guanajuato","I00-I99",6036
+2017,11,"Guanajuato","J00-J99",92955
+2017,11,"Guanajuato","K00-K93",44899
+2017,11,"Guanajuato","L00-L99",11867
+2017,11,"Guanajuato","M00-M99",20256
+2017,11,"Guanajuato","N00-N99",32077
+2017,11,"Guanajuato","O00-O99",61434
+2017,11,"Guanajuato","P00-P96",3587
+2017,11,"Guanajuato","Q00-Q99",874
+2017,11,"Guanajuato","R00-R99",38954
+2017,11,"Guanajuato","S00-T99",154496
+2017,11,"Guanajuato","Z00-Z99",120423
+2017,12,"Guerrero","A00-B99",2727
+2017,12,"Guerrero","C00-D48",709
+2017,12,"Guerrero","D50-D89",1227
+2017,12,"Guerrero","E00-E90",4840
+2017,12,"Guerrero","F00-F99",1782
+2017,12,"Guerrero","G00-G99",1345
+2017,12,"Guerrero","H00-H59",1657
+2017,12,"Guerrero","I00-I99",1956
+2017,12,"Guerrero","J00-J99",14126
+2017,12,"Guerrero","K00-K93",11829
+2017,12,"Guerrero","L00-L99",2112
+2017,12,"Guerrero","M00-M99",2653
+2017,12,"Guerrero","N00-N99",7115
+2017,12,"Guerrero","O00-O99",18582
+2017,12,"Guerrero","P00-P96",657
+2017,12,"Guerrero","Q00-Q99",246
+2017,12,"Guerrero","R00-R99",9279
+2017,12,"Guerrero","S00-T99",24176
+2017,12,"Guerrero","Z00-Z99",29113
+2017,13,"Hidalgo","A00-B99",2809
+2017,13,"Hidalgo","C00-D48",2144
+2017,13,"Hidalgo","D50-D89",2375
+2017,13,"Hidalgo","E00-E90",11575
+2017,13,"Hidalgo","F00-F99",2565
+2017,13,"Hidalgo","G00-G99",4213
+2017,13,"Hidalgo","H00-H59",2221
+2017,13,"Hidalgo","I00-I99",5508
+2017,13,"Hidalgo","J00-J99",20564
+2017,13,"Hidalgo","K00-K93",19065
+2017,13,"Hidalgo","L00-L99",3024
+2017,13,"Hidalgo","M00-M99",9796
+2017,13,"Hidalgo","N00-N99",11289
+2017,13,"Hidalgo","O00-O99",13617
+2017,13,"Hidalgo","P00-P96",636
+2017,13,"Hidalgo","Q00-Q99",231
+2017,13,"Hidalgo","R00-R99",18187
+2017,13,"Hidalgo","S00-T99",37612
+2017,13,"Hidalgo","Z00-Z99",65839
+2017,14,"Jalisco","A00-B99",6123
+2017,14,"Jalisco","C00-D48",2234
+2017,14,"Jalisco","D50-D89",2105
+2017,14,"Jalisco","E00-E90",8681
+2017,14,"Jalisco","F00-F99",11984
+2017,14,"Jalisco","G00-G99",4775
+2017,14,"Jalisco","H00-H59",6458
+2017,14,"Jalisco","I00-I99",5746
+2017,14,"Jalisco","J00-J99",54969
+2017,14,"Jalisco","K00-K93",29787
+2017,14,"Jalisco","L00-L99",7051
+2017,14,"Jalisco","M00-M99",12989
+2017,14,"Jalisco","N00-N99",20983
+2017,14,"Jalisco","O00-O99",43252
+2017,14,"Jalisco","P00-P96",887
+2017,14,"Jalisco","Q00-Q99",539
+2017,14,"Jalisco","R00-R99",48966
+2017,14,"Jalisco","S00-T99",77285
+2017,14,"Jalisco","Z00-Z99",104622
+2017,15,"Estado de México","A00-B99",14334
+2017,15,"Estado de México","C00-D48",5676
+2017,15,"Estado de México","D50-D89",3476
+2017,15,"Estado de México","E00-E90",30987
+2017,15,"Estado de México","F00-F99",15847
+2017,15,"Estado de México","G00-G99",11775
+2017,15,"Estado de México","H00-H59",11232
+2017,15,"Estado de México","I00-I99",11017
+2017,15,"Estado de México","J00-J99",121625
+2017,15,"Estado de México","K00-K93",79909
+2017,15,"Estado de México","L00-L99",15278
+2017,15,"Estado de México","M00-M99",26714
+2017,15,"Estado de México","N00-N99",67690
+2017,15,"Estado de México","O00-O99",143869
+2017,15,"Estado de México","P00-P96",5617
+2017,15,"Estado de México","Q00-Q99",1155
+2017,15,"Estado de México","R00-R99",43140
+2017,15,"Estado de México","S00-T99",165298
+2017,15,"Estado de México","Z00-Z99",255261
+2017,16,"Michoacán de Ocampo","A00-B99",3730
+2017,16,"Michoacán de Ocampo","C00-D48",2027
+2017,16,"Michoacán de Ocampo","D50-D89",1429
+2017,16,"Michoacán de Ocampo","E00-E90",10717
+2017,16,"Michoacán de Ocampo","F00-F99",4920
+2017,16,"Michoacán de Ocampo","G00-G99",4084
+2017,16,"Michoacán de Ocampo","H00-H59",2619
+2017,16,"Michoacán de Ocampo","I00-I99",4164
+2017,16,"Michoacán de Ocampo","J00-J99",29006
+2017,16,"Michoacán de Ocampo","K00-K93",25746
+2017,16,"Michoacán de Ocampo","L00-L99",4829
+2017,16,"Michoacán de Ocampo","M00-M99",7854
+2017,16,"Michoacán de Ocampo","N00-N99",16127
+2017,16,"Michoacán de Ocampo","O00-O99",25969
+2017,16,"Michoacán de Ocampo","P00-P96",922
+2017,16,"Michoacán de Ocampo","Q00-Q99",449
+2017,16,"Michoacán de Ocampo","R00-R99",15271
+2017,16,"Michoacán de Ocampo","S00-T99",58475
+2017,16,"Michoacán de Ocampo","Z00-Z99",42731
+2017,17,"Morelos","A00-B99",3066
+2017,17,"Morelos","C00-D48",994
+2017,17,"Morelos","D50-D89",857
+2017,17,"Morelos","E00-E90",5631
+2017,17,"Morelos","F00-F99",1823
+2017,17,"Morelos","G00-G99",2147
+2017,17,"Morelos","H00-H59",2841
+2017,17,"Morelos","I00-I99",1498
+2017,17,"Morelos","J00-J99",22619
+2017,17,"Morelos","K00-K93",12903
+2017,17,"Morelos","L00-L99",3513
+2017,17,"Morelos","M00-M99",3587
+2017,17,"Morelos","N00-N99",10270
+2017,17,"Morelos","O00-O99",31217
+2017,17,"Morelos","P00-P96",1031
+2017,17,"Morelos","Q00-Q99",466
+2017,17,"Morelos","R00-R99",10454
+2017,17,"Morelos","S00-T99",34884
+2017,17,"Morelos","Z00-Z99",9866
+2017,18,"Nayarit","A00-B99",1221
+2017,18,"Nayarit","C00-D48",263
+2017,18,"Nayarit","D50-D89",297
+2017,18,"Nayarit","E00-E90",1910
+2017,18,"Nayarit","F00-F99",967
+2017,18,"Nayarit","G00-G99",1024
+2017,18,"Nayarit","H00-H59",1314
+2017,18,"Nayarit","I00-I99",810
+2017,18,"Nayarit","J00-J99",8481
+2017,18,"Nayarit","K00-K93",4316
+2017,18,"Nayarit","L00-L99",1272
+2017,18,"Nayarit","M00-M99",1626
+2017,18,"Nayarit","N00-N99",3560
+2017,18,"Nayarit","O00-O99",3482
+2017,18,"Nayarit","P00-P96",68
+2017,18,"Nayarit","Q00-Q99",47
+2017,18,"Nayarit","R00-R99",4569
+2017,18,"Nayarit","S00-T99",12055
+2017,18,"Nayarit","Z00-Z99",4945
+2017,19,"Nuevo León","A00-B99",3068
+2017,19,"Nuevo León","C00-D48",777
+2017,19,"Nuevo León","D50-D89",515
+2017,19,"Nuevo León","E00-E90",4256
+2017,19,"Nuevo León","F00-F99",4723
+2017,19,"Nuevo León","G00-G99",2898
+2017,19,"Nuevo León","H00-H59",4650
+2017,19,"Nuevo León","I00-I99",2534
+2017,19,"Nuevo León","J00-J99",19043
+2017,19,"Nuevo León","K00-K93",14528
+2017,19,"Nuevo León","L00-L99",3914
+2017,19,"Nuevo León","M00-M99",6507
+2017,19,"Nuevo León","N00-N99",9104
+2017,19,"Nuevo León","O00-O99",16451
+2017,19,"Nuevo León","P00-P96",699
+2017,19,"Nuevo León","Q00-Q99",203
+2017,19,"Nuevo León","R00-R99",16758
+2017,19,"Nuevo León","S00-T99",24358
+2017,19,"Nuevo León","Z00-Z99",93247
+2017,20,"Oaxaca","A00-B99",2528
+2017,20,"Oaxaca","C00-D48",1396
+2017,20,"Oaxaca","D50-D89",800
+2017,20,"Oaxaca","E00-E90",4958
+2017,20,"Oaxaca","F00-F99",1659
+2017,20,"Oaxaca","G00-G99",1852
+2017,20,"Oaxaca","H00-H59",1779
+2017,20,"Oaxaca","I00-I99",2064
+2017,20,"Oaxaca","J00-J99",14286
+2017,20,"Oaxaca","K00-K93",9676
+2017,20,"Oaxaca","L00-L99",1894
+2017,20,"Oaxaca","M00-M99",2646
+2017,20,"Oaxaca","N00-N99",6860
+2017,20,"Oaxaca","O00-O99",21189
+2017,20,"Oaxaca","P00-P96",695
+2017,20,"Oaxaca","Q00-Q99",225
+2017,20,"Oaxaca","R00-R99",7561
+2017,20,"Oaxaca","S00-T99",20950
+2017,20,"Oaxaca","Z00-Z99",33647
+2017,21,"Puebla","A00-B99",10041
+2017,21,"Puebla","C00-D48",3031
+2017,21,"Puebla","D50-D89",2549
+2017,21,"Puebla","E00-E90",15922
+2017,21,"Puebla","F00-F99",4906
+2017,21,"Puebla","G00-G99",4904
+2017,21,"Puebla","H00-H59",6282
+2017,21,"Puebla","I00-I99",5555
+2017,21,"Puebla","J00-J99",67927
+2017,21,"Puebla","K00-K93",32810
+2017,21,"Puebla","L00-L99",7615
+2017,21,"Puebla","M00-M99",10830
+2017,21,"Puebla","N00-N99",24653
+2017,21,"Puebla","O00-O99",55968
+2017,21,"Puebla","P00-P96",1490
+2017,21,"Puebla","Q00-Q99",505
+2017,21,"Puebla","R00-R99",14639
+2017,21,"Puebla","S00-T99",62413
+2017,21,"Puebla","Z00-Z99",74097
+2017,22,"Querétaro","A00-B99",1163
+2017,22,"Querétaro","C00-D48",1662
+2017,22,"Querétaro","D50-D89",937
+2017,22,"Querétaro","E00-E90",5042
+2017,22,"Querétaro","F00-F99",2523
+2017,22,"Querétaro","G00-G99",1474
+2017,22,"Querétaro","H00-H59",1242
+2017,22,"Querétaro","I00-I99",1823
+2017,22,"Querétaro","J00-J99",17362
+2017,22,"Querétaro","K00-K93",14643
+2017,22,"Querétaro","L00-L99",2124
+2017,22,"Querétaro","M00-M99",3016
+2017,22,"Querétaro","N00-N99",8324
+2017,22,"Querétaro","O00-O99",28868
+2017,22,"Querétaro","P00-P96",1165
+2017,22,"Querétaro","Q00-Q99",243
+2017,22,"Querétaro","R00-R99",9157
+2017,22,"Querétaro","S00-T99",23010
+2017,22,"Querétaro","Z00-Z99",33086
+2017,23,"Quintana Roo","A00-B99",2154
+2017,23,"Quintana Roo","C00-D48",475
+2017,23,"Quintana Roo","D50-D89",357
+2017,23,"Quintana Roo","E00-E90",2615
+2017,23,"Quintana Roo","F00-F99",1496
+2017,23,"Quintana Roo","G00-G99",809
+2017,23,"Quintana Roo","H00-H59",2577
+2017,23,"Quintana Roo","I00-I99",571
+2017,23,"Quintana Roo","J00-J99",13514
+2017,23,"Quintana Roo","K00-K93",6666
+2017,23,"Quintana Roo","L00-L99",1650
+2017,23,"Quintana Roo","M00-M99",2540
+2017,23,"Quintana Roo","N00-N99",5686
+2017,23,"Quintana Roo","O00-O99",6560
+2017,23,"Quintana Roo","P00-P96",178
+2017,23,"Quintana Roo","Q00-Q99",58
+2017,23,"Quintana Roo","R00-R99",5270
+2017,23,"Quintana Roo","S00-T99",14942
+2017,23,"Quintana Roo","Z00-Z99",12080
+2017,24,"San Luis Potosí","A00-B99",4050
+2017,24,"San Luis Potosí","C00-D48",1510
+2017,24,"San Luis Potosí","D50-D89",936
+2017,24,"San Luis Potosí","E00-E90",5609
+2017,24,"San Luis Potosí","F00-F99",2517
+2017,24,"San Luis Potosí","G00-G99",2466
+2017,24,"San Luis Potosí","H00-H59",3604
+2017,24,"San Luis Potosí","I00-I99",2579
+2017,24,"San Luis Potosí","J00-J99",24844
+2017,24,"San Luis Potosí","K00-K93",13008
+2017,24,"San Luis Potosí","L00-L99",3418
+2017,24,"San Luis Potosí","M00-M99",5132
+2017,24,"San Luis Potosí","N00-N99",9793
+2017,24,"San Luis Potosí","O00-O99",16123
+2017,24,"San Luis Potosí","P00-P96",783
+2017,24,"San Luis Potosí","Q00-Q99",231
+2017,24,"San Luis Potosí","R00-R99",8193
+2017,24,"San Luis Potosí","S00-T99",36947
+2017,24,"San Luis Potosí","Z00-Z99",35274
+2017,25,"Sinaloa","A00-B99",3766
+2017,25,"Sinaloa","C00-D48",1774
+2017,25,"Sinaloa","D50-D89",1048
+2017,25,"Sinaloa","E00-E90",6255
+2017,25,"Sinaloa","F00-F99",3229
+2017,25,"Sinaloa","G00-G99",2434
+2017,25,"Sinaloa","H00-H59",4894
+2017,25,"Sinaloa","I00-I99",2824
+2017,25,"Sinaloa","J00-J99",26930
+2017,25,"Sinaloa","K00-K93",13240
+2017,25,"Sinaloa","L00-L99",4796
+2017,25,"Sinaloa","M00-M99",8198
+2017,25,"Sinaloa","N00-N99",9020
+2017,25,"Sinaloa","O00-O99",23435
+2017,25,"Sinaloa","P00-P96",536
+2017,25,"Sinaloa","Q00-Q99",193
+2017,25,"Sinaloa","R00-R99",38990
+2017,25,"Sinaloa","S00-T99",36258
+2017,25,"Sinaloa","Z00-Z99",39647
+2017,26,"Sonora","A00-B99",6440
+2017,26,"Sonora","C00-D48",1695
+2017,26,"Sonora","D50-D89",1233
+2017,26,"Sonora","E00-E90",6514
+2017,26,"Sonora","F00-F99",4226
+2017,26,"Sonora","G00-G99",4037
+2017,26,"Sonora","H00-H59",5538
+2017,26,"Sonora","I00-I99",5770
+2017,26,"Sonora","J00-J99",34382
+2017,26,"Sonora","K00-K93",21449
+2017,26,"Sonora","L00-L99",6630
+2017,26,"Sonora","M00-M99",9913
+2017,26,"Sonora","N00-N99",15817
+2017,26,"Sonora","O00-O99",17644
+2017,26,"Sonora","P00-P96",632
+2017,26,"Sonora","Q00-Q99",292
+2017,26,"Sonora","R00-R99",18955
+2017,26,"Sonora","S00-T99",51855
+2017,26,"Sonora","Z00-Z99",43916
+2017,27,"Tabasco","A00-B99",2939
+2017,27,"Tabasco","C00-D48",1061
+2017,27,"Tabasco","D50-D89",874
+2017,27,"Tabasco","E00-E90",6369
+2017,27,"Tabasco","F00-F99",2173
+2017,27,"Tabasco","G00-G99",1455
+2017,27,"Tabasco","H00-H59",2771
+2017,27,"Tabasco","I00-I99",1385
+2017,27,"Tabasco","J00-J99",19531
+2017,27,"Tabasco","K00-K93",11680
+2017,27,"Tabasco","L00-L99",2484
+2017,27,"Tabasco","M00-M99",2902
+2017,27,"Tabasco","N00-N99",8726
+2017,27,"Tabasco","O00-O99",33016
+2017,27,"Tabasco","P00-P96",361
+2017,27,"Tabasco","Q00-Q99",230
+2017,27,"Tabasco","R00-R99",9620
+2017,27,"Tabasco","S00-T99",18700
+2017,27,"Tabasco","Z00-Z99",20216
+2017,28,"Tamaulipas","A00-B99",4982
+2017,28,"Tamaulipas","C00-D48",1273
+2017,28,"Tamaulipas","D50-D89",1511
+2017,28,"Tamaulipas","E00-E90",8325
+2017,28,"Tamaulipas","F00-F99",4652
+2017,28,"Tamaulipas","G00-G99",2259
+2017,28,"Tamaulipas","H00-H59",3915
+2017,28,"Tamaulipas","I00-I99",3646
+2017,28,"Tamaulipas","J00-J99",27991
+2017,28,"Tamaulipas","K00-K93",19097
+2017,28,"Tamaulipas","L00-L99",4832
+2017,28,"Tamaulipas","M00-M99",8408
+2017,28,"Tamaulipas","N00-N99",12462
+2017,28,"Tamaulipas","O00-O99",16363
+2017,28,"Tamaulipas","P00-P96",570
+2017,28,"Tamaulipas","Q00-Q99",159
+2017,28,"Tamaulipas","R00-R99",15802
+2017,28,"Tamaulipas","S00-T99",37591
+2017,28,"Tamaulipas","Z00-Z99",27295
+2017,29,"Tlaxcala","A00-B99",1333
+2017,29,"Tlaxcala","C00-D48",977
+2017,29,"Tlaxcala","D50-D89",483
+2017,29,"Tlaxcala","E00-E90",2972
+2017,29,"Tlaxcala","F00-F99",1077
+2017,29,"Tlaxcala","G00-G99",1118
+2017,29,"Tlaxcala","H00-H59",1194
+2017,29,"Tlaxcala","I00-I99",958
+2017,29,"Tlaxcala","J00-J99",10592
+2017,29,"Tlaxcala","K00-K93",6522
+2017,29,"Tlaxcala","L00-L99",1293
+2017,29,"Tlaxcala","M00-M99",2005
+2017,29,"Tlaxcala","N00-N99",4692
+2017,29,"Tlaxcala","O00-O99",16399
+2017,29,"Tlaxcala","P00-P96",406
+2017,29,"Tlaxcala","Q00-Q99",390
+2017,29,"Tlaxcala","R00-R99",4412
+2017,29,"Tlaxcala","S00-T99",12413
+2017,29,"Tlaxcala","Z00-Z99",19368
+2017,30,"Veracruz de Ignacio de la Llave","A00-B99",9730
+2017,30,"Veracruz de Ignacio de la Llave","C00-D48",2991
+2017,30,"Veracruz de Ignacio de la Llave","D50-D89",2339
+2017,30,"Veracruz de Ignacio de la Llave","E00-E90",16238
+2017,30,"Veracruz de Ignacio de la Llave","F00-F99",9447
+2017,30,"Veracruz de Ignacio de la Llave","G00-G99",5130
+2017,30,"Veracruz de Ignacio de la Llave","H00-H59",6761
+2017,30,"Veracruz de Ignacio de la Llave","I00-I99",6137
+2017,30,"Veracruz de Ignacio de la Llave","J00-J99",40690
+2017,30,"Veracruz de Ignacio de la Llave","K00-K93",38685
+2017,30,"Veracruz de Ignacio de la Llave","L00-L99",7304
+2017,30,"Veracruz de Ignacio de la Llave","M00-M99",10366
+2017,30,"Veracruz de Ignacio de la Llave","N00-N99",24086
+2017,30,"Veracruz de Ignacio de la Llave","O00-O99",46773
+2017,30,"Veracruz de Ignacio de la Llave","P00-P96",1586
+2017,30,"Veracruz de Ignacio de la Llave","Q00-Q99",548
+2017,30,"Veracruz de Ignacio de la Llave","R00-R99",23609
+2017,30,"Veracruz de Ignacio de la Llave","S00-T99",60451
+2017,30,"Veracruz de Ignacio de la Llave","Z00-Z99",88855
+2017,31,"Yucatán","A00-B99",632
+2017,31,"Yucatán","C00-D48",616
+2017,31,"Yucatán","D50-D89",247
+2017,31,"Yucatán","E00-E90",1727
+2017,31,"Yucatán","F00-F99",1698
+2017,31,"Yucatán","G00-G99",672
+2017,31,"Yucatán","H00-H59",732
+2017,31,"Yucatán","I00-I99",753
+2017,31,"Yucatán","J00-J99",3715
+2017,31,"Yucatán","K00-K93",4205
+2017,31,"Yucatán","L00-L99",667
+2017,31,"Yucatán","M00-M99",970
+2017,31,"Yucatán","N00-N99",2702
+2017,31,"Yucatán","O00-O99",2988
+2017,31,"Yucatán","P00-P96",211
+2017,31,"Yucatán","Q00-Q99",109
+2017,31,"Yucatán","R00-R99",2754
+2017,31,"Yucatán","S00-T99",9778
+2017,31,"Yucatán","Z00-Z99",2228
+2017,32,"Zacatecas","A00-B99",3339
+2017,32,"Zacatecas","C00-D48",1189
+2017,32,"Zacatecas","D50-D89",1082
+2017,32,"Zacatecas","E00-E90",6515
+2017,32,"Zacatecas","F00-F99",3153
+2017,32,"Zacatecas","G00-G99",3548
+2017,32,"Zacatecas","H00-H59",4983
+2017,32,"Zacatecas","I00-I99",2753
+2017,32,"Zacatecas","J00-J99",37130
+2017,32,"Zacatecas","K00-K93",18615
+2017,32,"Zacatecas","L00-L99",4107
+2017,32,"Zacatecas","M00-M99",12122
+2017,32,"Zacatecas","N00-N99",14574
+2017,32,"Zacatecas","O00-O99",7593
+2017,32,"Zacatecas","P00-P96",330
+2017,32,"Zacatecas","Q00-Q99",267
+2017,32,"Zacatecas","R00-R99",19825
+2017,32,"Zacatecas","S00-T99",33286
+2017,32,"Zacatecas","Z00-Z99",53174
+2018,1,"Aguascalientes","A00-B99",1062
+2018,1,"Aguascalientes","C00-D48",1012
+2018,1,"Aguascalientes","D50-D89",678
+2018,1,"Aguascalientes","E00-E90",3654
+2018,1,"Aguascalientes","F00-F99",7178
+2018,1,"Aguascalientes","G00-G99",1795
+2018,1,"Aguascalientes","H00-H59",1684
+2018,1,"Aguascalientes","I00-I99",2077
+2018,1,"Aguascalientes","J00-J99",11372
+2018,1,"Aguascalientes","K00-K93",10328
+2018,1,"Aguascalientes","L00-L99",1892
+2018,1,"Aguascalientes","M00-M99",4869
+2018,1,"Aguascalientes","N00-N99",8786
+2018,1,"Aguascalientes","O00-O99",15095
+2018,1,"Aguascalientes","P00-P96",394
+2018,1,"Aguascalientes","Q00-Q99",227
+2018,1,"Aguascalientes","R00-R99",6985
+2018,1,"Aguascalientes","S00-T99",28345
+2018,1,"Aguascalientes","Z00-Z99",23193
+2018,2,"Baja California","A00-B99",2517
+2018,2,"Baja California","C00-D48",1080
+2018,2,"Baja California","D50-D89",906
+2018,2,"Baja California","E00-E90",4156
+2018,2,"Baja California","F00-F99",2121
+2018,2,"Baja California","G00-G99",2210
+2018,2,"Baja California","H00-H59",2842
+2018,2,"Baja California","I00-I99",3339
+2018,2,"Baja California","J00-J99",16106
+2018,2,"Baja California","K00-K93",13531
+2018,2,"Baja California","L00-L99",3702
+2018,2,"Baja California","M00-M99",5083
+2018,2,"Baja California","N00-N99",6976
+2018,2,"Baja California","O00-O99",9329
+2018,2,"Baja California","P00-P96",438
+2018,2,"Baja California","Q00-Q99",194
+2018,2,"Baja California","R00-R99",15793
+2018,2,"Baja California","S00-T99",22146
+2018,2,"Baja California","Z00-Z99",35619
+2018,3,"Baja California Sur","A00-B99",1275
+2018,3,"Baja California Sur","C00-D48",348
+2018,3,"Baja California Sur","D50-D89",315
+2018,3,"Baja California Sur","E00-E90",1948
+2018,3,"Baja California Sur","F00-F99",1326
+2018,3,"Baja California Sur","G00-G99",1208
+2018,3,"Baja California Sur","H00-H59",2380
+2018,3,"Baja California Sur","I00-I99",647
+2018,3,"Baja California Sur","J00-J99",8394
+2018,3,"Baja California Sur","K00-K93",6499
+2018,3,"Baja California Sur","L00-L99",1699
+2018,3,"Baja California Sur","M00-M99",3708
+2018,3,"Baja California Sur","N00-N99",4104
+2018,3,"Baja California Sur","O00-O99",1486
+2018,3,"Baja California Sur","P00-P96",311
+2018,3,"Baja California Sur","Q00-Q99",66
+2018,3,"Baja California Sur","R00-R99",11091
+2018,3,"Baja California Sur","S00-T99",6455
+2018,3,"Baja California Sur","Z00-Z99",19556
+2018,4,"Campeche","A00-B99",1345
+2018,4,"Campeche","C00-D48",326
+2018,4,"Campeche","D50-D89",176
+2018,4,"Campeche","E00-E90",1793
+2018,4,"Campeche","F00-F99",914
+2018,4,"Campeche","G00-G99",826
+2018,4,"Campeche","H00-H59",1223
+2018,4,"Campeche","I00-I99",462
+2018,4,"Campeche","J00-J99",8357
+2018,4,"Campeche","K00-K93",5421
+2018,4,"Campeche","L00-L99",1135
+2018,4,"Campeche","M00-M99",1903
+2018,4,"Campeche","N00-N99",3831
+2018,4,"Campeche","O00-O99",11507
+2018,4,"Campeche","P00-P96",73
+2018,4,"Campeche","Q00-Q99",59
+2018,4,"Campeche","R00-R99",2847
+2018,4,"Campeche","S00-T99",7466
+2018,4,"Campeche","Z00-Z99",6110
+2018,5,"Coahuila de Zaragoza","A00-B99",531
+2018,5,"Coahuila de Zaragoza","C00-D48",200
+2018,5,"Coahuila de Zaragoza","D50-D89",167
+2018,5,"Coahuila de Zaragoza","E00-E90",1829
+2018,5,"Coahuila de Zaragoza","F00-F99",1294
+2018,5,"Coahuila de Zaragoza","G00-G99",639
+2018,5,"Coahuila de Zaragoza","H00-H59",667
+2018,5,"Coahuila de Zaragoza","I00-I99",478
+2018,5,"Coahuila de Zaragoza","J00-J99",4701
+2018,5,"Coahuila de Zaragoza","K00-K93",4608
+2018,5,"Coahuila de Zaragoza","L00-L99",810
+2018,5,"Coahuila de Zaragoza","M00-M99",1258
+2018,5,"Coahuila de Zaragoza","N00-N99",2707
+2018,5,"Coahuila de Zaragoza","O00-O99",5956
+2018,5,"Coahuila de Zaragoza","P00-P96",149
+2018,5,"Coahuila de Zaragoza","Q00-Q99",59
+2018,5,"Coahuila de Zaragoza","R00-R99",3541
+2018,5,"Coahuila de Zaragoza","S00-T99",9431
+2018,5,"Coahuila de Zaragoza","Z00-Z99",4981
+2018,6,"Colima","A00-B99",879
+2018,6,"Colima","C00-D48",409
+2018,6,"Colima","D50-D89",183
+2018,6,"Colima","E00-E90",2960
+2018,6,"Colima","F00-F99",1620
+2018,6,"Colima","G00-G99",1071
+2018,6,"Colima","H00-H59",1663
+2018,6,"Colima","I00-I99",684
+2018,6,"Colima","J00-J99",7648
+2018,6,"Colima","K00-K93",7124
+2018,6,"Colima","L00-L99",1534
+2018,6,"Colima","M00-M99",2619
+2018,6,"Colima","N00-N99",3763
+2018,6,"Colima","O00-O99",2618
+2018,6,"Colima","P00-P96",308
+2018,6,"Colima","Q00-Q99",127
+2018,6,"Colima","R00-R99",7753
+2018,6,"Colima","S00-T99",16604
+2018,6,"Colima","Z00-Z99",14801
+2018,7,"Chiapas","A00-B99",3226
+2018,7,"Chiapas","C00-D48",1739
+2018,7,"Chiapas","D50-D89",1311
+2018,7,"Chiapas","E00-E90",8132
+2018,7,"Chiapas","F00-F99",1845
+2018,7,"Chiapas","G00-G99",1763
+2018,7,"Chiapas","H00-H59",1808
+2018,7,"Chiapas","I00-I99",2536
+2018,7,"Chiapas","J00-J99",12093
+2018,7,"Chiapas","K00-K93",13386
+2018,7,"Chiapas","L00-L99",3078
+2018,7,"Chiapas","M00-M99",3663
+2018,7,"Chiapas","N00-N99",8100
+2018,7,"Chiapas","O00-O99",30735
+2018,7,"Chiapas","P00-P96",494
+2018,7,"Chiapas","Q00-Q99",313
+2018,7,"Chiapas","R00-R99",12736
+2018,7,"Chiapas","S00-T99",18048
+2018,7,"Chiapas","Z00-Z99",37460
+2018,8,"Chihuahua","A00-B99",3612
+2018,8,"Chihuahua","C00-D48",1198
+2018,8,"Chihuahua","D50-D89",634
+2018,8,"Chihuahua","E00-E90",3526
+2018,8,"Chihuahua","F00-F99",2992
+2018,8,"Chihuahua","G00-G99",2969
+2018,8,"Chihuahua","H00-H59",3014
+2018,8,"Chihuahua","I00-I99",2645
+2018,8,"Chihuahua","J00-J99",20068
+2018,8,"Chihuahua","K00-K93",12340
+2018,8,"Chihuahua","L00-L99",3088
+2018,8,"Chihuahua","M00-M99",5654
+2018,8,"Chihuahua","N00-N99",8729
+2018,8,"Chihuahua","O00-O99",10915
+2018,8,"Chihuahua","P00-P96",299
+2018,8,"Chihuahua","Q00-Q99",205
+2018,8,"Chihuahua","R00-R99",7638
+2018,8,"Chihuahua","S00-T99",29096
+2018,8,"Chihuahua","Z00-Z99",32064
+2018,9,"Ciudad de México","A00-B99",10033
+2018,9,"Ciudad de México","C00-D48",5118
+2018,9,"Ciudad de México","D50-D89",2663
+2018,9,"Ciudad de México","E00-E90",26807
+2018,9,"Ciudad de México","F00-F99",30104
+2018,9,"Ciudad de México","G00-G99",8989
+2018,9,"Ciudad de México","H00-H59",11432
+2018,9,"Ciudad de México","I00-I99",13361
+2018,9,"Ciudad de México","J00-J99",61321
+2018,9,"Ciudad de México","K00-K93",57193
+2018,9,"Ciudad de México","L00-L99",12791
+2018,9,"Ciudad de México","M00-M99",23407
+2018,9,"Ciudad de México","N00-N99",45189
+2018,9,"Ciudad de México","O00-O99",112048
+2018,9,"Ciudad de México","P00-P96",4094
+2018,9,"Ciudad de México","Q00-Q99",916
+2018,9,"Ciudad de México","R00-R99",27993
+2018,9,"Ciudad de México","S00-T99",150185
+2018,9,"Ciudad de México","Z00-Z99",46752
+2018,10,"Durango","A00-B99",2110
+2018,10,"Durango","C00-D48",507
+2018,10,"Durango","D50-D89",466
+2018,10,"Durango","E00-E90",3287
+2018,10,"Durango","F00-F99",3150
+2018,10,"Durango","G00-G99",2352
+2018,10,"Durango","H00-H59",2566
+2018,10,"Durango","I00-I99",1626
+2018,10,"Durango","J00-J99",22235
+2018,10,"Durango","K00-K93",13515
+2018,10,"Durango","L00-L99",2968
+2018,10,"Durango","M00-M99",4723
+2018,10,"Durango","N00-N99",6937
+2018,10,"Durango","O00-O99",20865
+2018,10,"Durango","P00-P96",253
+2018,10,"Durango","Q00-Q99",136
+2018,10,"Durango","R00-R99",5001
+2018,10,"Durango","S00-T99",20319
+2018,10,"Durango","Z00-Z99",23182
+2018,11,"Guanajuato","A00-B99",5786
+2018,11,"Guanajuato","C00-D48",3066
+2018,11,"Guanajuato","D50-D89",2825
+2018,11,"Guanajuato","E00-E90",17286
+2018,11,"Guanajuato","F00-F99",10288
+2018,11,"Guanajuato","G00-G99",7407
+2018,11,"Guanajuato","H00-H59",8721
+2018,11,"Guanajuato","I00-I99",6846
+2018,11,"Guanajuato","J00-J99",84273
+2018,11,"Guanajuato","K00-K93",47506
+2018,11,"Guanajuato","L00-L99",11689
+2018,11,"Guanajuato","M00-M99",19616
+2018,11,"Guanajuato","N00-N99",31588
+2018,11,"Guanajuato","O00-O99",65121
+2018,11,"Guanajuato","P00-P96",3592
+2018,11,"Guanajuato","Q00-Q99",1023
+2018,11,"Guanajuato","R00-R99",36316
+2018,11,"Guanajuato","S00-T99",163498
+2018,11,"Guanajuato","Z00-Z99",119064
+2018,12,"Guerrero","A00-B99",2264
+2018,12,"Guerrero","C00-D48",721
+2018,12,"Guerrero","D50-D89",960
+2018,12,"Guerrero","E00-E90",4689
+2018,12,"Guerrero","F00-F99",1743
+2018,12,"Guerrero","G00-G99",1278
+2018,12,"Guerrero","H00-H59",1439
+2018,12,"Guerrero","I00-I99",1564
+2018,12,"Guerrero","J00-J99",10315
+2018,12,"Guerrero","K00-K93",10669
+2018,12,"Guerrero","L00-L99",1774
+2018,12,"Guerrero","M00-M99",2586
+2018,12,"Guerrero","N00-N99",6562
+2018,12,"Guerrero","O00-O99",16231
+2018,12,"Guerrero","P00-P96",534
+2018,12,"Guerrero","Q00-Q99",266
+2018,12,"Guerrero","R00-R99",7860
+2018,12,"Guerrero","S00-T99",23516
+2018,12,"Guerrero","Z00-Z99",27794
+2018,13,"Hidalgo","A00-B99",2730
+2018,13,"Hidalgo","C00-D48",2219
+2018,13,"Hidalgo","D50-D89",2445
+2018,13,"Hidalgo","E00-E90",11872
+2018,13,"Hidalgo","F00-F99",2841
+2018,13,"Hidalgo","G00-G99",3597
+2018,13,"Hidalgo","H00-H59",1885
+2018,13,"Hidalgo","I00-I99",5210
+2018,13,"Hidalgo","J00-J99",16335
+2018,13,"Hidalgo","K00-K93",17868
+2018,13,"Hidalgo","L00-L99",2791
+2018,13,"Hidalgo","M00-M99",8145
+2018,13,"Hidalgo","N00-N99",10024
+2018,13,"Hidalgo","O00-O99",10768
+2018,13,"Hidalgo","P00-P96",524
+2018,13,"Hidalgo","Q00-Q99",178
+2018,13,"Hidalgo","R00-R99",15625
+2018,13,"Hidalgo","S00-T99",35511
+2018,13,"Hidalgo","Z00-Z99",54459
+2018,14,"Jalisco","A00-B99",5453
+2018,14,"Jalisco","C00-D48",2054
+2018,14,"Jalisco","D50-D89",2176
+2018,14,"Jalisco","E00-E90",8339
+2018,14,"Jalisco","F00-F99",10728
+2018,14,"Jalisco","G00-G99",4655
+2018,14,"Jalisco","H00-H59",6130
+2018,14,"Jalisco","I00-I99",5671
+2018,14,"Jalisco","J00-J99",46250
+2018,14,"Jalisco","K00-K93",30364
+2018,14,"Jalisco","L00-L99",6375
+2018,14,"Jalisco","M00-M99",12824
+2018,14,"Jalisco","N00-N99",21644
+2018,14,"Jalisco","O00-O99",35295
+2018,14,"Jalisco","P00-P96",1183
+2018,14,"Jalisco","Q00-Q99",415
+2018,14,"Jalisco","R00-R99",45875
+2018,14,"Jalisco","S00-T99",75888
+2018,14,"Jalisco","Z00-Z99",103946
+2018,15,"Estado de México","A00-B99",12967
+2018,15,"Estado de México","C00-D48",6947
+2018,15,"Estado de México","D50-D89",3878
+2018,15,"Estado de México","E00-E90",32338
+2018,15,"Estado de México","F00-F99",18483
+2018,15,"Estado de México","G00-G99",12139
+2018,15,"Estado de México","H00-H59",11396
+2018,15,"Estado de México","I00-I99",13109
+2018,15,"Estado de México","J00-J99",104184
+2018,15,"Estado de México","K00-K93",80591
+2018,15,"Estado de México","L00-L99",15499
+2018,15,"Estado de México","M00-M99",26751
+2018,15,"Estado de México","N00-N99",59960
+2018,15,"Estado de México","O00-O99",142358
+2018,15,"Estado de México","P00-P96",5032
+2018,15,"Estado de México","Q00-Q99",1225
+2018,15,"Estado de México","R00-R99",45226
+2018,15,"Estado de México","S00-T99",167571
+2018,15,"Estado de México","Z00-Z99",234802
+2018,16,"Michoacán de Ocampo","A00-B99",2235
+2018,16,"Michoacán de Ocampo","C00-D48",1524
+2018,16,"Michoacán de Ocampo","D50-D89",1183
+2018,16,"Michoacán de Ocampo","E00-E90",7379
+2018,16,"Michoacán de Ocampo","F00-F99",4517
+2018,16,"Michoacán de Ocampo","G00-G99",3210
+2018,16,"Michoacán de Ocampo","H00-H59",1700
+2018,16,"Michoacán de Ocampo","I00-I99",2980
+2018,16,"Michoacán de Ocampo","J00-J99",16282
+2018,16,"Michoacán de Ocampo","K00-K93",18473
+2018,16,"Michoacán de Ocampo","L00-L99",3221
+2018,16,"Michoacán de Ocampo","M00-M99",5141
+2018,16,"Michoacán de Ocampo","N00-N99",10694
+2018,16,"Michoacán de Ocampo","O00-O99",20937
+2018,16,"Michoacán de Ocampo","P00-P96",558
+2018,16,"Michoacán de Ocampo","Q00-Q99",398
+2018,16,"Michoacán de Ocampo","R00-R99",11648
+2018,16,"Michoacán de Ocampo","S00-T99",46983
+2018,16,"Michoacán de Ocampo","Z00-Z99",26929
+2018,17,"Morelos","A00-B99",2280
+2018,17,"Morelos","C00-D48",999
+2018,17,"Morelos","D50-D89",610
+2018,17,"Morelos","E00-E90",4553
+2018,17,"Morelos","F00-F99",1823
+2018,17,"Morelos","G00-G99",1418
+2018,17,"Morelos","H00-H59",2264
+2018,17,"Morelos","I00-I99",1088
+2018,17,"Morelos","J00-J99",16123
+2018,17,"Morelos","K00-K93",10791
+2018,17,"Morelos","L00-L99",2368
+2018,17,"Morelos","M00-M99",2776
+2018,17,"Morelos","N00-N99",8612
+2018,17,"Morelos","O00-O99",25709
+2018,17,"Morelos","P00-P96",669
+2018,17,"Morelos","Q00-Q99",375
+2018,17,"Morelos","R00-R99",9038
+2018,17,"Morelos","S00-T99",28732
+2018,17,"Morelos","Z00-Z99",7545
+2018,18,"Nayarit","A00-B99",897
+2018,18,"Nayarit","C00-D48",289
+2018,18,"Nayarit","D50-D89",356
+2018,18,"Nayarit","E00-E90",1801
+2018,18,"Nayarit","F00-F99",949
+2018,18,"Nayarit","G00-G99",865
+2018,18,"Nayarit","H00-H59",1056
+2018,18,"Nayarit","I00-I99",707
+2018,18,"Nayarit","J00-J99",5902
+2018,18,"Nayarit","K00-K93",4111
+2018,18,"Nayarit","L00-L99",1072
+2018,18,"Nayarit","M00-M99",1446
+2018,18,"Nayarit","N00-N99",3157
+2018,18,"Nayarit","O00-O99",2619
+2018,18,"Nayarit","P00-P96",68
+2018,18,"Nayarit","Q00-Q99",53
+2018,18,"Nayarit","R00-R99",4545
+2018,18,"Nayarit","S00-T99",11492
+2018,18,"Nayarit","Z00-Z99",6012
+2018,19,"Nuevo León","A00-B99",2225
+2018,19,"Nuevo León","C00-D48",654
+2018,19,"Nuevo León","D50-D89",545
+2018,19,"Nuevo León","E00-E90",3444
+2018,19,"Nuevo León","F00-F99",4230
+2018,19,"Nuevo León","G00-G99",2235
+2018,19,"Nuevo León","H00-H59",3112
+2018,19,"Nuevo León","I00-I99",2061
+2018,19,"Nuevo León","J00-J99",10699
+2018,19,"Nuevo León","K00-K93",10578
+2018,19,"Nuevo León","L00-L99",2621
+2018,19,"Nuevo León","M00-M99",4435
+2018,19,"Nuevo León","N00-N99",6462
+2018,19,"Nuevo León","O00-O99",13967
+2018,19,"Nuevo León","P00-P96",495
+2018,19,"Nuevo León","Q00-Q99",188
+2018,19,"Nuevo León","R00-R99",14440
+2018,19,"Nuevo León","S00-T99",16808
+2018,19,"Nuevo León","Z00-Z99",74939
+2018,20,"Oaxaca","A00-B99",3069
+2018,20,"Oaxaca","C00-D48",1838
+2018,20,"Oaxaca","D50-D89",1089
+2018,20,"Oaxaca","E00-E90",5935
+2018,20,"Oaxaca","F00-F99",1880
+2018,20,"Oaxaca","G00-G99",2093
+2018,20,"Oaxaca","H00-H59",1933
+2018,20,"Oaxaca","I00-I99",2224
+2018,20,"Oaxaca","J00-J99",14090
+2018,20,"Oaxaca","K00-K93",10980
+2018,20,"Oaxaca","L00-L99",2279
+2018,20,"Oaxaca","M00-M99",2925
+2018,20,"Oaxaca","N00-N99",7706
+2018,20,"Oaxaca","O00-O99",24419
+2018,20,"Oaxaca","P00-P96",902
+2018,20,"Oaxaca","Q00-Q99",378
+2018,20,"Oaxaca","R00-R99",8380
+2018,20,"Oaxaca","S00-T99",24072
+2018,20,"Oaxaca","Z00-Z99",35592
+2018,21,"Puebla","A00-B99",9227
+2018,21,"Puebla","C00-D48",3040
+2018,21,"Puebla","D50-D89",2220
+2018,21,"Puebla","E00-E90",15703
+2018,21,"Puebla","F00-F99",4927
+2018,21,"Puebla","G00-G99",4785
+2018,21,"Puebla","H00-H59",6127
+2018,21,"Puebla","I00-I99",5649
+2018,21,"Puebla","J00-J99",62979
+2018,21,"Puebla","K00-K93",31071
+2018,21,"Puebla","L00-L99",6837
+2018,21,"Puebla","M00-M99",10465
+2018,21,"Puebla","N00-N99",23204
+2018,21,"Puebla","O00-O99",52783
+2018,21,"Puebla","P00-P96",1254
+2018,21,"Puebla","Q00-Q99",498
+2018,21,"Puebla","R00-R99",13272
+2018,21,"Puebla","S00-T99",60487
+2018,21,"Puebla","Z00-Z99",70095
+2018,22,"Querétaro","A00-B99",866
+2018,22,"Querétaro","C00-D48",1528
+2018,22,"Querétaro","D50-D89",879
+2018,22,"Querétaro","E00-E90",4329
+2018,22,"Querétaro","F00-F99",2359
+2018,22,"Querétaro","G00-G99",1389
+2018,22,"Querétaro","H00-H59",1163
+2018,22,"Querétaro","I00-I99",1798
+2018,22,"Querétaro","J00-J99",12044
+2018,22,"Querétaro","K00-K93",12371
+2018,22,"Querétaro","L00-L99",1797
+2018,22,"Querétaro","M00-M99",2526
+2018,22,"Querétaro","N00-N99",6891
+2018,22,"Querétaro","O00-O99",22102
+2018,22,"Querétaro","P00-P96",924
+2018,22,"Querétaro","Q00-Q99",206
+2018,22,"Querétaro","R00-R99",8212
+2018,22,"Querétaro","S00-T99",20355
+2018,22,"Querétaro","Z00-Z99",26326
+2018,23,"Quintana Roo","A00-B99",1911
+2018,23,"Quintana Roo","C00-D48",365
+2018,23,"Quintana Roo","D50-D89",351
+2018,23,"Quintana Roo","E00-E90",2154
+2018,23,"Quintana Roo","F00-F99",1438
+2018,23,"Quintana Roo","G00-G99",835
+2018,23,"Quintana Roo","H00-H59",1321
+2018,23,"Quintana Roo","I00-I99",573
+2018,23,"Quintana Roo","J00-J99",10738
+2018,23,"Quintana Roo","K00-K93",6019
+2018,23,"Quintana Roo","L00-L99",1301
+2018,23,"Quintana Roo","M00-M99",2043
+2018,23,"Quintana Roo","N00-N99",5158
+2018,23,"Quintana Roo","O00-O99",5187
+2018,23,"Quintana Roo","P00-P96",167
+2018,23,"Quintana Roo","Q00-Q99",44
+2018,23,"Quintana Roo","R00-R99",3869
+2018,23,"Quintana Roo","S00-T99",10987
+2018,23,"Quintana Roo","Z00-Z99",7747
+2018,24,"San Luis Potosí","A00-B99",3063
+2018,24,"San Luis Potosí","C00-D48",1385
+2018,24,"San Luis Potosí","D50-D89",974
+2018,24,"San Luis Potosí","E00-E90",5338
+2018,24,"San Luis Potosí","F00-F99",4927
+2018,24,"San Luis Potosí","G00-G99",2313
+2018,24,"San Luis Potosí","H00-H59",3051
+2018,24,"San Luis Potosí","I00-I99",2451
+2018,24,"San Luis Potosí","J00-J99",18958
+2018,24,"San Luis Potosí","K00-K93",11960
+2018,24,"San Luis Potosí","L00-L99",2675
+2018,24,"San Luis Potosí","M00-M99",4394
+2018,24,"San Luis Potosí","N00-N99",8633
+2018,24,"San Luis Potosí","O00-O99",13169
+2018,24,"San Luis Potosí","P00-P96",763
+2018,24,"San Luis Potosí","Q00-Q99",245
+2018,24,"San Luis Potosí","R00-R99",7428
+2018,24,"San Luis Potosí","S00-T99",34097
+2018,24,"San Luis Potosí","Z00-Z99",34687
+2018,25,"Sinaloa","A00-B99",3764
+2018,25,"Sinaloa","C00-D48",1718
+2018,25,"Sinaloa","D50-D89",1178
+2018,25,"Sinaloa","E00-E90",7090
+2018,25,"Sinaloa","F00-F99",3669
+2018,25,"Sinaloa","G00-G99",2463
+2018,25,"Sinaloa","H00-H59",4883
+2018,25,"Sinaloa","I00-I99",2773
+2018,25,"Sinaloa","J00-J99",26746
+2018,25,"Sinaloa","K00-K93",12706
+2018,25,"Sinaloa","L00-L99",5050
+2018,25,"Sinaloa","M00-M99",6515
+2018,25,"Sinaloa","N00-N99",9121
+2018,25,"Sinaloa","O00-O99",22607
+2018,25,"Sinaloa","P00-P96",591
+2018,25,"Sinaloa","Q00-Q99",247
+2018,25,"Sinaloa","R00-R99",43734
+2018,25,"Sinaloa","S00-T99",36567
+2018,25,"Sinaloa","Z00-Z99",40731
+2018,26,"Sonora","A00-B99",5464
+2018,26,"Sonora","C00-D48",1268
+2018,26,"Sonora","D50-D89",918
+2018,26,"Sonora","E00-E90",5398
+2018,26,"Sonora","F00-F99",3550
+2018,26,"Sonora","G00-G99",3168
+2018,26,"Sonora","H00-H59",4380
+2018,26,"Sonora","I00-I99",4926
+2018,26,"Sonora","J00-J99",25954
+2018,26,"Sonora","K00-K93",17857
+2018,26,"Sonora","L00-L99",5190
+2018,26,"Sonora","M00-M99",7951
+2018,26,"Sonora","N00-N99",11775
+2018,26,"Sonora","O00-O99",11757
+2018,26,"Sonora","P00-P96",509
+2018,26,"Sonora","Q00-Q99",210
+2018,26,"Sonora","R00-R99",18439
+2018,26,"Sonora","S00-T99",42512
+2018,26,"Sonora","Z00-Z99",30362
+2018,27,"Tabasco","A00-B99",3068
+2018,27,"Tabasco","C00-D48",1375
+2018,27,"Tabasco","D50-D89",1011
+2018,27,"Tabasco","E00-E90",7247
+2018,27,"Tabasco","F00-F99",1763
+2018,27,"Tabasco","G00-G99",1523
+2018,27,"Tabasco","H00-H59",2508
+2018,27,"Tabasco","I00-I99",2097
+2018,27,"Tabasco","J00-J99",18556
+2018,27,"Tabasco","K00-K93",13030
+2018,27,"Tabasco","L00-L99",2364
+2018,27,"Tabasco","M00-M99",3155
+2018,27,"Tabasco","N00-N99",9112
+2018,27,"Tabasco","O00-O99",23691
+2018,27,"Tabasco","P00-P96",514
+2018,27,"Tabasco","Q00-Q99",355
+2018,27,"Tabasco","R00-R99",10494
+2018,27,"Tabasco","S00-T99",19972
+2018,27,"Tabasco","Z00-Z99",18828
+2018,28,"Tamaulipas","A00-B99",4629
+2018,28,"Tamaulipas","C00-D48",1361
+2018,28,"Tamaulipas","D50-D89",1553
+2018,28,"Tamaulipas","E00-E90",9104
+2018,28,"Tamaulipas","F00-F99",5420
+2018,28,"Tamaulipas","G00-G99",2437
+2018,28,"Tamaulipas","H00-H59",3903
+2018,28,"Tamaulipas","I00-I99",3809
+2018,28,"Tamaulipas","J00-J99",26356
+2018,28,"Tamaulipas","K00-K93",19599
+2018,28,"Tamaulipas","L00-L99",4403
+2018,28,"Tamaulipas","M00-M99",8238
+2018,28,"Tamaulipas","N00-N99",11836
+2018,28,"Tamaulipas","O00-O99",15984
+2018,28,"Tamaulipas","P00-P96",578
+2018,28,"Tamaulipas","Q00-Q99",214
+2018,28,"Tamaulipas","R00-R99",14618
+2018,28,"Tamaulipas","S00-T99",34014
+2018,28,"Tamaulipas","Z00-Z99",28563
+2018,29,"Tlaxcala","A00-B99",1235
+2018,29,"Tlaxcala","C00-D48",884
+2018,29,"Tlaxcala","D50-D89",494
+2018,29,"Tlaxcala","E00-E90",3037
+2018,29,"Tlaxcala","F00-F99",1207
+2018,29,"Tlaxcala","G00-G99",1118
+2018,29,"Tlaxcala","H00-H59",1043
+2018,29,"Tlaxcala","I00-I99",848
+2018,29,"Tlaxcala","J00-J99",8695
+2018,29,"Tlaxcala","K00-K93",6110
+2018,29,"Tlaxcala","L00-L99",1213
+2018,29,"Tlaxcala","M00-M99",1910
+2018,29,"Tlaxcala","N00-N99",4986
+2018,29,"Tlaxcala","O00-O99",15470
+2018,29,"Tlaxcala","P00-P96",369
+2018,29,"Tlaxcala","Q00-Q99",344
+2018,29,"Tlaxcala","R00-R99",4554
+2018,29,"Tlaxcala","S00-T99",12032
+2018,29,"Tlaxcala","Z00-Z99",17583
+2018,30,"Veracruz de Ignacio de la Llave","A00-B99",10779
+2018,30,"Veracruz de Ignacio de la Llave","C00-D48",3127
+2018,30,"Veracruz de Ignacio de la Llave","D50-D89",2544
+2018,30,"Veracruz de Ignacio de la Llave","E00-E90",18730
+2018,30,"Veracruz de Ignacio de la Llave","F00-F99",9881
+2018,30,"Veracruz de Ignacio de la Llave","G00-G99",5214
+2018,30,"Veracruz de Ignacio de la Llave","H00-H59",6766
+2018,30,"Veracruz de Ignacio de la Llave","I00-I99",6915
+2018,30,"Veracruz de Ignacio de la Llave","J00-J99",43949
+2018,30,"Veracruz de Ignacio de la Llave","K00-K93",41397
+2018,30,"Veracruz de Ignacio de la Llave","L00-L99",7610
+2018,30,"Veracruz de Ignacio de la Llave","M00-M99",11858
+2018,30,"Veracruz de Ignacio de la Llave","N00-N99",25575
+2018,30,"Veracruz de Ignacio de la Llave","O00-O99",41247
+2018,30,"Veracruz de Ignacio de la Llave","P00-P96",1462
+2018,30,"Veracruz de Ignacio de la Llave","Q00-Q99",590
+2018,30,"Veracruz de Ignacio de la Llave","R00-R99",27536
+2018,30,"Veracruz de Ignacio de la Llave","S00-T99",63780
+2018,30,"Veracruz de Ignacio de la Llave","Z00-Z99",91541
+2018,31,"Yucatán","A00-B99",408
+2018,31,"Yucatán","C00-D48",426
+2018,31,"Yucatán","D50-D89",250
+2018,31,"Yucatán","E00-E90",1640
+2018,31,"Yucatán","F00-F99",1056
+2018,31,"Yucatán","G00-G99",478
+2018,31,"Yucatán","H00-H59",477
+2018,31,"Yucatán","I00-I99",683
+2018,31,"Yucatán","J00-J99",3039
+2018,31,"Yucatán","K00-K93",3510
+2018,31,"Yucatán","L00-L99",585
+2018,31,"Yucatán","M00-M99",798
+2018,31,"Yucatán","N00-N99",2290
+2018,31,"Yucatán","O00-O99",1893
+2018,31,"Yucatán","P00-P96",168
+2018,31,"Yucatán","Q00-Q99",82
+2018,31,"Yucatán","R00-R99",2251
+2018,31,"Yucatán","S00-T99",8229
+2018,31,"Yucatán","Z00-Z99",2196
+2018,32,"Zacatecas","A00-B99",2738
+2018,32,"Zacatecas","C00-D48",1211
+2018,32,"Zacatecas","D50-D89",1088
+2018,32,"Zacatecas","E00-E90",7098
+2018,32,"Zacatecas","F00-F99",3205
+2018,32,"Zacatecas","G00-G99",3244
+2018,32,"Zacatecas","H00-H59",4409
+2018,32,"Zacatecas","I00-I99",2773
+2018,32,"Zacatecas","J00-J99",31461
+2018,32,"Zacatecas","K00-K93",16727
+2018,32,"Zacatecas","L00-L99",3944
+2018,32,"Zacatecas","M00-M99",11282
+2018,32,"Zacatecas","N00-N99",13152
+2018,32,"Zacatecas","O00-O99",6432
+2018,32,"Zacatecas","P00-P96",310
+2018,32,"Zacatecas","Q00-Q99",255
+2018,32,"Zacatecas","R00-R99",17777
+2018,32,"Zacatecas","S00-T99",33128
+2018,32,"Zacatecas","Z00-Z99",50492

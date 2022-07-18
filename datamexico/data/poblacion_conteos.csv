@@ -1,0 +1,97 @@
+﻿"state_id","state","year","population"
+1,"Aguascalientes",2000,727582
+1,"Aguascalientes",2010,932369
+1,"Aguascalientes",2015,1044049
+2,"Baja California",2000,2487367
+2,"Baja California",2010,3155070
+2,"Baja California",2015,3315766
+3,"Baja California Sur",2000,196907
+3,"Baja California Sur",2010,251871
+3,"Baja California Sur",2015,272711
+4,"Campeche",2000,216897
+4,"Campeche",2010,259005
+4,"Campeche",2015,283025
+5,"Coahuila de Zaragoza",2000,1759314
+5,"Coahuila de Zaragoza",2010,2145789
+5,"Coahuila de Zaragoza",2015,2328280
+6,"Colima",2000,403540
+6,"Colima",2010,475661
+6,"Colima",2015,512182
+7,"Chiapas",2000,837482
+7,"Chiapas",2010,1058712
+7,"Chiapas",2015,1162592
+8,"Chihuahua",2000,2178631
+8,"Chihuahua",2010,2478246
+8,"Chihuahua",2015,2616912
+9,"Ciudad de México",2000,8605239
+9,"Ciudad de México",2010,8851080
+9,"Ciudad de México",2015,8918653
+10,"Durango",2000,877186
+10,"Durango",2010,1051295
+10,"Durango",2015,1150473
+11,"Guanajuato",2000,2434598
+11,"Guanajuato",2010,2977058
+11,"Guanajuato",2015,3215570
+12,"Guerrero",2000,1024569
+12,"Guerrero",2010,1151306
+12,"Guerrero",2015,1211397
+13,"Hidalgo",2000,784905
+13,"Hidalgo",2010,1055048
+13,"Hidalgo",2015,1158416
+14,"Jalisco",2000,4103745
+14,"Jalisco",2010,4941692
+14,"Jalisco",2015,5339181
+15,"Estado de México",2000,11478078
+15,"Estado de México",2010,13340336
+15,"Estado de México",2015,14227976
+16,"Michoacán de Ocampo",2000,960934
+16,"Michoacán de Ocampo",2010,1157591
+16,"Michoacán de Ocampo",2015,1259830
+17,"Morelos",2000,1171038
+17,"Morelos",2010,1359111
+17,"Morelos",2015,1458806
+18,"Nayarit",2000,402648
+18,"Nayarit",2010,553556
+18,"Nayarit",2015,621276
+19,"Nuevo León",2000,3426352
+19,"Nuevo León",2010,4226031
+19,"Nuevo León",2015,4689601
+20,"Oaxaca",2000,660789
+20,"Oaxaca",2010,787985
+20,"Oaxaca",2015,851404
+21,"Puebla",2000,2334491
+21,"Puebla",2010,2809876
+21,"Puebla",2015,3045304
+22,"Querétaro",2000,816481
+22,"Querétaro",2010,1097025
+22,"Querétaro",2015,1255185
+23,"Quintana Roo",2000,607108
+23,"Quintana Roo",2010,885189
+23,"Quintana Roo",2015,987201
+24,"San Luis Potosí",2000,1001725
+24,"San Luis Potosí",2010,1200491
+24,"San Luis Potosí",2015,1299383
+25,"Sinaloa",2000,1126046
+25,"Sinaloa",2010,1297072
+25,"Sinaloa",2015,1407812
+26,"Sonora",2000,949932
+26,"Sonora",2010,1208064
+26,"Sonora",2015,1332448
+27,"Tabasco",2000,600580
+27,"Tabasco",2010,755425
+27,"Tabasco",2015,823213
+28,"Tamaulipas",2000,2122242
+28,"Tamaulipas",2010,2629100
+28,"Tamaulipas",2015,2797575
+29,"Tlaxcala",2000,687139
+29,"Tlaxcala",2010,837880
+29,"Tlaxcala",2015,913346
+30,"Veracruz de Ignacio de la Llave",2000,4094998
+30,"Veracruz de Ignacio de la Llave",2010,3764688
+30,"Veracruz de Ignacio de la Llave",2015,4031956
+31,"Yucatán",2000,873423
+31,"Yucatán",2010,1053519
+31,"Yucatán",2015,1143041
+32,"Zacatecas",2000,263028
+32,"Zacatecas",2010,335947
+32,"Zacatecas",2015,375628

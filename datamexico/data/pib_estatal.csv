@@ -1,0 +1,577 @@
+﻿"nation_id","nation","state_id","state","year","gdp"
+"mex","México",1,"Aguascalientes",2003,77267.87
+"mex","México",1,"Aguascalientes",2004,86539.58
+"mex","México",1,"Aguascalientes",2005,93441.68
+"mex","México",1,"Aguascalientes",2006,105137.21
+"mex","México",1,"Aguascalientes",2007,119896.8
+"mex","México",1,"Aguascalientes",2008,126346.47
+"mex","México",1,"Aguascalientes",2009,126299.28
+"mex","México",1,"Aguascalientes",2010,138350.48
+"mex","México",1,"Aguascalientes",2011,150419.49
+"mex","México",1,"Aguascalientes",2012,166978.12
+"mex","México",1,"Aguascalientes",2013,172820.49
+"mex","México",1,"Aguascalientes",2014,195180.36
+"mex","México",1,"Aguascalientes",2015,215416.92
+"mex","México",1,"Aguascalientes",2016,248849.97
+"mex","México",1,"Aguascalientes",2017,273130.46
+"mex","México",1,"Aguascalientes",2018,297757.43
+"mex","México",1,"Aguascalientes",2019,305177.04
+"mex","México",1,"Aguascalientes",2020,303790.86
+"mex","México",2,"Baja California",2003,270791.49
+"mex","México",2,"Baja California",2004,303478.89
+"mex","México",2,"Baja California",2005,323708.54
+"mex","México",2,"Baja California",2006,360815.26
+"mex","México",2,"Baja California",2007,379005.64
+"mex","México",2,"Baja California",2008,395576.59
+"mex","México",2,"Baja California",2009,369919.3
+"mex","México",2,"Baja California",2010,393693.17
+"mex","México",2,"Baja California",2011,418394.02
+"mex","México",2,"Baja California",2012,456744.96
+"mex","México",2,"Baja California",2013,465524.7
+"mex","México",2,"Baja California",2014,501905.01
+"mex","México",2,"Baja California",2015,580277.42
+"mex","México",2,"Baja California",2016,647659.73
+"mex","México",2,"Baja California",2017,711157.09
+"mex","México",2,"Baja California",2018,763347.75
+"mex","México",2,"Baja California",2019,806392.02
+"mex","México",2,"Baja California",2020,801564.27
+"mex","México",3,"Baja California Sur",2003,48522.96
+"mex","México",3,"Baja California Sur",2004,56078.58
+"mex","México",3,"Baja California Sur",2005,63553.29
+"mex","México",3,"Baja California Sur",2006,70927.39
+"mex","México",3,"Baja California Sur",2007,84264.18
+"mex","México",3,"Baja California Sur",2008,92207.47
+"mex","México",3,"Baja California Sur",2009,96174.41
+"mex","México",3,"Baja California Sur",2010,100789.57
+"mex","México",3,"Baja California Sur",2011,109045
+"mex","México",3,"Baja California Sur",2012,114898.75
+"mex","México",3,"Baja California Sur",2013,115027.64
+"mex","México",3,"Baja California Sur",2014,119613.08
+"mex","México",3,"Baja California Sur",2015,142277.94
+"mex","México",3,"Baja California Sur",2016,155809.22
+"mex","México",3,"Baja California Sur",2017,187174.71
+"mex","México",3,"Baja California Sur",2018,232407.73
+"mex","México",3,"Baja California Sur",2019,217481.62
+"mex","México",3,"Baja California Sur",2020,170562.71
+"mex","México",4,"Campeche",2003,328291.06
+"mex","México",4,"Campeche",2004,449778.4
+"mex","México",4,"Campeche",2005,536654.99
+"mex","México",4,"Campeche",2006,609382.95
+"mex","México",4,"Campeche",2007,657079.8
+"mex","México",4,"Campeche",2008,740140.02
+"mex","México",4,"Campeche",2009,542318.29
+"mex","México",4,"Campeche",2010,620535.42
+"mex","México",4,"Campeche",2011,780750.71
+"mex","México",4,"Campeche",2012,779041.23
+"mex","México",4,"Campeche",2013,721085.06
+"mex","México",4,"Campeche",2014,696682.54
+"mex","México",4,"Campeche",2015,436081.49
+"mex","México",4,"Campeche",2016,412424.33
+"mex","México",4,"Campeche",2017,488348.95
+"mex","México",4,"Campeche",2018,550190.71
+"mex","México",4,"Campeche",2019,624209.89
+"mex","México",4,"Campeche",2020,458928
+"mex","México",5,"Coahuila de Zaragoza",2003,255441.6
+"mex","México",5,"Coahuila de Zaragoza",2004,285330.21
+"mex","México",5,"Coahuila de Zaragoza",2005,302737.81
+"mex","México",5,"Coahuila de Zaragoza",2006,336941.51
+"mex","México",5,"Coahuila de Zaragoza",2007,369675.95
+"mex","México",5,"Coahuila de Zaragoza",2008,401229.65
+"mex","México",5,"Coahuila de Zaragoza",2009,361353.65
+"mex","México",5,"Coahuila de Zaragoza",2010,433984.98
+"mex","México",5,"Coahuila de Zaragoza",2011,493392.76
+"mex","México",5,"Coahuila de Zaragoza",2012,543684.55
+"mex","México",5,"Coahuila de Zaragoza",2013,538206.99
+"mex","México",5,"Coahuila de Zaragoza",2014,579802.09
+"mex","México",5,"Coahuila de Zaragoza",2015,627666.57
+"mex","México",5,"Coahuila de Zaragoza",2016,684776.14
+"mex","México",5,"Coahuila de Zaragoza",2017,773322.32
+"mex","México",5,"Coahuila de Zaragoza",2018,825317.02
+"mex","México",5,"Coahuila de Zaragoza",2019,849468.93
+"mex","México",5,"Coahuila de Zaragoza",2020,789862.86
+"mex","México",6,"Colima",2003,43028.6
+"mex","México",6,"Colima",2004,45411.35
+"mex","México",6,"Colima",2005,48371.75
+"mex","México",6,"Colima",2006,53738.13
+"mex","México",6,"Colima",2007,60492.71
+"mex","México",6,"Colima",2008,65592.17
+"mex","México",6,"Colima",2009,65811.82
+"mex","México",6,"Colima",2010,72901.37
+"mex","México",6,"Colima",2011,81585.71
+"mex","México",6,"Colima",2012,87516.44
+"mex","México",6,"Colima",2013,91422.45
+"mex","México",6,"Colima",2014,96603.96
+"mex","México",6,"Colima",2015,101924.98
+"mex","México",6,"Colima",2016,110204.72
+"mex","México",6,"Colima",2017,123212.16
+"mex","México",6,"Colima",2018,133648.25
+"mex","México",6,"Colima",2019,146794.55
+"mex","México",6,"Colima",2020,139654.34
+"mex","México",7,"Chiapas",2003,149658.13
+"mex","México",7,"Chiapas",2004,157105.24
+"mex","México",7,"Chiapas",2005,167597.57
+"mex","México",7,"Chiapas",2006,185859.76
+"mex","México",7,"Chiapas",2007,198100.75
+"mex","México",7,"Chiapas",2008,219146.6
+"mex","México",7,"Chiapas",2009,217703.31
+"mex","México",7,"Chiapas",2010,240499.03
+"mex","México",7,"Chiapas",2011,261927.5
+"mex","México",7,"Chiapas",2012,281695.95
+"mex","México",7,"Chiapas",2013,280925.27
+"mex","México",7,"Chiapas",2014,300375.74
+"mex","México",7,"Chiapas",2015,302308.11
+"mex","México",7,"Chiapas",2016,318560.22
+"mex","México",7,"Chiapas",2017,324362.54
+"mex","México",7,"Chiapas",2018,327140.55
+"mex","México",7,"Chiapas",2019,333728.08
+"mex","México",7,"Chiapas",2020,336352.25
+"mex","México",8,"Chihuahua",2003,234231.94
+"mex","México",8,"Chihuahua",2004,260457.24
+"mex","México",8,"Chihuahua",2005,280959.11
+"mex","México",8,"Chihuahua",2006,318850.36
+"mex","México",8,"Chihuahua",2007,347744.21
+"mex","México",8,"Chihuahua",2008,369944.07
+"mex","México",8,"Chihuahua",2009,353730.6
+"mex","México",8,"Chihuahua",2010,382215.09
+"mex","México",8,"Chihuahua",2011,407233
+"mex","México",8,"Chihuahua",2012,463972.51
+"mex","México",8,"Chihuahua",2013,476290.2
+"mex","México",8,"Chihuahua",2014,510950.83
+"mex","México",8,"Chihuahua",2015,587826.6
+"mex","México",8,"Chihuahua",2016,656275.66
+"mex","México",8,"Chihuahua",2017,718074.96
+"mex","México",8,"Chihuahua",2018,762477.06
+"mex","México",8,"Chihuahua",2019,797161.09
+"mex","México",8,"Chihuahua",2020,786175.61
+"mex","México",9,"Ciudad de México",2003,1379467.78
+"mex","México",9,"Ciudad de México",2004,1519472.54
+"mex","México",9,"Ciudad de México",2005,1647432.8
+"mex","México",9,"Ciudad de México",2006,1804728.05
+"mex","México",9,"Ciudad de México",2007,1925779.65
+"mex","México",9,"Ciudad de México",2008,2052359.4
+"mex","México",9,"Ciudad de México",2009,2084223.85
+"mex","México",9,"Ciudad de México",2010,2229200.76
+"mex","México",9,"Ciudad de México",2011,2397052.4
+"mex","México",9,"Ciudad de México",2012,2563863.36
+"mex","México",9,"Ciudad de México",2013,2673066.33
+"mex","México",9,"Ciudad de México",2014,2798138.05
+"mex","México",9,"Ciudad de México",2015,2968856.86
+"mex","México",9,"Ciudad de México",2016,3163657.85
+"mex","México",9,"Ciudad de México",2017,3389843.35
+"mex","México",9,"Ciudad de México",2018,3607241.59
+"mex","México",9,"Ciudad de México",2019,3693218.12
+"mex","México",9,"Ciudad de México",2020,3464828.35
+"mex","México",10,"Durango",2003,92395.95
+"mex","México",10,"Durango",2004,101305.37
+"mex","México",10,"Durango",2005,104893.62
+"mex","México",10,"Durango",2006,113919.85
+"mex","México",10,"Durango",2007,122456.29
+"mex","México",10,"Durango",2008,133623.02
+"mex","México",10,"Durango",2009,138318.42
+"mex","México",10,"Durango",2010,146770.24
+"mex","México",10,"Durango",2011,165643.4
+"mex","México",10,"Durango",2012,180059.76
+"mex","México",10,"Durango",2013,189052.81
+"mex","México",10,"Durango",2014,199491.87
+"mex","México",10,"Durango",2015,210218.38
+"mex","México",10,"Durango",2016,233458.63
+"mex","México",10,"Durango",2017,248296.73
+"mex","México",10,"Durango",2018,259913.68
+"mex","México",10,"Durango",2019,275207.52
+"mex","México",10,"Durango",2020,267864.28
+"mex","México",11,"Guanajuato",2003,272618.08
+"mex","México",11,"Guanajuato",2004,301103.74
+"mex","México",11,"Guanajuato",2005,312731.71
+"mex","México",11,"Guanajuato",2006,360437.28
+"mex","México",11,"Guanajuato",2007,379998.59
+"mex","México",11,"Guanajuato",2008,419537.05
+"mex","México",11,"Guanajuato",2009,412105.02
+"mex","México",11,"Guanajuato",2010,459867.98
+"mex","México",11,"Guanajuato",2011,515124.18
+"mex","México",11,"Guanajuato",2012,565796.77
+"mex","México",11,"Guanajuato",2013,594575.53
+"mex","México",11,"Guanajuato",2014,649953.07
+"mex","México",11,"Guanajuato",2015,721923.18
+"mex","México",11,"Guanajuato",2016,783268.34
+"mex","México",11,"Guanajuato",2017,895011.57
+"mex","México",11,"Guanajuato",2018,961087.72
+"mex","México",11,"Guanajuato",2019,968417.67
+"mex","México",11,"Guanajuato",2020,949404.02
+"mex","México",12,"Guerrero",2003,115494.11
+"mex","México",12,"Guerrero",2004,128340.89
+"mex","México",12,"Guerrero",2005,136625.41
+"mex","México",12,"Guerrero",2006,145524.01
+"mex","México",12,"Guerrero",2007,158826.22
+"mex","México",12,"Guerrero",2008,167978.88
+"mex","México",12,"Guerrero",2009,171107.68
+"mex","México",12,"Guerrero",2010,186370.38
+"mex","México",12,"Guerrero",2011,198139.14
+"mex","México",12,"Guerrero",2012,212366.44
+"mex","México",12,"Guerrero",2013,218811.38
+"mex","México",12,"Guerrero",2014,234183.85
+"mex","México",12,"Guerrero",2015,247813.83
+"mex","México",12,"Guerrero",2016,265235.74
+"mex","México",12,"Guerrero",2017,283714.13
+"mex","México",12,"Guerrero",2018,303006.15
+"mex","México",12,"Guerrero",2019,316178.32
+"mex","México",12,"Guerrero",2020,302965.24
+"mex","México",13,"Hidalgo",2003,102868.19
+"mex","México",13,"Hidalgo",2004,124276.05
+"mex","México",13,"Hidalgo",2005,119899.78
+"mex","México",13,"Hidalgo",2006,148799.17
+"mex","México",13,"Hidalgo",2007,155257.26
+"mex","México",13,"Hidalgo",2008,175038.77
+"mex","México",13,"Hidalgo",2009,161786.62
+"mex","México",13,"Hidalgo",2010,184470.15
+"mex","México",13,"Hidalgo",2011,203655.51
+"mex","México",13,"Hidalgo",2012,231618.44
+"mex","México",13,"Hidalgo",2013,230982.77
+"mex","México",13,"Hidalgo",2014,256398.84
+"mex","México",13,"Hidalgo",2015,289377.79
+"mex","México",13,"Hidalgo",2016,300101.36
+"mex","México",13,"Hidalgo",2017,346733.03
+"mex","México",13,"Hidalgo",2018,382693.32
+"mex","México",13,"Hidalgo",2019,381429.44
+"mex","México",13,"Hidalgo",2020,352895.45
+"mex","México",14,"Jalisco",2003,512955.27
+"mex","México",14,"Jalisco",2004,554058.12
+"mex","México",14,"Jalisco",2005,596725.42
+"mex","México",14,"Jalisco",2006,655681.34
+"mex","México",14,"Jalisco",2007,705499.37
+"mex","México",14,"Jalisco",2008,750814.02
+"mex","México",14,"Jalisco",2009,743570.74
+"mex","México",14,"Jalisco",2010,821289.84
+"mex","México",14,"Jalisco",2011,885831.32
+"mex","México",14,"Jalisco",2012,970346.15
+"mex","México",14,"Jalisco",2013,1018578.61
+"mex","México",14,"Jalisco",2014,1107264.09
+"mex","México",14,"Jalisco",2015,1204768.34
+"mex","México",14,"Jalisco",2016,1340583.33
+"mex","México",14,"Jalisco",2017,1458866.88
+"mex","México",14,"Jalisco",2018,1570721.6
+"mex","México",14,"Jalisco",2019,1646499
+"mex","México",14,"Jalisco",2020,1591000.04
+"mex","México",15,"Estado de México",2003,650414.93
+"mex","México",15,"Estado de México",2004,708799.84
+"mex","México",15,"Estado de México",2005,764362.21
+"mex","México",15,"Estado de México",2006,837804.88
+"mex","México",15,"Estado de México",2007,909155.34
+"mex","México",15,"Estado de México",2008,981146.43
+"mex","México",15,"Estado de México",2009,975921.43
+"mex","México",15,"Estado de México",2010,1085724.15
+"mex","México",15,"Estado de México",2011,1190034.64
+"mex","México",15,"Estado de México",2012,1300309.61
+"mex","México",15,"Estado de México",2013,1365154.23
+"mex","México",15,"Estado de México",2014,1451590.57
+"mex","México",15,"Estado de México",2015,1569746.49
+"mex","México",15,"Estado de México",2016,1696120.28
+"mex","México",15,"Estado de México",2017,1870894.34
+"mex","México",15,"Estado de México",2018,2011335.94
+"mex","México",15,"Estado de México",2019,2035854.29
+"mex","México",15,"Estado de México",2020,1993873.68
+"mex","México",16,"Michoacán de Ocampo",2003,169880.53
+"mex","México",16,"Michoacán de Ocampo",2004,187708.53
+"mex","México",16,"Michoacán de Ocampo",2005,202877.76
+"mex","México",16,"Michoacán de Ocampo",2006,224728.02
+"mex","México",16,"Michoacán de Ocampo",2007,245625.96
+"mex","México",16,"Michoacán de Ocampo",2008,270330.44
+"mex","México",16,"Michoacán de Ocampo",2009,268656.31
+"mex","México",16,"Michoacán de Ocampo",2010,290183.89
+"mex","México",16,"Michoacán de Ocampo",2011,328272.43
+"mex","México",16,"Michoacán de Ocampo",2012,348282.35
+"mex","México",16,"Michoacán de Ocampo",2013,359465.99
+"mex","México",16,"Michoacán de Ocampo",2014,391994.84
+"mex","México",16,"Michoacán de Ocampo",2015,408481.8
+"mex","México",16,"Michoacán de Ocampo",2016,456455.95
+"mex","México",16,"Michoacán de Ocampo",2017,515406.35
+"mex","México",16,"Michoacán de Ocampo",2018,547732.66
+"mex","México",16,"Michoacán de Ocampo",2019,571517.12
+"mex","México",16,"Michoacán de Ocampo",2020,556933.97
+"mex","México",17,"Morelos",2003,103912.14
+"mex","México",17,"Morelos",2004,111172.36
+"mex","México",17,"Morelos",2005,124410.41
+"mex","México",17,"Morelos",2006,127253.83
+"mex","México",17,"Morelos",2007,134376.33
+"mex","México",17,"Morelos",2008,140312.17
+"mex","México",17,"Morelos",2009,144051.98
+"mex","México",17,"Morelos",2010,156265.66
+"mex","México",17,"Morelos",2011,163560.71
+"mex","México",17,"Morelos",2012,171825.31
+"mex","México",17,"Morelos",2013,182126.14
+"mex","México",17,"Morelos",2014,189051.14
+"mex","México",17,"Morelos",2015,199165.66
+"mex","México",17,"Morelos",2016,219509.8
+"mex","México",17,"Morelos",2017,244769.11
+"mex","México",17,"Morelos",2018,250126.49
+"mex","México",17,"Morelos",2019,255207.84
+"mex","México",17,"Morelos",2020,235595.68
+"mex","México",18,"Nayarit",2003,47348.16
+"mex","México",18,"Nayarit",2004,57282.24
+"mex","México",18,"Nayarit",2005,62730.26
+"mex","México",18,"Nayarit",2006,67060.71
+"mex","México",18,"Nayarit",2007,70481.64
+"mex","México",18,"Nayarit",2008,81399.74
+"mex","México",18,"Nayarit",2009,79868.88
+"mex","México",18,"Nayarit",2010,88014.11
+"mex","México",18,"Nayarit",2011,95444.02
+"mex","México",18,"Nayarit",2012,99032.58
+"mex","México",18,"Nayarit",2013,103627.46
+"mex","México",18,"Nayarit",2014,112501.79
+"mex","México",18,"Nayarit",2015,123019.28
+"mex","México",18,"Nayarit",2016,136301.61
+"mex","México",18,"Nayarit",2017,148598.78
+"mex","México",18,"Nayarit",2018,155433.89
+"mex","México",18,"Nayarit",2019,163360.91
+"mex","México",18,"Nayarit",2020,147695.03
+"mex","México",19,"Nuevo León",2003,518414.4
+"mex","México",19,"Nuevo León",2004,593341.64
+"mex","México",19,"Nuevo León",2005,648235.09
+"mex","México",19,"Nuevo León",2006,734544.28
+"mex","México",19,"Nuevo León",2007,813097.65
+"mex","México",19,"Nuevo León",2008,873801.71
+"mex","México",19,"Nuevo León",2009,851460.08
+"mex","México",19,"Nuevo León",2010,943374.11
+"mex","México",19,"Nuevo León",2011,1018557.23
+"mex","México",19,"Nuevo León",2012,1108967.17
+"mex","México",19,"Nuevo León",2013,1124999.89
+"mex","México",19,"Nuevo León",2014,1207991
+"mex","México",19,"Nuevo León",2015,1337539.46
+"mex","México",19,"Nuevo León",2016,1439538.54
+"mex","México",19,"Nuevo León",2017,1600954.59
+"mex","México",19,"Nuevo León",2018,1744343.43
+"mex","México",19,"Nuevo León",2019,1841071.74
+"mex","México",19,"Nuevo León",2020,1744370.09
+"mex","México",20,"Oaxaca",2003,125575.37
+"mex","México",20,"Oaxaca",2004,142950.12
+"mex","México",20,"Oaxaca",2005,140574.39
+"mex","México",20,"Oaxaca",2006,170626.63
+"mex","México",20,"Oaxaca",2007,173610.81
+"mex","México",20,"Oaxaca",2008,192561.53
+"mex","México",20,"Oaxaca",2009,190446.28
+"mex","México",20,"Oaxaca",2010,208793.74
+"mex","México",20,"Oaxaca",2011,226500.47
+"mex","México",20,"Oaxaca",2012,248833.7
+"mex","México",20,"Oaxaca",2013,245515.98
+"mex","México",20,"Oaxaca",2014,265613.71
+"mex","México",20,"Oaxaca",2015,290365.73
+"mex","México",20,"Oaxaca",2016,284220.42
+"mex","México",20,"Oaxaca",2017,313559.84
+"mex","México",20,"Oaxaca",2018,353621.99
+"mex","México",20,"Oaxaca",2019,349890.09
+"mex","México",20,"Oaxaca",2020,352162.87
+"mex","México",21,"Puebla",2003,244703.26
+"mex","México",21,"Puebla",2004,265601.9
+"mex","México",21,"Puebla",2005,296863.07
+"mex","México",21,"Puebla",2006,324953.26
+"mex","México",21,"Puebla",2007,355837.97
+"mex","México",21,"Puebla",2008,385126.96
+"mex","México",21,"Puebla",2009,373642.29
+"mex","México",21,"Puebla",2010,416421.45
+"mex","México",21,"Puebla",2011,462331.63
+"mex","México",21,"Puebla",2012,515088.62
+"mex","México",21,"Puebla",2013,519256.53
+"mex","México",21,"Puebla",2014,540792.72
+"mex","México",21,"Puebla",2015,580298.16
+"mex","México",21,"Puebla",2016,628165.6
+"mex","México",21,"Puebla",2017,699067.17
+"mex","México",21,"Puebla",2018,743460.66
+"mex","México",21,"Puebla",2019,762315.2
+"mex","México",21,"Puebla",2020,710094.53
+"mex","México",22,"Querétaro",2003,129222.79
+"mex","México",22,"Querétaro",2004,147980.64
+"mex","México",22,"Querétaro",2005,168791.84
+"mex","México",22,"Querétaro",2006,188519.44
+"mex","México",22,"Querétaro",2007,207403.04
+"mex","México",22,"Querétaro",2008,228284.8
+"mex","México",22,"Querétaro",2009,233711.42
+"mex","México",22,"Querétaro",2010,256123.88
+"mex","México",22,"Querétaro",2011,288201.12
+"mex","México",22,"Querétaro",2012,311704.96
+"mex","México",22,"Querétaro",2013,319989.73
+"mex","México",22,"Querétaro",2014,348716.59
+"mex","México",22,"Querétaro",2015,388211.11
+"mex","México",22,"Querétaro",2016,432120.25
+"mex","México",22,"Querétaro",2017,480686.81
+"mex","México",22,"Querétaro",2018,518493.75
+"mex","México",22,"Querétaro",2019,533982.58
+"mex","México",22,"Querétaro",2020,498140.93
+"mex","México",23,"Quintana Roo",2003,100756.51
+"mex","México",23,"Quintana Roo",2004,114922.81
+"mex","México",23,"Quintana Roo",2005,123869.97
+"mex","México",23,"Quintana Roo",2006,138303.36
+"mex","México",23,"Quintana Roo",2007,158761.48
+"mex","México",23,"Quintana Roo",2008,175082.24
+"mex","México",23,"Quintana Roo",2009,167709.17
+"mex","México",23,"Quintana Roo",2010,180777.62
+"mex","México",23,"Quintana Roo",2011,194651.85
+"mex","México",23,"Quintana Roo",2012,213551.94
+"mex","México",23,"Quintana Roo",2013,225272.67
+"mex","México",23,"Quintana Roo",2014,246516.89
+"mex","México",23,"Quintana Roo",2015,265832.87
+"mex","México",23,"Quintana Roo",2016,302288.85
+"mex","México",23,"Quintana Roo",2017,329215.03
+"mex","México",23,"Quintana Roo",2018,359421.87
+"mex","México",23,"Quintana Roo",2019,375689.4
+"mex","México",23,"Quintana Roo",2020,291750.23
+"mex","México",24,"San Luis Potosí",2003,135417.19
+"mex","México",24,"San Luis Potosí",2004,155113.84
+"mex","México",24,"San Luis Potosí",2005,171877.1
+"mex","México",24,"San Luis Potosí",2006,193076.8
+"mex","México",24,"San Luis Potosí",2007,208802.95
+"mex","México",24,"San Luis Potosí",2008,225361.59
+"mex","México",24,"San Luis Potosí",2009,223032.48
+"mex","México",24,"San Luis Potosí",2010,244786.34
+"mex","México",24,"San Luis Potosí",2011,271023.72
+"mex","México",24,"San Luis Potosí",2012,297155.56
+"mex","México",24,"San Luis Potosí",2013,307896.47
+"mex","México",24,"San Luis Potosí",2014,330242.34
+"mex","México",24,"San Luis Potosí",2015,364656.92
+"mex","México",24,"San Luis Potosí",2016,400396.41
+"mex","México",24,"San Luis Potosí",2017,455231.04
+"mex","México",24,"San Luis Potosí",2018,500784.4
+"mex","México",24,"San Luis Potosí",2019,520747.69
+"mex","México",24,"San Luis Potosí",2020,509879.16
+"mex","México",25,"Sinaloa",2003,160242.73
+"mex","México",25,"Sinaloa",2004,185355.03
+"mex","México",25,"Sinaloa",2005,193845.41
+"mex","México",25,"Sinaloa",2006,208519.56
+"mex","México",25,"Sinaloa",2007,232728.36
+"mex","México",25,"Sinaloa",2008,260205.21
+"mex","México",25,"Sinaloa",2009,261437.52
+"mex","México",25,"Sinaloa",2010,277104.77
+"mex","México",25,"Sinaloa",2011,299879.73
+"mex","México",25,"Sinaloa",2012,325175.66
+"mex","México",25,"Sinaloa",2013,334097.31
+"mex","México",25,"Sinaloa",2014,344506.49
+"mex","México",25,"Sinaloa",2015,379608.57
+"mex","México",25,"Sinaloa",2016,423219.31
+"mex","México",25,"Sinaloa",2017,454152.22
+"mex","México",25,"Sinaloa",2018,483442.66
+"mex","México",25,"Sinaloa",2019,515971.96
+"mex","México",25,"Sinaloa",2020,505965.91
+"mex","México",26,"Sonora",2003,215321.97
+"mex","México",26,"Sonora",2004,244591.95
+"mex","México",26,"Sonora",2005,274112.42
+"mex","México",26,"Sonora",2006,315218.31
+"mex","México",26,"Sonora",2007,339339.34
+"mex","México",26,"Sonora",2008,360308.27
+"mex","México",26,"Sonora",2009,354073.92
+"mex","México",26,"Sonora",2010,385750.84
+"mex","México",26,"Sonora",2011,446699.11
+"mex","México",26,"Sonora",2012,488557.58
+"mex","México",26,"Sonora",2013,510315.67
+"mex","México",26,"Sonora",2014,535720.34
+"mex","México",26,"Sonora",2015,588735.28
+"mex","México",26,"Sonora",2016,663322.55
+"mex","México",26,"Sonora",2017,724400.18
+"mex","México",26,"Sonora",2018,762906.18
+"mex","México",26,"Sonora",2019,776826.61
+"mex","México",26,"Sonora",2020,784272.91
+"mex","México",27,"Tabasco",2003,174628.45
+"mex","México",27,"Tabasco",2004,219781.99
+"mex","México",27,"Tabasco",2005,260510.67
+"mex","México",27,"Tabasco",2006,306835.95
+"mex","México",27,"Tabasco",2007,341289.31
+"mex","México",27,"Tabasco",2008,414905.27
+"mex","México",27,"Tabasco",2009,379235.27
+"mex","México",27,"Tabasco",2010,449415.17
+"mex","México",27,"Tabasco",2011,559158.19
+"mex","México",27,"Tabasco",2012,592703.44
+"mex","México",27,"Tabasco",2013,553628.2
+"mex","México",27,"Tabasco",2014,575966.4
+"mex","México",27,"Tabasco",2015,467499.1
+"mex","México",27,"Tabasco",2016,454246.6
+"mex","México",27,"Tabasco",2017,494910.4
+"mex","México",27,"Tabasco",2018,496651.44
+"mex","México",27,"Tabasco",2019,522236.66
+"mex","México",27,"Tabasco",2020,505726.44
+"mex","México",28,"Tamaulipas",2003,259340.87
+"mex","México",28,"Tamaulipas",2004,292431.74
+"mex","México",28,"Tamaulipas",2005,325281.02
+"mex","México",28,"Tamaulipas",2006,359094.87
+"mex","México",28,"Tamaulipas",2007,383429.09
+"mex","México",28,"Tamaulipas",2008,429771.35
+"mex","México",28,"Tamaulipas",2009,387891
+"mex","México",28,"Tamaulipas",2010,406896.62
+"mex","México",28,"Tamaulipas",2011,429862.78
+"mex","México",28,"Tamaulipas",2012,462474.74
+"mex","México",28,"Tamaulipas",2013,473241.4
+"mex","México",28,"Tamaulipas",2014,498626.18
+"mex","México",28,"Tamaulipas",2015,543674.07
+"mex","México",28,"Tamaulipas",2016,578652.51
+"mex","México",28,"Tamaulipas",2017,628044.54
+"mex","México",28,"Tamaulipas",2018,670038.21
+"mex","México",28,"Tamaulipas",2019,710052.14
+"mex","México",28,"Tamaulipas",2020,674740.82
+"mex","México",29,"Tlaxcala",2003,49095.69
+"mex","México",29,"Tlaxcala",2004,57789.55
+"mex","México",29,"Tlaxcala",2005,54034.75
+"mex","México",29,"Tlaxcala",2006,56021.51
+"mex","México",29,"Tlaxcala",2007,59806.4
+"mex","México",29,"Tlaxcala",2008,67699.51
+"mex","México",29,"Tlaxcala",2009,69236.59
+"mex","México",29,"Tlaxcala",2010,78454.87
+"mex","México",29,"Tlaxcala",2011,80052.25
+"mex","México",29,"Tlaxcala",2012,88109.74
+"mex","México",29,"Tlaxcala",2013,87657.64
+"mex","México",29,"Tlaxcala",2014,93828.44
+"mex","México",29,"Tlaxcala",2015,104631.19
+"mex","México",29,"Tlaxcala",2016,109834.48
+"mex","México",29,"Tlaxcala",2017,115780.85
+"mex","México",29,"Tlaxcala",2018,126199.82
+"mex","México",29,"Tlaxcala",2019,135597.48
+"mex","México",29,"Tlaxcala",2020,123325.43
+"mex","México",30,"Veracruz de Ignacio de la Llave",2003,349344.7
+"mex","México",30,"Veracruz de Ignacio de la Llave",2004,402187.89
+"mex","México",30,"Veracruz de Ignacio de la Llave",2005,425100.61
+"mex","México",30,"Veracruz de Ignacio de la Llave",2006,490348.1
+"mex","México",30,"Veracruz de Ignacio de la Llave",2007,532290.03
+"mex","México",30,"Veracruz de Ignacio de la Llave",2008,580224
+"mex","México",30,"Veracruz de Ignacio de la Llave",2009,578093.72
+"mex","México",30,"Veracruz de Ignacio de la Llave",2010,639238.48
+"mex","México",30,"Veracruz de Ignacio de la Llave",2011,701765.66
+"mex","México",30,"Veracruz de Ignacio de la Llave",2012,777750.65
+"mex","México",30,"Veracruz de Ignacio de la Llave",2013,781357.28
+"mex","México",30,"Veracruz de Ignacio de la Llave",2014,810516.49
+"mex","México",30,"Veracruz de Ignacio de la Llave",2015,833456.62
+"mex","México",30,"Veracruz de Ignacio de la Llave",2016,862619.63
+"mex","México",30,"Veracruz de Ignacio de la Llave",2017,918323.97
+"mex","México",30,"Veracruz de Ignacio de la Llave",2018,982970.96
+"mex","México",30,"Veracruz de Ignacio de la Llave",2019,1038909.44
+"mex","México",30,"Veracruz de Ignacio de la Llave",2020,988914.78
+"mex","México",31,"Yucatán",2003,100397.54
+"mex","México",31,"Yucatán",2004,110902.21
+"mex","México",31,"Yucatán",2005,123611.23
+"mex","México",31,"Yucatán",2006,135527.4
+"mex","México",31,"Yucatán",2007,147321.33
+"mex","México",31,"Yucatán",2008,159011.75
+"mex","México",31,"Yucatán",2009,164626.32
+"mex","México",31,"Yucatán",2010,175773.5
+"mex","México",31,"Yucatán",2011,188610.93
+"mex","México",31,"Yucatán",2012,209189.07
+"mex","México",31,"Yucatán",2013,215788.24
+"mex","México",31,"Yucatán",2014,232467.74
+"mex","México",31,"Yucatán",2015,247730.17
+"mex","México",31,"Yucatán",2016,275534.83
+"mex","México",31,"Yucatán",2017,304912.75
+"mex","México",31,"Yucatán",2018,330550.69
+"mex","México",31,"Yucatán",2019,347261.68
+"mex","México",31,"Yucatán",2020,332100.85
+"mex","México",32,"Zacatecas",2003,58551.35
+"mex","México",32,"Zacatecas",2004,67368.18
+"mex","México",32,"Zacatecas",2005,70551.11
+"mex","México",32,"Zacatecas",2006,81756.35
+"mex","México",32,"Zacatecas",2007,89738.45
+"mex","México",32,"Zacatecas",2008,102382.13
+"mex","México",32,"Zacatecas",2009,111392.95
+"mex","México",32,"Zacatecas",2010,130183.53
+"mex","México",32,"Zacatecas",2011,147947.21
+"mex","México",32,"Zacatecas",2012,157643.57
+"mex","México",32,"Zacatecas",2013,146858.79
+"mex","México",32,"Zacatecas",2014,156773.43
+"mex","México",32,"Zacatecas",2015,169623.33
+"mex","México",32,"Zacatecas",2016,187277.52
+"mex","México",32,"Zacatecas",2017,201906.84
+"mex","México",32,"Zacatecas",2018,206724.37
+"mex","México",32,"Zacatecas",2019,205737.97
+"mex","México",32,"Zacatecas",2020,212637.39
